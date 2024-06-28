@@ -1,0 +1,1235 @@
+row{
+     display:block;
+}
+
+
+l{
+     display:inline;
+}
+
+
+note[type="footnote"] * {
+    color:brown;
+    font-size:0.8rem;
+}
+
+note[type="footnote"] data-term {
+    color:blue;
+    font-size:0.8rem;
+display:inline;
+}
+
+note[type="footnote"] data-definition {
+    color:green;
+    font-size:0.8rem;
+display:inline;
+}
+
+anchor[target]{
+     display:none;
+}
+
+
+errors{
+     display:none;
+}
+
+cell[type="data-term"]{
+     font-style:italic;
+}
+
+cell[type="data-term"]:after{
+     content:": ";
+}
+
+cell[type="position"]:after{
+     content:"   ";
+}
+
+
+cell[type="page"]{
+     font-size:x-small;
+     font-weight:bold;
+}
+
+
+note[type="footnote"]:before{
+    content:'fodnote';
+    font-size:0.4rem;
+    color:blue;
+}
+quote, div[type='work'] > epigraph{
+     font-size:0.8rem;
+}
+
+p{
+     display:inline;
+     margin-bottom:0em;
+     margin-top:0em;
+}/*
+ * display:inline-block;
+ * margin-top 0.2em*/
+
+signed[rend~="firstIndent"], label[rend~="firstIndent"]
+{
+     margin-left:50px;
+
+}/* anything but l[rend~="firstIndent"] */
+
+
+p[rend~="hangingIndent"] {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} /*html css: padding-left*/
+
+/*  2023-06-20: testing the importance of the line:
+ *     white-space: -oxy-trim-when-ws-only !important;
+ * */
+
+salute:after {
+     content:"\A***hilsen (salute). Hvis anvendt i slutning, så husk at indlejre i <closer>***";
+     color:blue;     
+     font-size:0.8rem;
+}
+
+signed {
+     display: inline-block;
+     margin-top: 0rem;
+     margin-bottom: 0rem;
+     }
+     
+
+salute {
+     display: inline-block;
+     margin-top: 0rem;
+     margin-bottom: 0rem;
+     }
+
+closer{
+     display:inline;
+}
+
+app{
+     color:purple;
+font-size:0.8rem;
+}
+
+lem:before{
+     content:"den rettede ordlyd";
+color: blue;
+font-size:0.8rem;
+}
+
+
+rdg:before{
+     content:"den oprindelige, fejlbehæftede ordlyd";
+color: blue;
+font-size:0.8rem;
+}
+
+
+signed:after {
+     content:"\A***underskrift (signed). Husk at indlejre i <closer>***";
+     color:blue;
+     font-size:0.8rem;
+}
+
+
+volume:after {
+     content:"***volume***";
+     color:blue;
+     font-size:0.8rem;
+}
+
+
+date:after {
+     content:"***dato***";
+     color:blue;
+     font-size:0.8rem;
+}
+
+
+persName {
+     color:red;
+}
+
+volumeTitle {
+     color:brown;
+}
+
+
+volumeTitle:after {
+     content:"***bindets titel***";
+     color:blue;
+     font-size:0.8rem;
+}
+
+idno[type='ISBN']{
+     color:green;
+}
+
+
+
+
+postscript {
+     margin-top: 4rem;     
+}
+
+
+
+
+floatingText[type="letter"] {
+     margin-top: 4rem;
+     margin-bottom: 4rem;
+}
+
+floatingText[type="letter"]:before {
+     content:"****her begynder brevet***";
+     color:blue;
+}
+
+floatingText[type="poem"]:before {
+     content:"****her begynder floatingText type=poem***";
+     color:blue;
+font-size:0.8rem;
+}
+
+floatingText[type="poem"]:after {
+     content:"****her slutter floatingText type=poem***";
+     color:blue;
+font-size:0.8rem;
+}
+
+floatingText[type="prose"]:after {
+     content:"***her slutter floatingText type=prose***";
+     color:blue;
+font-size:0.8rem;
+}
+floatingText[type="letter"]:after {
+     content:"***her slutter brevet***";
+     color:blue;
+font-size:0.8rem;
+}
+
+floatingText:not([type]):after{
+     content:"***tilføj attribut type***";
+     color:blue;
+}
+
+floatingText[subtype="drama"]:after, floatingText[type="drama"]:after {
+     content:"\A***her slutter dramaet***";
+     color:blue;
+font-size:0.8rem;
+}
+
+floatingText[subtype="drama"]:before, floatingText[type="drama"]:before {
+     content:"***her begynder floatingText type drama***\A";
+     color:blue;
+font-size:0.8rem;
+}
+
+floatingText[attribute="xml:id"]:before {
+     content:"***her begynder en floatingText med xml:id***";
+     color:blue;
+     }
+head[type="sub"]{
+
+     font-size:0.8rem;
+}
+
+/*head[subtype="typeOfSinging"]{
+
+     margin-left:60px;
+}*/
+head[subtype="melody"] * {
+     font-style:italic;
+display:block;
+font-size:0.8rem;
+}
+
+
+
+/*margin-left:80px;*/
+
+/*div[type="work"]:not([rendition]) head[subtype="melody"] * {
+margin-left:80px;
+}
+/\* indent head melody unless ancestor has rendition verse (and no ancestor floatingText type="song". Maybe instead give head subtype melody a rendition="noIndent" when ancestor of head has rendition="verse") *\/*/
+
+
+
+
+*[rend~="supplied"]{
+     color:grey;
+} 
+stage:not([type]), speaker{
+font-size:0.8rem;
+     /*font-style:italic;*/
+}
+
+/**[type="styleOfSinging"]{
+     margin-left:60px;
+}<!--stage og head-->*/
+
+
+stage[type="styleOfSinging"]{
+font-size:1rem;
+     /*recitativ, aria mv. Term ikke fundet i */
+}
+
+stage[type="styleOfSinging"]:before{
+     content:"<stage> vises med kursiv, normal størrelse. Til forskel fra head er stage UDEN blank linje efter elementet. Angivelse af sangens type (recitativ, arie, mv.)\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+
+head[type="styleOfSinging"]:before{
+     content:"<head> vises med kursiv, normal størrelse. Til forskel fra <stage> er head MED blank linje efter elementet. Angivelse af sangens type (recitativ, arie, mv.)\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+head[type="styleOfSinging"]{
+     font-size:1rem;
+}
+
+
+
+/*p[rend~="right"]:before {
+color:blue;
+    content:"***højrestillet afsnit***\A";
+
+}*/
+
+/*note[footnote]{
+     font-size:0.8rem;
+     color:grey;
+}
+*/
+source{
+     color:dimgray;
+}
+sourceTitle{
+     color: green;
+}
+sourceDate, docDate{
+     color: red;
+}
+
+div[type="scene"]:before {
+color:blue;
+    content:"***ny scene (div type scene)***\A";
+
+}
+
+
+div[type="index"]:before {
+color:blue;
+    content:"***Register, husk <list>, der indeholder <item>, som indeholder <term> og <ref>***";
+
+}
+
+term{
+     color:green;
+}
+
+
+ref{
+     color:orange;
+}
+
+ref:before{
+     content:"sidetal: ";
+color: blue;
+font-size:0.8rem;
+}
+
+div[type="work"]:before {
+color:blue;
+    content:"***Nyt værk***";
+
+}
+
+div[type="chapter"]:before {
+color:blue;
+    content:"***Nyt kapitel***\A";
+
+}
+
+div[type="workPart"]:before {
+color:blue;
+    content:"***Nyt afsnit (div) med karakter af separat værk (workPart)***\A";
+font-size:0.8rem;
+
+}
+
+
+div[type="part"]:before {
+color:blue;
+    content:"***Nyt del af roman, skuespil m.v.***";
+font-size:0.8rem;
+
+
+}
+
+l[subtype='firstline']:after{
+     color:blue;
+    content:"***førstelinje (subtype firstline) i lyrisk værk***";
+font-size:0.8rem;
+
+}
+
+cit:before {
+     content:"Nyt citat begynder. (Ved indryk, husk at opmærke teksten som verslinje, lg+l)";
+     color:blue;
+     font-size:0.8rem;
+}
+
+sp:before {
+     content:"\A\ANy replik begynder.";
+     color:blue;
+     font-size:0.8rem;
+}
+
+sp:after {
+     content:"Replik slutter.";
+     color:blue;
+     font-size:0.8rem;
+}
+
+bibl:after {
+     content:"\A**Kilden til citatet, skal oftest være højrestillet (rend='right')**";
+     color:blue;
+     font-size:0.8rem;
+}
+
+cit{
+     display:block;
+     font-size:0.8rem;
+}
+l > data-definition:after, p > data-definition:after{
+     content:'\A';
+}
+
+set {
+     display:block;
+}
+
+castItem:not([rend~="standardSize"]){
+     font-size:0.8rem;
+}
+
+head[rend~="standardSize"]{
+font-size:1rem;
+}
+
+
+set * {
+font-size:0.8rem;
+}
+
+set:before {
+     font-size:0.8rem;
+color:blue;
+content: "regibemærkning i <set>\A";
+     
+}
+
+roleDesc[rowspan]:before{
+     content:"]";
+font-size:2.0rem;
+vertical-align: sub;
+}
+
+
+cell[rowspan]:first-child:after{
+     content:"[";
+font-size:2.0rem;
+vertical-align: sub;
+}
+
+
+cell[rowspan]:last-child:before{
+     content:"]";
+font-size:2.0rem;
+vertical-align: sub;
+}
+
+span[type="unison"]{
+     content:"[";
+font-size:2.0rem;
+vertical-align: sub;
+}
+
+castGroup:before{
+font-size:0.8rem;
+color:blue;
+content: "i en castGroup beskrives de flg. roller (role+roleDesc) under ét efter den kantede parentes ]\A";
+}
+
+castGroup:after{
+font-size:0.8rem;
+color:blue;
+content: "castGroup slutter]\A";
+}
+
+
+castGroup{
+     display:inline;
+}
+
+roleDesc, role{
+     font-size:0.8rem;
+}
+
+castItem{
+     display: block;
+}
+
+role, roleDesc{
+     display: inline;
+}
+
+
+p[rend~="firstIndent"]:before 
+{
+    content:"     ";
+
+}/*  text-indent: 50px; */
+
+/*l[rend~="firstIndent"]:before, *[rend~="firstIndent"]:before {
+     content:"               ";
+}*/
+l[rend~="firstIndent"]{
+     margin-left:120px;
+}
+
+
+/*2023-10-09: asterisk skal indkredses. Overføres ikke til ODD*/
+/**[rend~="firstIndent"]:before {
+     content:"               ";
+}*/
+
+*[rend~="secondIndent"]:before {
+    content:"    **secondIndent***";
+    color: blue;
+    font-size: 0.8rem;
+
+}
+/*til ODD: husk test rendition=verse*/
+
+
+*[rend~="thirdIndent"]:before {
+    content:"    *********thirdIndent***";
+    color: blue;
+    font-size: 0.8rem;
+
+}
+/* html css add margin-left: yyyy em */
+
+
+*[rend~="thirdIndent"]:before {
+    content:"    ********thirdIndent****";
+    color: blue;
+    font-size: 0.8rem;
+
+}
+
+/*p[rend~="secondIndent"]:before, l[rend~="secondIndent"]:before, *[rend~="secondIndent"]:before*/
+
+/*
+ * 
+ * lg + stage:before, l + stage:before {
+     content:"                                            ";
+
+}
+*/
+/*lg + stage, l + stage */
+/*
+ * 2023-09-28: frasorteret. Brug i stedet stage rend right
+ * lg + stage, l + stage {
+     text-align: right;
+display: block;
+}*/
+
+[rend~="right"]{
+     display:block;     
+text-align: right;
+}
+
+*[rend~="secondIndentRight"]{
+     margin-right:120px;
+}
+
+*[rend~="secondIndentRight"]:after {
+     content:"*\Ahøjrestillet+to indryk*";
+     color: blue;
+     font-size:0.8rem;
+}
+
+front:before{
+     content:"*wrapper til titelblad (front). Husk children: front>titlePage>docTitle og docImprint m.v.\A*";
+     color: blue;
+     font-size:0.8rem;
+}
+titlePage:before{
+     content:"*titlePage. Husk children: docTitle og docImprint m.v.\A*";
+     color: blue;
+     font-size:0.8rem;
+}
+
+docTitle:before{
+     content:"*titlen. Husk children: titlePart og sibling docImprint\A*";
+     color: blue;
+     font-size:0.8rem;
+}
+docImprint:before{
+     content:"*docImprint. Oplysning om udgivelsesår (evt. trykkested)\A*";
+     color: blue;
+     font-size:0.8rem;
+}
+/*
+*[rend~="secondIndentRight"]:after {
+     content:"                      ";
+}*/
+*[rend~="secondIndentRight"],[rend~="firstIndentRight"] {
+     text-align: right;
+display:block;
+}
+
+
+
+*[rend~="firstIndentRight"]:before {
+     content:"**højrestillet+et indryk**";
+     color: blue;
+     font-size:0.8rem;
+}
+
+
+/**[rend~="firstIndentRight"]:after {
+     content:"       ";
+}
+
+*[rend~="firstIndentRight"]:after {
+     content:"       ";
+}*/
+
+*[rend~="firstIndentRight"]{
+     margin-right:50px;
+
+}
+
+table[rend~="textdeviations"]:before {
+     content:"***tabel med TEKSTRETTELSER/-afvigelser (ikke punktkommentarer)*****                                             ";
+     color: blue;
+     font-size:0.8rem;
+}
+
+cell[type="position"] {
+     color: orange;
+     font-size: 0.8rem;
+}
+
+
+
+
+table[rend~="textcomments"]:before {
+     content:"***tabel med PUNKTKOMMENTARERER (ikke tekstrettelser/-afvigelser)*****                                             ";
+     color: blue;
+     font-size:0.8rem;
+}
+
+
+/*sp > stage:before {
+     content:"            }                                "
+}*/
+
+
+/*
+l{
+     display:block;
+}*/
+
+/* lg:before {
+     content:"                                                                       ";
+} */
+cit {
+     font-size: 0.8rem;
+margin-left:60px;
+}
+
+
+/*bibl{
+     font-size: 0.8rem;
+display:inline;
+}*/
+
+cit:before{
+content:"Motto begynder\A          ";
+color:blue;
+font-size:0.8rem;
+}
+
+cit:after{
+     content:"\A";
+     }
+
+
+
+div[type='preface'] *
+{
+     font-size: 0.8rem;
+    }
+
+    div[type='preface']:before p{
+     content:"\A";
+    }
+    div[type='preface']:after p{
+     content:"\A";
+    }
+
+pb::after {
+     content: 'Side ' attr(n) '';
+     color: salmon;
+ }
+
+
+sourceTitle, sourceDate{
+     display:block;
+
+}
+
+bibl::before{
+     content:"\A";
+     
+}
+data-term{
+     font-size:0.7rem;
+     color: blue;
+     text-decoration:underline;
+}
+
+data-definition{
+     font-size:0.7rem;
+     color: darkgreen;
+     text-decoration:underline;
+}
+
+
+anchor[type='continued']{
+     display:inline;
+     background-color:grey;
+     
+}
+
+
+lemma,seg,data-definition,data-term{
+     display:inline;     
+}
+
+
+
+hi[rend~='italic']{
+     font-style: italic;
+     display: inline;
+}
+
+hi[rend~='bold']{
+     font-weight: bold;
+     display: inline;
+}
+
+hi[rend~='normal']{
+     font-style: normal;
+     display: inline;
+}
+
+
+
+hi[rend~='smaller'] *{
+     font-size: smaller;
+     
+}
+div[type="preface"]:before{
+     content:"**** fortale\A";
+     color:blue;
+}
+/* 2023-03-09 check whether it works on descendants of quote */
+ lg:after {
+     content:"\A";
+} 
+ lg:before {
+     content:"\A";
+} 
+
+/*
+l[rend~="center"]:before {
+     content:"                   "
+}
+
+
+p[rend~="center"]:before {
+     content:"                                      ";
+     /\*text-align: center;*\/
+}
+*/
+
+[rend~="center"]{
+     text-align: center;
+display: block;
+}
+
+div lg:before {
+     content:"\ANy strofe begynder\A";
+     color:blue;
+     font-size:0.8rem;
+}
+
+sp>lg:before {
+     content:"Ny strofe begynder";
+     color:blue;
+     font-size:0.8rem;
+}
+
+hi[rend~='larger'] {
+     font-size:1.8rem;
+}
+
+graphic[type='blank']:after{
+     content:'blank linje som mellemrubrik/separator\A';
+     color:blue;
+     font-size: 0.8rem;
+}
+
+graphic[type='shortLine']:before{
+     content:'                ————\A';
+     
+}
+
+graphic[type='shortLine']:after{
+     content:' KORT linje som mellemrubrik/separator ';
+     color:blue;
+     font-size: 0.8rem;
+}
+
+
+graphic[type='longLine']:before{
+     content:'\A ————————————————— ';
+     
+}
+
+graphic[type='longLine']:after{
+     content:' LANG linje som mellemrubrik/separator   ';
+     color:blue;
+     font-size: 0.8rem;
+}
+
+
+
+/*sp > lg:before {
+     content:"         "
+}
+*/
+p[rend~="noIndent"] 
+{  
+    
+     
+     }
+/*white-space: -oxy-trim-when-ws-only !important;*/
+    
+ head[type="main"], head[type="act"], head[type="main-comments"] {
+     font-size:1.7rem;
+     display:block;
+}
+
+head[type="section-comments"], head[type="setting"], head[type="scene"], castList head {
+     font-size:1.4rem;
+     display: block;
+}
+
+head[subtype="melody"]:after {
+      content: "melodiangivelse (subtype=melody)\A";
+color:blue;
+font-size:0.8rem;
+     }
+
+head:not([subtype])[type='sub']:after {
+     content:"værkets underoverskrift";
+     font-size:0.8rem;
+     color:blue;
+}
+
+
+
+*[type='sourceData']:before{
+     content:"argument type sourceData = oplysninger indtil BFN-nummeret skal vises i faktaboksen t.h. for værket på hcandersen.dk. Hvis der er mere end et p-element, skal disse p-elementer omgives med tagget <argument type=sourceData>...</argument>. Markeres med brun tekst\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+argument[type='sourceData'], head[type="section-comments"] + p{
+     color:brown;
+}
+
+
+
+
+head[rend]:after {
+     content:"Fjern attributen rend. Indsæt attributten type='main|sub|section'";
+     font-size:0.8rem;
+     color:blue;
+}
+
+head[type='section'] {
+     font-size: 1.2rem;
+}
+
+head[type='part'] {
+     font-size: 1.2rem;
+}
+
+
+
+head[type='section']:after {
+     content:"overskrift ved kapitel\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+head[type='part']:after {
+     content:"\Aunderoverskrift ved kapitel\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+l+seg[type]:after{
+     content:'linjeskift autoindsat efter længere kommentar\A';
+color:blue;
+}
+
+
+lg>head:after {
+     content:"overskrift til digt\A";
+     font-size:0.8rem;
+     color:blue;
+    
+}
+
+/*sp>lg{
+     text-indent:50px;     
+}*/
+
+*[subtype='foreign'], shift, shift *{
+     color: gray;
+}
+
+shift{
+     display:inline;
+}
+
+lb:after{
+     content:"\A <lb/> = ny linje begynder";
+color:blue;
+font-size:0.8rem;
+}
+
+head[subtype='foreign']:after{
+     content: "\ATitel tilføjet af andre end Andersen. Derfor markeret med grå skriftfarve i den trykte udgave";
+color: blue;
+}
+
+
+
+row:before{
+     content:'række i tabellen\A';
+color:blue;
+font-size:0.8rem;
+}
+
+cell:before{
+     content:'ny celle';
+color:blue;
+font-size:0.8rem;
+}
+
+floatingText[type="song"]:before{
+     content:" indlejret sang begynder\A";
+color:blue;
+font-size:0.8rem;
+}
+
+
+floatingText[type="song"]:after{
+     content:" indlejret sang slutter\A";
+color:blue;
+font-size:0.8rem;
+}
+
+/*floatingText[type="song"] l{
+     margin-left:60px;
+}*/
+
+
+lg>head:before  {
+     content:"          ";
+}
+
+l:not([rend]){
+     margin-left:60px;
+}
+/* 2023-12-03: tilføjet rend */
+
+div[subtype="poem"] l:not([rend]){
+     margin-left:0px;
+}
+
+
+div[subtype="poem"] floatingText[type="song"] l:not([rend]),
+*[rendition="verse"] floatingText[type="song"] l:not([rend]),
+*[rendition="verse"] floatingText[type="song"] sp > stage:not([rend]),
+*[rendition="verse"] floatingText[type="song"] head,
+floatingText[type="song"] head[subtype="melody"]
+ {
+     margin-left:80px;
+}
+/*both div rendition and floatingText rendition
+ * div[rendition="verse"] floatingText[type="song"] > stage:not([rend])*/
+
+
+
+
+/**[rendition="verse"] floatingText[type="song"] l[rend~="firstIndent"], *[subtype="poem"] floatingText[type="song"] l[rend~="firstIndent"] {
+     margin-left:60px;
+}*/
+/*
+div[subtype="poem"]*/
+ floatingText[type="song"] > l[rend~="firstIndent"],
+ floatingText[type="song"] > lg > l[rend~="firstIndent"],
+floatingText[type="song"] > sp l[rend~="firstIndent"]
+
+ {
+     margin-left:120px;
+}
+
+/*floatingText[type="song"] l[rend~="firstIndent"]{
+     margin-left:150px;
+}*/
+
+
+*[rendition="verse"] l:not([rend]){
+     margin-left: 0px;
+}/*changed subtype="verse" to rendition verse*/
+
+
+*[rendition="verse"] l{
+     margin-left: 0px;
+}
+
+/**[rendition="verse"] floatingText[type="song"] l{
+     margin-left: 60px;
+}*/
+
+
+
+
+
+speaker + stage, lg>stage {
+display: inline;
+}
+
+stage[rend~="firstIndent"] {
+display: inline;
+margin-left:60px;
+}
+
+stage[type="setting"]{
+font-size:0.8rem;
+display:block;
+padding-bottom:40px;
+padding-top: 0px;
+}/* ensure that there is no spacing between head and this element */
+ /* har normal skriftstørrelse 
+  */
+
+
+stage[type="setting"]:after{
+content:'\A<stage type="setting"> - bruges typisk i begyndelsen af en akt/scene til at beskrive sceneriet';
+color: blue;
+font-size:0.8rem;
+}
+
+
+
+stage[type="set"]:after{
+content:'\A'
+}
+/* blank linje efter stage type=set i begyndelsen af scenen */
+
+hi[rend~="raised"]{
+     vertical-align: super;
+font-size: 0.8rem;
+}
+
+hi[rend~="raised"]:after{
+     content:'**hi rend raised**';
+color:blue;
+font-size:0.8rem;
+}
+
+
+/**/
+
+/**[type="drama"] stage, *[subtype="drama"] stage,*/
+
+
+
+speaker:before{
+     content:"<speaker>: de(n) talende figur(er) (i versaler) \A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+castList:before{
+     content:"<castList>: rollelisten i et skuespil\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+castList:after{
+     content:"\A<castList> slutter";
+     font-size:0.8rem;
+     color:blue;
+}
+
+set:before{
+      content:"<set>: den indledende beskrivelse af skuepladsen for  et skuespil. Vises med mindre skrift\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+castItem:before{
+     content:"<castItem>: rollen i et skuespil. Skal indeholde role. Kan indeholde roleDesc, actor\A";
+     font-size:0.8rem;
+     color:blue;
+}
+
+actor:before{
+content:'          <actor>:';
+     font-size:0.8rem;
+     color:blue;
+}
+
+roleDesc:after{
+content:'=<roleDesc>';
+     font-size:0.8rem;
+     color:blue;
+}
+
+/*stage immediately preceded by sibling speaker*/
+
+/* speaker > stage = 0px*/
+
+
+speaker[rend~="firstIndent"]{
+     margin-left:60px;
+}
+
+floatingText[type="song"] sp > stage:not([type]), floatingText[type="song"] lg > stage:not([type]) {
+margin-left:120px;
+     /*margin-left:120px;*/
+/* omit stage type="styleOfSinging */
+}
+
+
+*[rendition="verse"] floatingText[type="poem"] l{
+     margin-left:60px;
+}
+
+
+*[rendition="verse"] floatingText[type="poem"][rendition="verse"] l{
+     margin-left:0px;
+}
+
+*[rendition="verse"] l[rend~="firstIndent"] {
+     margin-left: 60px;
+}
+
+
+span[type="unison"]:before {
+     content:"afsnit med unisone replikker begynder, jf. den kantede tuborgklamme t.v. for tekstspalten i PDF'en: \A";
+     font-size:0.8rem;
+     color:blue;
+background-color:lightblue;
+}
+
+anchor[type="unison"]:after {
+     content:"afsnit med unisone replikker slutter, jf. den kantede tuborgklamme t.v. for tekstspalten i PDF'en: ]\A";
+     font-size:0.8rem;
+     color:blue;
+background-color:lightblue;
+}
+
+
+titlePart[type="main"]{
+display: inline;
+font-size:2.0rem;    
+}
+titlePart[type="part"]{
+display: inline;
+font-size:1.8rem;    
+}
+
+titlePart[type="sub"]{
+display: inline;
+font-size:1.6rem;    
+}
+
+trailer{
+     font-size:0.8rem;
+}
+
+trailer:after{
+     content: "\A Elementet <trailer> på forudgående linje bruges ved sammenkædning af en fortløbende artikel, der udkom fordelt over flere numre/hæfter af et periodikum (tidsskrift, avis, m.v.)";
+color:blue;
+font-size:0.8rem;
+
+}
+
+dateline:after{
+     content: "\A dateline. Datering af et brev, som oftest i dets begyndelse. Har altid en blank linje under sig. Findes ingen blank linje, brug da p rend=right";
+color:blue;
+font-size:0.8rem;
+}
+
+signed:after{
+     content: "\A signed. Underskrift på et brev. Omklamres af closer";
+color:blue;
+font-size:0.8rem;
+}
+postscript:before{
+     content: "postscript. Efterskrift i et brev. Placeres efter closer";
+color:blue;
+font-size:0.8rem;
+}
+
+address:after{
+     content: "\A address = adresse på et brev. Oftest placeret nederst. Omklamres af closer";
+color:blue;
+font-size:0.8rem;
+}
+
+
+
+
+
+/*castGroup:before{
+     content:"<castGroup>, element der sættes rundt om afsnit i rollelisten. Markeret ved kantet parentes,\A";
+color:blue;
+font-size:0.8rem;
+}*/
+
+
+speaker > stage{
+     display:inline;
+}/* leave out: font-style:"italic";*/

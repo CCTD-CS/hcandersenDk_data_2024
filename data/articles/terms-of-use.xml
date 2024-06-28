@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" target="../../pmm-stil/txtHCA.xsl"?>
+<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:space="preserve" xml:id="" type="print">
+ <teiHeader>
+    <fileDesc>
+     <titleStmt>
+      <title>Terms of Use</title>
+      <author>The Hans Christian Andersen Centre</author><!--Holger Berg-->
+          <editor role="data">Holger Berg</editor>
+     </titleStmt>
+         <publicationStmt>
+            <publisher>The Hans Christian Andersen Centre, University of Southern Denmark, Odense</publisher>
+            <availability>
+            <p>Creative Commons, BY-NC-SA</p>
+                 <p>Draft, not for public accession</p>
+            </availability>
+            <idno type="version1.0">1.0</idno>
+            <date>2022-11-10</date>
+         </publicationStmt>
+         <sourceDesc>
+              <notesStmt>
+               <note xml:id="thisFile" target="terms-of-use.xml" type="txt">Copy text</note>
+          </notesStmt>
+         </sourceDesc>
+      </fileDesc>
+        
+     <revisionDesc>
+          <change who="NHB" when="2022-11-10" status="draft">created</change>
+     </revisionDesc>
+   </teiHeader>
+
+     <text subtype="pmmProse" type="ms">
+   <body>
+        <div>
+             <head type="main">Terms of use for <hi rend="italic">Hans Christian Andersen's
+Fairy Tales and Stories</hi>. Translated by John Irons in collaboration with Jacob Bøggild and Mads Sohl Jessen.
+Published by The Hans Christian Andersen Centre at the University of Southern Denmark</head>
+             <div>
+                  <p rend="noIndent">The Hans Christian Andersen Centre at the University of Southern
+Denmark releases all contents on the website under the following
+license: <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International</ref>. Please
+consult the Creative Commons website for a full explanation of the
+terms of use: <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</ref>.
+A commercial reuse is not allowed without explicit permission. If
+you need such a permission for commercial use, please contact The
+Hans Christian Andersen Centre.</p>
+             <p rend="noIndent">The Hans Christian Andersen Centre will not answer any questions
+regarding the non-commercial licensing permissions. Most questions
+in this regard are answered at the Creative Commons website. If you do not find an answer, you will need to consult a person with legal expertise.</p>
+             <p rend="noIndent">We add an easy-to-read summary of the license. This human-readable summary is drawn from the Creative Commons website. It is not a substitute for the <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">license</ref>. <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/#">Disclaimer</ref>. </p>
+                  <p rend="right">Odense, November 17, 2022</p>
+        </div>
+        
+        <div>
+             <div>
+                  <title type="main">You are free to:</title>
+                  <list class="ordered">
+                    <item class="license share" rel="cc:permits" resource="http://creativecommons.org/ns#Distribution">
+                         <hi rend="bold">Share</hi> — copy and redistribute the material in any medium or format
+                    </item>
+                    <item class="license remix" rel="cc:permits" resource="http://creativecommons.org/ns#DerivativeWorks">
+                         <hi rend="bold">Adapt</hi> — remix, transform, and build upon the material
+                    </item>
+                  </list>
+             </div>
+             <div>
+                  <list id="license-freedoms-no-icons" style="text-align: center" class="col-sm-offset-2 col-sm-8">
+               <item class="license">The licensor cannot revoke these freedoms as long as you follow the license terms.</item>
+          </list>
+             </div>
+             <div>
+                  <div id="deed-conditions" class="row">
+          <title style="text-align: center">Under the following terms:</title>
+          <list >
+               <item class="license by"><hi rend="bold">Attribution</hi> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</item>
+               <item class="license nc" rel="cc:prohibits" resource="http://creativecommons.org/ns#CommercialUse">
+                    
+<hi rend="bold">NonCommercial</hi> — You may not use the material for commercial purposes.
+
+               </item>
+               <item class="license sa" rel="cc:requires" resource="http://creativecommons.org/ns#ShareAlike">
+                    <p>
+<hi rend="bold">ShareAlike</hi> — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+               </item>
+          </list>
+     </div>
+             </div>
+        <div class="row">
+             <p><hi rend="bold">No additional restrictions</hi> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+        </div>
+        </div>
+        </div>
+        <div xml:id="cookies">
+             <title type="main">Cookie information</title>
+             <div>
+                  <p rend="noIndent">We use two cookies that are both stricly necessary for the function and continued development of the website. You cannot deselect these cookies. The information gathered through the cookies are not shared with any third parties. You can find detailed information on the cookie policy of our university at <ref target="https://www.sdu.dk/en/om_sdu/om_dette_websted/brug_af_cookies">https://www.sdu.dk/en/om_sdu/om_dette_websted/brug_af_cookies</ref>.</p><!-- This information can also be <ref target="{app}/articles/cookies-sdu.pdf" type="web">downloaded as a PDF</ref>.-->
+                  <list type="ordered">
+                       <item><hi rend="bold">Session ID cookie</hi>. The cookie is only active during the visit (session). It is mostly erased automatically from the browser when it is closed.
+</item>
+                       <item><hi rend="bold">Web analytics cookie from SiteImprove</hi>. This cookie is made to find discrepancies so we can improve the user experience on our website, and contains a randomly generated ID that is used to recognize your browser when you read a page. The cookie contains no personal information and is used only for web analysis. The cookie is set to expire 1000 days after your last visit and is a persistent cookie.</item>
+                  </list>
+                  <p>
+
+</p>
+             </div>
+        </div>
+   </body>
+ </text>
+</TEI>         

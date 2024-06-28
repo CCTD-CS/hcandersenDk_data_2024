@@ -1,0 +1,3972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="indexUpdateSV.xsl"?>-->
+<!--itemNum
+   indexUpdateParanthesis
+   indexUpdate
+   addTitles
+   modified subset of the list at https://andersen.sdu.dk/vaerk/register/eventyr.html?sort=2 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:TEI="http://www.tei-c.org/ns/1.0" xml:lang="da">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="da"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Andersen</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>modified subset of the list at <ref target="https://andersen.sdu.dk/vaerk/register/eventyr.html?sort=2" type="web">https://andersen.sdu.dk/vaerk/register/eventyr.html?sort=2</ref>
+            </p>
+         </sourceDesc>
+         <!-->([^<]+)</title>[\s\n]*<title xml:lang="en" id="Irons">\1-->
+      </fileDesc>
+        <revisionDesc>
+             <listChange>
+                  <change who="NHB" when="2022-06-30" status="draft">removed duplicate item num = 200</change>
+                  <change who="NHB" when="2022-11-09" status="draft">updated capitals</change>
+                  <change who="NHB" when="2023-01-25" status="draft">added item/@n </change>
+                  <change who="NHB" when="2023-01-25" status="draft">calibrated order to fit with SV.xml, until 114 Sneglen</change>
+                  </listChange>
+        </revisionDesc>
+        
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <list>
+<!--bind 1 START-->
+   <item>
+      <title xml:lang="da">Dödningen</title>
+      <date>1830</date>
+      <catRef target="#tale"/>
+      <idno type="SV">doedningen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det sjunkne Kloster</title>
+      <date>1831</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-sjunkne-kloster</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fyrtøiet</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">fyrtoeiet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lille Claus og store Claus</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lille-claus-og-store-claus</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Prindsessen paa Ærten</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">prindsessen-paa-aerten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den lille Idas blomster</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-lille-idas-blomster</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tommelise</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">tommelise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den uartige Dreng</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-uartige-dreng</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Reisekammeraten</title>
+      <date>1835</date>
+      <catRef target="#tale"/>
+      <idno type="SV">reisekammeraten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaahistorier</title>
+      <date>1836</date>
+      <catRef target="#tale"/>
+      <idno type="SV">smaahistorier</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den lille Havfrue</title>
+      <date>1837</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-lille-havfrue</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Keiserens nye Klæder</title>
+      <date>1837</date>
+      <catRef target="#tale"/>
+      <idno type="SV">keiserens-nye-klaeder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gaaseurten</title>
+      <date>1838</date>
+      <catRef target="#tale"/>
+      <idno type="SV">gaaseurten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den standhaftige Tinsoldat</title>
+      <date>1838</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-standhaftige-tinsoldat</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De vilde Svaner</title>
+      <date>1838</date>
+      <catRef target="#tale"/>
+      <idno type="SV">de-vilde-svaner</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paradisets Have</title>
+      <date>1839</date>
+      <catRef target="#tale"/>
+      <idno type="SV">paradisets-have</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den flyvende Kuffert</title>
+      <date>1839</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-flyvende-kuffert</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Storkene</title>
+      <date>1839</date>
+      <catRef target="#tale"/>
+      <idno type="SV">storkene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den onde Fyrste</title>
+      <date>1840</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-onde-fyrste</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ole Lukøie [eventyret]</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">ole-lukoeie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Rosen-Alfen</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">rosen-alfen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Svinedrengen</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">svinedrengen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Boghveden</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">boghveden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Engelen</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">engelen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nattergalen</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">nattergalen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kjærestefolkene</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">kjaerestefolkene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den grimme Ælling</title>
+      <date>1842</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-grimme-aelling</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Grantræet</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">grantraeet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sneedronningen</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">sneedronningen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hyldemoer [eventyret]</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hyldemoer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Elverhøi</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">elverhoei</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De røde Skoe</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">de-roede-skoe</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Springfyrene</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">springfyrene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hyrdinden og Skorsteensfeieren</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hyrdinden-og-skorsteensfeieren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Holger Danske</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">holger-danske</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Klokken</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">klokken</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Historie</title>
+      <date>1845</date>
+      <catRef target="#tale"/>
+      <idno type="SV">en-historie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">To Billeder fra Kjøbenhavn</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">to-billeder-fra-kjoebenhavn</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den gamle Gadeløgte</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-gamle-gadeloegte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nabofamilierne</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">nabofamilierne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Stoppenaalen</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">stoppenaalen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lille Tuk</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lille-tuk</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Skyggen</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">skyggen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det gamle Huus</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-gamle-huus</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vanddraaben</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">vanddraaben</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den lille Pige med Svovlstikkerne</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-lille-pige-med-svovlstikkerne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den lykkelige Familie</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-lykkelige-familie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Historien om en Moder</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">historien-om-en-moder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Flipperne</title>
+      <date>1847</date>
+      <catRef target="#tale"/>
+      <idno type="SV">flipperne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hørren</title>
+      <date>1849</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hoerren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lykkens Kalosker</title>
+      <date>1850</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lykkens-kalosker</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fugl Phønix</title>
+      <date>1850</date>
+      <catRef target="#tale"/>
+      <idno type="SV">fugl-phoenix</idno>
+   </item>
+<!--bind 1 SLUT-->
+<!--bind 2 START-->
+
+   <item>
+      <title xml:lang="da">»Der er Forskjel«</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">der-er-forskjel</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den gamle Liigsteen</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-gamle-liigsteen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Aarets Historie</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">aarets-historie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Verdens deiligste Rose</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">verdens-deiligste-rose</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Billede fra Castelsvolden</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">et-billede-fra-castelsvolden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paa den yderste Dag</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">paa-den-yderste-dag</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det er ganske vist!</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-er-ganske-vist</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Svanereden</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">svanereden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et godt Humeur</title>
+      <date>1852</date>
+      <catRef target="#tale"/>
+      <idno type="SV">et-godt-humeur</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hjertesorg</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hjertesorg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Alt paa sin rette Plads!«</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">alt-paa-sin-rette-plads</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nissen hos Spekhøkeren</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">nissen-hos-spekhoekeren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Om Aartusinder</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">om-aartusinder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Under Piletræet</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">under-piletraeet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fem fra en Ærtebælg</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">fem-fra-en-aertebaelg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Hun duede ikke«</title>
+      <date>1853</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hun-duede-ikke</idno>
+   </item>
+   <item>
+      <title xml:lang="da">To Jomfruer</title>
+      <date>1854</date>
+      <catRef target="#tale"/>
+      <idno type="SV">to-jomfruer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den sidste Perle</title>
+      <date>1854</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-sidste-perle</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Ved det yderste Hav«</title>
+      <date>1855</date>
+      <catRef target="#tale"/>
+      <idno type="SV">ved-det-yderste-hav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Pengegrisen</title>
+      <date>1855</date>
+      <catRef target="#tale"/>
+      <idno type="SV">pengegrisen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Blad fra Himlen</title>
+      <date>1855</date>
+      <catRef target="#tale"/>
+      <idno type="SV">et-blad-fra-himlen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Klods-Hans</title>
+      <date>1855</date>
+      <catRef target="#tale"/>
+      <idno type="SV">klods-hans</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ib og lille Christine</title>
+      <date>1855</date>
+      <catRef target="#tale"/>
+      <idno type="SV">ib-og-lille-christine</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Ærens Tornevei«</title>
+      <date>1856</date>
+      <catRef target="#tale"/>
+      <idno type="SV">aerens-tornevei</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jødepigen</title>
+      <date>1856</date>
+      <catRef target="#tale"/>
+      <idno type="SV">joedepigen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Suppe paa en Pølsepind</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">suppe-paa-en-poelsepind</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Flaskehalsen</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">flaskehalsen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Pebersvendens Nathue</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">pebersvendens-nathue</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Noget«</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">noget</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det gamle Egetræes sidste Drøm</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-gamle-egetraees-sidste-droem</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Abc-Bogen</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">abc-bogen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Dynd-Kongens Datter</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">dynd-kongens-datter</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hurtigløberne</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hurtigloeberne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Klokkedybet</title>
+      <date>1858</date>
+      <catRef target="#tale"/>
+      <idno type="SV">klokkedybet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vinden fortæller om Valdemar Daae og hans Døttre</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">vinden-fortaeller-om-valdemar-daae-og-hans-doettre</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Pigen, som traadte paa Brødet</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">pigen-som-traadte-paa-broedet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Taarnvægteren Ole</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">taarnvaegteren-ole</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Anne Lisbeth</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">anne-lisbeth</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Børnesnak</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">boernesnak</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Stykke Perlesnor</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">et-stykke-perlesnor</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Pen og Blækhuus</title>
+      <date>1860</date>
+      <catRef target="#tale"/>
+      <idno type="SV">pen-og-blaekhuus</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Barnet i Graven</title>
+      <date>1860</date>
+      <catRef target="#tale"/>
+      <idno type="SV">barnet-i-graven</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gaardhanen og Veirhanen</title>
+      <date>1860</date>
+      <catRef target="#tale"/>
+      <idno type="SV">gaardhanen-og-veirhanen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Deilig!«</title>
+      <date>1860</date>
+      <catRef target="#tale"/>
+      <idno type="SV">deilig</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Historie fra Klitterne</title>
+      <date>1860</date>
+      <catRef target="#tale"/>
+      <idno type="SV">en-historie-fra-klitterne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">To Brødre</title>
+      <date>1859</date>
+      <catRef target="#tale"/>
+      <idno type="SV">to-broedre</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tolv med Posten</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">tolv-med-posten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Skarnbassen</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">skarnbassen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad Fatter gjør, det er altid det Rigtige</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvad-fatter-gjoer-det-er-altid-det-rigtige</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De Vises Steen</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">de-vises-steen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sneemanden</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">sneemanden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">I Andegaarden</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">i-andegaarden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det nye Aarhundredes Musa</title>
+      <date>1861</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-nye-aarhundredes-musa</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Iisjomfruen</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">iisjomfruen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sommerfuglen</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">sommerfuglen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Psychen</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">psychen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sneglen og Rosenhækken</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">sneglen-og-rosenhaekken</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den gamle Kirkeklokke</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-gamle-kirkeklokke</idno>
+   </item>
+                 <!--bind 2 SLUT-->
+                 <!--bind 3 START-->
+<item>
+      <title xml:lang="da">Metalsvinet</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">metalsvinet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Venskabs-Pagten</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">venskabs-pagten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Rose fra Homers Grav</title>
+      <date>1862</date>
+      <catRef target="#tale"/>
+      <idno type="SV">en-rose-fra-homers-grav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Historie [1863]</title>
+      <date>1863</date>
+      <catRef target="#tale"/>
+      <idno type="SV">en-historie-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den stumme Bog</title>
+      <date>1863</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-stumme-bog</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Theepotten</title>
+      <date>1864</date>
+      <catRef target="#tale"/>
+      <idno type="SV">theepotten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Folkesangens Fugl</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">folkesangens-fugl</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lygtemændene ere i Byen, sagde Mosekonen</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lygtemaendene-ere-i-byen-sagde-mosekonen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Veirmøllen</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">veirmoellen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sølvskillingen</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">soelvskillingen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Bispen paa Børglum og hans Frænde</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">bispen-paa-boerglum-og-hans-fraende</idno>
+   </item>
+   <item>
+      <title xml:lang="da">I Børnestuen</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">i-boernestuen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Guldskat</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">guldskat</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Stormen flytter Skilt</title>
+      <date>1865</date>
+      <catRef target="#tale"/>
+      <idno type="SV">stormen-flytter-skilt</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gjemt er ikke glemt</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">gjemt-er-ikke-glemt</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Portnerens Søn</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">portnerens-soen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Flyttedagen</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">flyttedagen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sommergjækken</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">sommergjaekken</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Moster</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">moster</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Skrubtudsen</title>
+      <date>1866</date>
+      <catRef target="#tale"/>
+      <idno type="SV">skrubtudsen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vænø og Glænø</title>
+      <date>1867</date>
+      <catRef target="#tale"/>
+      <idno type="SV">vaenoe-og-glaenoe</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De smaa Grønne</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">de-smaa-groenne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nissen og Madammen</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">nissen-og-madammen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Peiter, Peter og Peer</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">peiter-peter-og-peer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gudfaders Billedbog</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">gudfaders-billedbog</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Marionetspilleren</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">marionetspilleren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Dryaden</title>
+      <date>1862 1863 1865 1865 1866 1867 1868 1868 1868 1868 1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">dryaden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Herrebladene</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">herrebladene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Laserne</title>
+      <date>1869</date>
+      <catRef target="#tale"/>
+      <idno type="SV">laserne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hønse-Grethes Familie</title>
+      <date>1870</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hoense-grethes-familie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad Tidselen oplevede</title>
+      <date>1870</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvad-tidselen-oplevede</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad man kan hitte paa</title>
+      <date>1870</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvad-man-kan-hitte-paa</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lykken kan ligge i en Pind</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lykken-kan-ligge-i-en-pind</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kometen</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">kometen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ugedagene</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">ugedagene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Solskins-Historier</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">solskins-historier</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Oldefa’er</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">oldefaer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvem var den Lykkeligste?</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvem-var-den-lykkeligste</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lysene</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">lysene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det Utroligste</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">det-utroligste</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad hele Familien sagde</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvad-hele-familien-sagde</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Dandse, dandse Dukke min!«</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">dandse-dandse-dukke-min</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Spørg Amagermo’er«!</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">spoerg-amagermoer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den store Søslange</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">den-store-soeslange</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gartneren og Herskabet</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">gartneren-og-herskabet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Rolighed«</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">rolighed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad gamle Johanne fortalte</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">hvad-gamle-johanne-fortalte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Portnøglen</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">portnoeglen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Krøblingen</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">kroeblingen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tante Tandpine</title>
+      <date>1872</date>
+      <catRef target="#tale"/>
+      <idno type="SV">tante-tandpine</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Loppen og Professoren</title>
+      <date>1873</date>
+      <catRef target="#tale"/>
+      <idno type="SV">loppen-og-professoren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til de ældre Læsere</title>
+      <date>1837</date>
+      <catRef target="#tale"/>
+      <idno type="SV">til-de-aeldre-laesere</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Bemærkninger [1863]</title>
+      <date>1863</date>
+      <catRef target="#tale"/>
+      <idno type="SV">bemaerkninger-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Bemærkninger [1868]</title>
+      <date>1868</date>
+      <catRef target="#tale"/>
+      <idno type="SV">bemaerkninger-1868</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Bemærkninger til Eventyr og Historier</title>
+      <date>1874</date>
+      <catRef target="#tale"/>
+      <idno type="SV">bemaerkninger-til-eventyr-og-historier</idno>
+   </item>
+
+                 <!--bind 3 SLUT-->
+<!--bind 4 START-->
+                 <item>
+                      <title xml:lang="da">Improvisatoren</title>
+                      <date>1835</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">improvisatoren</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <item>
+                      <title xml:lang="da">O. T.</title>
+                      <date>1836</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">o-t</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <!--bind 4 SLUT-->
+<!--bind 5 START-->
+                 <item>
+                      <title xml:lang="da">Kun en Spillemand</title>
+                      <date>1837</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">kun-en-spillemand</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <item>
+                      <title xml:lang="da">De to Baronesser</title>
+                      <date>1849</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">de-to-baronesser</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <!--bind 5 SLUT-->
+<!--bind 6 START-->
+                 <item>
+                      <title xml:lang="da">»At være eller ikke være«</title>
+                      <date>1857</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">at-vaere-eller-ikke-vaere</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Lykke-Peer</title>
+                      <date>1870</date>
+                      <catRef target="#novel"/>
+                      <idno type="SV">lykke-peer</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 <!--bind 6 SLUT-->
+
+
+<!--Bind 7 Digte I 2024-06-11-->
+
+   <item>
+      <title xml:lang="da">Ved min Velgiører Provst Gutfelds Død</title>
+      <date>1823</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-min-velgioerer-provst-gutfelds-doed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fastelavns-Sang</title>
+      <date>1823</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fastelavns-sang</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Mad. A. K. Spendrups Grav</title>
+      <date>1827</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-mad-a-k-spendrups-grav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Poetisk Spiseseddel</title>
+      <date>1828</date>
+      <catRef target="#poem"/>
+      <idno type="SV">poetisk-spiseseddel</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den nye Forening</title>
+      <date>1829</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-nye-forening</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Skjærmbræts-Billeder</title>
+      <date>1829</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-skjaermbraets-billeder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hjertesuk af en udtjent Damekjole</title>
+      <date>1829</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hjertesuk-af-en-udtjent-damekjole</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte 1830</title>
+      <date>1829</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1830</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En tydsk Ballade</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-tydsk-ballade</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Veni creator«</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">veni-creator</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Gæk! Gæk!«</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">gaek-gaek</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vandringsmanden i Örkenen</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vandringsmanden-i-oerkenen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til den babyloniske Taarnbygger i Miniature</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-den-babyloniske-taarnbygger-i-miniature</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Prolog</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">prolog-1830</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Anledning af Hendes Kongelige Høihed Kronprindsesse Carolines Helbredelse</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-anledning-af-hendes-kongelige-hoeihed-kronprindsesse-carolines-helbredelse</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[Uden fælles titel] [1830]</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1830</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Underlige Drömme</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">underlige-droemme</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Erindringsblad fra Hovedstaden, tegnet efter Naturen</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">erindringsblad-fra-hovedstaden-tegnet-efter-naturen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang, i Anledning af Festdagen den 28. Octbr. 1830.</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-anledning-af-festdagen-den-28-octbr-1830</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tre Smaae-Digte</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">tre-smaae-digte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Phantasier og Skizzer</title>
+      <date>1830</date>
+      <catRef target="#poem"/>
+      <idno type="SV">phantasier-og-skizzer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Deviser med Presenterne paa et Juletræe</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">deviser-med-presenterne-paa-et-juletraee</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Studenter-Sang, den 14de Februar 1831</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">studenter-sang-den-14de-februar-1831</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Iisfjeldet</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">iisfjeldet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Vinterstykke, tegnet med Blæk og Pen</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-vinterstykke-tegnet-med-blaek-og-pen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Min Tröst</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">min-troest</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Poetiske Pennepröver</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">poetiske-penneproever</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jorden</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jorden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Berliin. </title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">berliin</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Elbkongens Brud</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">elbkongens-brud</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tiggeren og hans Hund</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">tiggeren-og-hans-hund</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vuggevise</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vuggevise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gamle Melodier</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">gamle-melodier</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af [uden fælles titel] [1831]</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-uden-faelles-titel-1831</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vaerulven</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vaerulven</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Barnet ved Kirken</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">barnet-ved-kirken</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Formens evige Magie«</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">formens-evige-magie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vignetter til danske Digtere</title>
+      <date>1831</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vignetter-til-danske-digtere</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De tvende Grave</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">de-tvende-grave</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det store Julebord. </title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">det-store-julebord</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang  for de Danske i Paris, paa Kongens Födselsdag 28de Januar 1832</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-for-de-danske-i-paris-paa-kongens-foedselsdag-28de-januar-1832</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 28de Januar 1832</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-28de-januar-1832</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Danmark og Kongen, en Sang for Danske</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">danmark-og-kongen-en-sang-for-danske</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Mörket</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">moerket</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gefion</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">gefion</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Min Vise</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">min-vise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Grethes Glæde over Sommeren</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">grethes-glaede-over-sommeren</idno>
+   </item>
+   <item>
+      <title xml:lang="da">
+Af Ideer og Udkast</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-ideer-og-udkast</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Rosen [1832]</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">rosen-1832</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Poetiske Bagateller</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-poetiske-bagateller</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kjærlighedens Vægter-Vers</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">kjaerlighedens-vaegter-vers</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hende jeg mener</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hende-jeg-mener</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lille Viggo</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">lille-viggo</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En splinterny Dandse-Vise</title>
+      <date>1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-splinterny-dandse-vise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Aarets tolv Maaneder, Tegnede med Blæk og Pen</title>
+      <date>1831 1832</date>
+      <catRef target="#poem"/>
+      <idno type="SV">aarets-tolv-maaneder-tegnede-med-blaek-og-pen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den femte Mai (1821)</title>
+      <date>1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-femte-mai-1821</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De to Fugle</title>
+      <date>1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">de-to-fugle</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaae-Digte [1833]</title>
+      <date>1831 1832 1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaae-digte-1833</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Deres Kongelige Höiheder Prinds Frederik Carl Christian og Prindsesse Wilhelmine Marie</title>
+      <date>1831 1832 1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-deres-kongelige-hoeiheder-prinds-frederik-carl-christian-og-prindsesse-wilhelmine-marie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fastelavnsvise</title>
+      <date>1831 1832 1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fastelavnsvise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Samlede Digte</title>
+      <date>1831 1832 1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-samlede-digte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang for de Danske i Paris</title>
+      <date>1833</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-for-de-danske-i-paris</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Farvel til Italien</title>
+      <date>1834</date>
+      <catRef target="#poem"/>
+      <idno type="SV">farvel-til-italien</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Peter Erasmus Müller</title>
+      <date>1834</date>
+      <catRef target="#poem"/>
+      <idno type="SV">peter-erasmus-mueller</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Saa mangen Nat jeg hen til Vinduet gik</title>
+      <date>1834</date>
+      <catRef target="#poem"/>
+      <idno type="SV">saa-mangen-nat-jeg-hen-til-vinduet-gik</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte [1835]</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1835</idno>
+   </item>
+   <item>
+      <title xml:lang="da">I Havet ligger Fader død</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">i-havet-ligger-fader-doed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Carl Bülow</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">carl-buelow</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En lille Flugt til Rom den 8de Marts 1835</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-lille-flugt-til-rom-den-8de-marts-1835</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Sophie Thiele</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sophie-thiele</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Skovballet den 31 Juli 1835</title>
+      <date>1835</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-skovballet-den-31-juli-1835</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Digte [1836]</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-digte-1836</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Liden Roland</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">liden-roland</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vandring paa Vesuv. Ved Eruptionen om Aftenen den 24 Februar 1834</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vandring-paa-vesuv-ved-eruptionen-om-aftenen-den-24-februar-1834</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaa-Digte [1836]</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaa-digte-1836</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Romergildet den 8de Marts 1836</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-romergildet-den-8de-marts-1836</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Psalmer ved første Gudstjeneste i Holmens Kirke, efter dens Istandsættelse den 20de Marts 1836</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">psalmer-ved-foerste-gudstjeneste-i-holmens-kirke-efter-dens-istandsaettelse-den-20de-marts-1836</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Passions-Sang, som Pifferari i Rom synge den, under Fastetiden</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">passions-sang-som-pifferari-i-rom-synge-den-under-fastetiden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Fru Commandeurinde Wulff, født Weinholdt</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fru-commandeurinde-wulff-foedt-weinholdt</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 4. October 1836</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-4-october-1836</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Velkomstsang til J. P. Hartmann, fra hans Venner</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">velkomstsang-til-j-p-hartmann-fra-hans-venner</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Konen med Æggene</title>
+      <date>1836</date>
+      <catRef target="#poem"/>
+      <idno type="SV">konen-med-aeggene</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte [1837]</title>
+      <date>1837</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1837</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af [uden fælles titel] [1837]</title>
+      <date>1837</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-uden-faelles-titel-1837</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Guldbryllupsvise</title>
+      <date>1837</date>
+      <catRef target="#poem"/>
+      <idno type="SV">guldbryllupsvise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Mimi Thyberg</title>
+      <date>1837</date>
+      <catRef target="#poem"/>
+      <idno type="SV">mimi-thyberg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Madame K. M. Iversen i Odense</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">madame-k-m-iversen-i-odense</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Deres Majestæt Kongen</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-deres-majestaet-kongen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Epilog, fremsagt ved Aftenunderholdning den 11. Februar 1838 til Fordeel for Stiftelsen til Blindes Dannelse</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">epilog-fremsagt-ved-aftenunderholdning-den-11-februar-1838-til-fordeel-for-stiftelsen-til-blindes-dannelse</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Fru Lindegaard</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fru-lindegaard</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Videnskabernes Skaal</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">videnskabernes-skaal</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den Ubekjendtes Mesterværk</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-ubekjendtes-mestervaerk</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Ved Christian Ryders Grav</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-christian-ryders-grav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af [uden fælles titel] [1838]</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-uden-faelles-titel-1838</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Digteren Adalbert von Chamisso,</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digteren-adalbert-von-chamisso</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jason og Alexandertoget</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jason-og-alexandertoget</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Thorvaldsen</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-thorvaldsen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Etatsraad Hornemann fra Studenterforeningen den 20. October 1838</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-etatsraad-hornemann-fra-studenterforeningen-den-20-october-1838</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning Maria Sophia Frederikas høie Fødselsdag den 28de October 1838</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Landskabsmaleren Fritz Petzholdt</title>
+      <date>1838</date>
+      <catRef target="#poem"/>
+      <idno type="SV">landskabsmaleren-fritz-petzholdt</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til vor kjære Velgjører Hr. Etatsraad Beck fra Skole-Ungdommen paa Frederiksværk</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-vor-kjaere-velgjoerer-hr-etatsraad-beck-fra-skole-ungdommen-paa-frederiksvaerk</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Alfernes Blomster</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">alfernes-blomster</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Frederiksborg</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">frederiksborg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Kongehuset [1839]</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-kongehuset-1839</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Vers, skrevet til Skizzen efter Marstrands Malerie: »en Dame i Vinden«</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-vers-skrevet-til-skizzen-efter-marstrands-malerie-en-dame-i-vinden</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Rabbi Mejer</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">rabbi-mejer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af [uden fælles titel] [1839]</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-uden-faelles-titel-1839</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Guiseppe Siboni</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">guiseppe-siboni</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Kongen den 28de Mai 1839</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-kongen-den-28de-mai-1839</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Reisende</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-reisende</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang afsjunget ved Deres kongelige Høiheder Prinds Christians og Prindsesse Caroline Amalies Møde paa Gisselfeldt den 30 August 1839</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-afsjunget-ved-deres-kongelige-hoeiheder-prinds-christians-og-prindsesse-caroline-amalies-moede-paa-gisselfeldt-den-30-august-1839</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Inpromtu til Thorvaldsen, da han paa Nysø havde fuldendt i Leer Holbergs Buste</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">inpromtu-til-thorvaldsen-da-han-paa-nysoe-havde-fuldendt-i-leer-holbergs-buste</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Ludvig Phisters Portrait</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-ludvig-phisters-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Chr. Winthers Portrait</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-chr-winthers-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Digt om Konerne</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-digt-om-konerne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Amalie Rieffels Portrait</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-amalie-rieffels-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Lucile Grahns Portrait</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-lucile-grahns-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Digteren H. P. Holst</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-digteren-h-p-holst</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Parapluien</title>
+      <date>1839</date>
+      <catRef target="#poem"/>
+      <idno type="SV">parapluien</idno>
+   </item>
+
+<!-- Bind 7: SLUT -->
+<!--bind 8: Digte II-->
+
+   <item>
+      <title xml:lang="da">»Jeg er en Skandinav«</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jeg-er-en-skandinav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Aarets Börn</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">aarets-boern</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sørge-Cantate over Høisalig Kong Frederik den Sjette</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">soerge-cantate-over-hoeisalig-kong-frederik-den-sjette</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Prolog</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">prolog-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En lille Vise</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-lille-vise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Lindgreens Portrait</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-lindgreens-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Studenten fra Lund</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">studenten-fra-lund</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaavers</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaavers-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fædrelandet 28. Mai 1840</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">faedrelandet-28-mai-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved de skandinaviske Naturforskeres sidste Möde d. 9. Juli 1840</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-de-skandinaviske-naturforskeres-sidste-moede-d-9-juli-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et lille Huus paa Nysøe staaer</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-lille-huus-paa-nysoee-staaer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang, skreven og afsjungen paa Fregatten Bellona under Opseilingen til Helsingør</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-skreven-og-afsjungen-paa-fregatten-bellona-under-opseilingen-til-helsingoer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Ungdommen</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-ungdommen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Deres Majestæters Kongens og Dronningens Besøg paa Gisselfeldt, den 3die Octbr. 1840</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-deres-majestaeters-kongens-og-dronningens-besoeg-paa-gisselfeldt-den-3die-octbr-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Deres Majestæters Kongens og Dronningens Besøg paa Nysø, den 4de Octbr. 1840</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-deres-majestaeters-kongens-og-dronningens-besoeg-paa-nysoe-den-4de-octbr-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Farvel til Digteren H. P. Holst</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">farvel-til-digteren-h-p-holst</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Naar Du nu om ikke længe</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">naar-du-nu-om-ikke-laenge</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 25. November 1840</title>
+      <date>1840</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-25-november-1840</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sonnet</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sonnet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Jens Wilken Hornemann’s Grav</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-jens-wilken-hornemanns-grav</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den forhexede Elsker</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-forhexede-elsker</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Bøndernes og Fiskernes Sang til Kongen</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">boendernes-og-fiskernes-sang-til-kongen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sølv-Bryllups-Vise den 29. September 1841</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">soelv-bryllups-vise-den-29-september-1841</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De tre nordiske Rigers Skaal for Adam Öehlenschläger</title>
+      <date>1841</date>
+      <catRef target="#poem"/>
+      <idno type="SV">de-tre-nordiske-rigers-skaal-for-adam-oeehlenschlaeger</idno>
+   </item>
+   <item>
+      <title xml:lang="da">I Oehlenschlægers Album</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">i-oehlenschlaegers-album</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til August Bournonville</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-august-bournonville</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gurre</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">gurre</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Venners Afreise</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-venners-afreise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Runerne, et Digt i Anledning af Deres Höifyrstelige Durchlauchtigheder Prinds Christian af Glücksborgs og Prindsesse Louise af Hessen-Cassels höie Formæling den 26de Mai 1842</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">runerne-et-digt-i-anledning-af-deres-hoeifyrstelige-durchlauchtigheder-prinds-christian-af-gluecksborgs-og-prindsesse-louise-af-hessen-cassels-hoeie-formaeling-den-26de-mai-1842</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Indvielsen af Frederik den Sjettes Asyl, den 3die Juni 1842</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-indvielsen-af-frederik-den-sjettes-asyl-den-3die-juni-1842</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate i Anledning af Hendes Majestæt Dronning Caroline Amalias höie Födselsfest den 28. Juni 1842</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-i-anledning-af-hendes-majestaet-dronning-caroline-amalias-hoeie-foedselsfest-den-28-juni-1842</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Deres Majestæt Enke-Dronningen</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-deres-majestaet-enke-dronningen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Weyse</title>
+      <date>1842</date>
+      <catRef target="#poem"/>
+      <idno type="SV">weyse</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den lille Pige i Asylet</title>
+      <date>1843</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-lille-pige-i-asylet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Ingeborg Mimi Collin</title>
+      <date>1843</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ingeborg-mimi-collin</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til det danske Kongepar den 16de Juli 1843</title>
+      <date>1843</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-det-danske-kongepar-den-16de-juli-1843</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Levvel til Jenny Lind</title>
+      <date>1843</date>
+      <catRef target="#poem"/>
+      <idno type="SV">levvel-til-jenny-lind</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate og Psalme i Anledning af Hans Høiærværdighed Professor C. F. Brorson’s 50aarige Embedsjubilæum, den 17. December 1843</title>
+      <date>1843</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-og-psalme-i-anledning-af-hans-hoeiaervaerdighed-professor-c-f-brorsons-50aarige-embedsjubilaeum-den-17-december-1843</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sange af Vaudevillen: »Fuglen i Pæretræet«</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sange-af-vaudevillen-fuglen-i-paeretraeet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Thorvaldsen</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">thorvaldsen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1844</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate afsjungen ved Comtesse Marie Moltkes Confirmation i Bregentved Capel den 8de Juni 1844</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-afsjungen-ved-comtesse-marie-moltkes-confirmation-i-bregentved-capel-den-8de-juni-1844</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaa-Vers</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaa-vers-1844</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Udenfor Asylet</title>
+      <date>1844</date>
+      <catRef target="#poem"/>
+      <idno type="SV">udenfor-asylet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1845</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Peter Fredrik Wulffs Børn</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-peter-fredrik-wulffs-boern</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Pandebeen, Øiesteen o. s. v., en Sang for de Smaa</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">pandebeen-oeiesteen-o-s-v-en-sang-for-de-smaa</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Ved den lille Gerda Collins Død</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-den-lille-gerda-collins-doed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Epilog fremsagt af Hr. Cetti ved hans sidste Fremtrædelse paa Scenen den 14de Mai 1845</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">epilog-fremsagt-af-hr-cetti-ved-hans-sidste-fremtraedelse-paa-scenen-den-14de-mai-1845</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Fru Conferentsraadinde Collin, födt Hornemann</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fru-conferentsraadinde-collin-foedt-hornemann</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 27de Mai 1845</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-27de-mai-1845</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Afsløringen af Mindestøtten for høisalig Kong Frederik den Sjette</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-afsloeringen-af-mindestoetten-for-hoeisalig-kong-frederik-den-sjette</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Grev Conrad Rantzau af Breitenburg</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">grev-conrad-rantzau-af-breitenburg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Skoven ved Studenter-Sangforeningens Skovtour, d. 24. August 1845</title>
+      <date>1845</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-skoven-ved-studenter-sangforeningens-skovtour-d-24-august-1845</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel] [1846]</title>
+      <date>1846</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1846</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang af Festen paa Kenilworth</title>
+      <date>1846</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-af-festen-paa-kenilworth</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvad den lille Hund siger</title>
+      <date>1847</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hvad-den-lille-hund-siger</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Digte</title>
+      <date>1847</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-digte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang af »Kenilworth«</title>
+      <date>1847</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-af-kenilworth</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 29. October 1847</title>
+      <date>1847</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-29-october-1847</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Fortællinger og Digte</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-fortaellinger-og-digte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Romanze</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">romanze</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den sjette Januar 1848</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-sjette-januar-1848</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kong Christian d. Ottende</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">kong-christian-d-ottende</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fiirstemmig Sang paa Sölvbryllups-Festen den 22. August 1848</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fiirstemmig-sang-paa-soelvbryllups-festen-den-22-august-1848</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Du veed det gamle Eventyr om</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">du-veed-det-gamle-eventyr-om</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel] [1848]</title>
+      <date>1848</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1848</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Agnete og Havfruerne</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">agnete-og-havfruerne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Hendes Majestæt Enkedronning Marie Sophie Frederikke</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-hendes-majestaet-enkedronning-marie-sophie-frederikke</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 17de October 1849</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-17de-october-1849</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Poesien</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">poesien</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel] [1849]</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1849</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Rosen</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">rosen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">See, Hørren staaer saa slank og fri</title>
+      <date>1849</date>
+      <catRef target="#poem"/>
+      <idno type="SV">see-hoerren-staaer-saa-slank-og-fri</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 6. Januar 1850</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-6-januar-1850</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Farvel!</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">farvel-1850</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jonna Drevsen og Henrik Stampes Bryllup, den 2. Februar 1850</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jonna-drevsen-og-henrik-stampes-bryllup-den-2-februar-1850</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Maleren J. Sonne</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">maleren-j-sonne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til en langelandsk Melodi</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-en-langelandsk-melodi</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Da Tanke Lynet udsprang fra Din Pande</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">da-tanke-lynet-udsprang-fra-din-pande</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† August Vilhelm Hartmann</title>
+      <date>1850</date>
+      <catRef target="#poem"/>
+      <idno type="SV">august-vilhelm-hartmann</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel] [1851]</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Faderen, Vennen Geheimeraad Jonas Collin, den 18 Februar 1851</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">faderen-vennen-geheimeraad-jonas-collin-den-18-februar-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fædrelandske Vers og Sange under Krigen 1851</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">faedrelandske-vers-og-sange-under-krigen-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»For Danmark!«</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">for-danmark</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den Frivillige</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-frivillige</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Herregaards-Skytterne</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">herregaards-skytterne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Fremad!«</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fremad</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Matrosen</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">matrosen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nytaars-Aften 1848</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">nytaars-aften-1848</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Danmark, mit Fædreland«</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">danmark-mit-faedreland</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Soldatens Sang til Dannebrog</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">soldatens-sang-til-dannebrog</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Oberst Læssøe</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">oberst-laessoee</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Landsoldaten</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-landsoldaten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Juletræet</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-juletraeet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nytaars-Aften 1850</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">nytaars-aften-1850</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Landsoldatens Hjemkomst</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">landsoldatens-hjemkomst</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hilsen af norske og svenske Frivillige, som deeltoge i Kampen de to første Krigsaar</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hilsen-af-norske-og-svenske-frivillige-som-deeltoge-i-kampen-de-to-foerste-krigsaar</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† H. C. Ørsted</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">h-c-oersted</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Emma Hartmann, født Zinn</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">emma-hartmann-foedt-zinn</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 3. April 1851</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-3-april-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til Landsoldaten ved Festen paa Glorup den 7de Juli 1851</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-landsoldaten-ved-festen-paa-glorup-den-7de-juli-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sölvbrylluppet den 18de October 1851</title>
+      <date>1851</date>
+      <catRef target="#poem"/>
+      <idno type="SV">soelvbrylluppet-den-18de-october-1851</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Hjemmet«</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hjemmet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Stakkels Mary Anne</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">stakkels-mary-anne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Vandring i Skoven</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">vandring-i-skoven</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate ved Kammerherre, Baron C. Bille-Brahes og Comtesse Marie-Moltke Bregentveds Bryllup, den 21 Februar 1852. </title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-ved-kammerherre-baron-c-bille-brahes-og-comtesse-marie-moltke-bregentveds-bryllup-den-21-februar-1852</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Dands og til Glæde, lystigt afsted!</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-dands-og-til-glaede-lystigt-afsted</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Brudehuset ved Fröken Augusta Bournonvilles og Pastor M. P. Tuxens Bryllup, den 21de April 1852</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-brudehuset-ved-froeken-augusta-bournonvilles-og-pastor-m-p-tuxens-bryllup-den-21de-april-1852</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Kirken ved Niels W. Gades og Sophie Hartmanns Bryllup</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-kirken-ved-niels-w-gades-og-sophie-hartmanns-bryllup</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 9de August 1852</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-9de-august-1852</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Frederik Høegh-Guldberg</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">frederik-hoeegh-guldberg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Landmands-Mödet i Kjöbenhavn</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-landmands-moedet-i-kjoebenhavn</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Femogtyveaars-Festen for Studenter fra et og samme Aar October 1852</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-femogtyveaars-festen-for-studenter-fra-et-og-samme-aar-october-1852</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang af »Ole Lukøie«</title>
+      <date>1852</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-af-ole-lukoeie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 4de Marts 1853. </title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-4de-marts-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til Frue Johanne Louise Heiberg i Skuespilhuset den 30te Marts 1853</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-frue-johanne-louise-heiberg-i-skuespilhuset-den-30te-marts-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Balletpersonalets Hilsen til Fru J. L. Heiberg, den 5te April 1853</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">balletpersonalets-hilsen-til-fru-j-l-heiberg-den-5te-april-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 23 April 1853</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-23-april-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til Deres Majestæt Enkedronning Caroline Amalie</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-deres-majestaet-enkedronning-caroline-amalie</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sange ved det kongelige Opfostringshuus’s hundredeaarige Fest, den 29de Juni 1853</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sange-ved-det-kongelige-opfostringshuuss-hundredeaarige-fest-den-29de-juni-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Fru Malle Drewsens Fødselsfest paa Silkeborg, den 5te August 1853</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-fru-malle-drewsens-foedselsfest-paa-silkeborg-den-5te-august-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Psalme</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">som-bladet-der-fra-traeet-falder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til de Nygifte</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-de-nygifte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved femogtyveaars Festen for Studenter fra 1828</title>
+      <date>1853</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-femogtyveaars-festen-for-studenter-fra-1828</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Silkeborg [digtet]</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">silkeborg-digtet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Krandsens Heisning paa Hr. Grandjean’s ny Gaard, den 22de December 1853</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-krandsens-heisning-paa-hr-grandjeans-ny-gaard-den-22de-december-1853</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den sjette Januar 1854</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-sjette-januar-1854</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Haandværkerens Vise</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">haandvaerkerens-vise</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Min lille Guddatter Rigmor</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">min-lille-guddatter-rigmor</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den første April 1854</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-foerste-april-1854</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 22de Juni 1854</title>
+      <date>1854</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-22de-juni-1854</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Deviser med Presenter paa et Juletræ. </title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">deviser-med-presenter-paa-et-juletrae</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hilsen Nytaars Nat</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hilsen-nytaars-nat</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af. Samlede Skrifter. Femtende Bind</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-samlede-skrifter-femtende-bind</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Sange af Syngestykkerne »Ravnen«, »Bruden fra Lammermoor« og »Festen paa Kenilworth«</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-sange-af-syngestykkerne-ravnen-bruden-fra-lammermoor-og-festen-paa-kenilworth</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af. Samlede Skrifter. Sextende Bind</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-samlede-skrifter-sextende-bind</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tro det Bedste</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">tro-det-bedste</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den sjette Januar 1855</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-sjette-januar-1855</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Sophie Gade født Hartmann</title>
+      <date>1855</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sophie-gade-foedt-hartmann</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Christian Winther</title>
+      <date>1856</date>
+      <catRef target="#poem"/>
+      <idno type="SV">christian-winther</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Novellette i sex Smaastykker</title>
+      <date>1856</date>
+      <catRef target="#poem"/>
+      <idno type="SV">novellette-i-sex-smaastykker</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Christian Wulff</title>
+      <date>1856</date>
+      <catRef target="#poem"/>
+      <idno type="SV">christian-wulff</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Hans Majestæt Kongens Ankomst i det Kongelige Theater den 8de October 1856</title>
+      <date>1856</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-hans-majestaet-kongens-ankomst-i-det-kongelige-theater-den-8de-october-1856</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»De Usynlige« af Holberg</title>
+      <date>1856</date>
+      <catRef target="#poem"/>
+      <idno type="SV">de-usynlige-af-holberg</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den siette januar 1857</title>
+      <date>1857</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-siette-januar-1857</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Professor Niels W. Gade’s og Fröken Mathilde Stæger’s Brudevielse, den 12te November 1857</title>
+      <date>1857</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-professor-niels-w-gades-og-froeken-mathilde-staegers-brudevielse-den-12te-november-1857</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paa Kongens Nytorv stod et gammelt Huus</title>
+      <date>1857</date>
+      <catRef target="#poem"/>
+      <idno type="SV">paa-kongens-nytorv-stod-et-gammelt-huus</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Anledning af Hs. Majestæt Kongens allerhøieste Nærværelse i det kongelige Theater, den 24de Marts 1858</title>
+      <date>1858</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-anledning-af-hs-majestaet-kongens-allerhoeieste-naervaerelse-i-det-kongelige-theater-den-24de-marts-1858</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af [uden fælles titel] [1858]</title>
+      <date>1858</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1858</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Henriette Wulff</title>
+      <date>1858</date>
+      <catRef target="#poem"/>
+      <idno type="SV">henriette-wulff</idno>
+   </item>
+   <item>
+      <title xml:lang="da">De danske Qvinder</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">de-danske-qvinder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Adam Holst</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">adam-holst</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Carl Reitzels og Augusta Jöhnkes Bryllup, den 1ste Juni 1859</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-carl-reitzels-og-augusta-joehnkes-bryllup-den-1ste-juni-1859</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Frøken Louise Ipsen’s og Hr. C. St. A. Bille’s Bryllup, den 8. Juni 1859</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-froeken-louise-ipsens-og-hr-c-st-a-billes-bryllup-den-8-juni-1859</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Hs. Majestæt Kongens allerhøieste Ankomst i Det Kongelige Theater Onsdagen den 19de October 1859</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-hs-majestaet-kongens-allerhoeieste-ankomst-i-det-kongelige-theater-onsdagen-den-19de-october-1859</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Nytaarsmorgen</title>
+      <date>1859</date>
+      <catRef target="#poem"/>
+      <idno type="SV">nytaarsmorgen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Fest-Ballet i Casino</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-fest-ballet-i-casino</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jylland</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jylland</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Optoget</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-optoget</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Hvor før, som en Bouquet paa Vandet laa</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">hvor-foer-som-en-bouquet-paa-vandet-laa</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang til Kongen, ved allerhøisammes Ankomst i det kongelige Akademi for de skiønne Kunster den 31. Marts 1860</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-til-kongen-ved-allerhoeisammes-ankomst-i-det-kongelige-akademi-for-de-skioenne-kunster-den-31-marts-1860</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang for de danske Kunstnere</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-for-de-danske-kunstnere</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Conferentsraad, Politichef Bræstrups halvhundredaarige Jubilæum den 17. December 1860</title>
+      <date>1860</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-conferentsraad-politichef-braestrups-halvhundredaarige-jubilaeum-den-17-december-1860</idno>
+   </item>
+   <item>
+      <title xml:lang="da">9de Mai 1861</title>
+      <date>1861</date>
+      <catRef target="#poem"/>
+      <idno type="SV">9de-mai-1861</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Jonas Collin</title>
+      <date>1861</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jonas-collin</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Omkring dit Billed her i Marmorstenen</title>
+      <date>1861</date>
+      <catRef target="#poem"/>
+      <idno type="SV">omkring-dit-billed-her-i-marmorstenen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Alt skifter om paa Tidens Bud</title>
+      <date>1861</date>
+      <catRef target="#poem"/>
+      <idno type="SV">alt-skifter-om-paa-tidens-bud</idno>
+   </item>
+   <item>
+      <title xml:lang="da">1862</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">1862</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 18de Februar 1862</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-18de-februar-1862</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Han over Strængene som Hersker byder!</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">han-over-straengene-som-hersker-byder</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Hr. Pastor O. C. Kahrs’s og Frøken A. de Neergaards Bryllup den 11. Juli 1862</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-hr-pastor-o-c-kahrss-og-froeken-a-de-neergaards-bryllup-den-11-juli-1862</idno>
+   </item>
+   <item>
+      <title xml:lang="da">I Afrika</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">i-afrika</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Guldbryllups Sang</title>
+      <date>1862</date>
+      <catRef target="#poem"/>
+      <idno type="SV">guldbryllups-sang</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Digte fra Spanien</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">digte-fra-spanien</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Herr Lauritz Eckardt’s og Fröken Josephine Thorberg’s Bryllup den 17de Juni 1863</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-herr-lauritz-eckardts-og-froeken-josephine-thorbergs-bryllup-den-17de-juni-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Fröken Pauline Bröndums og Hr. Nicolai Örsteds Bryllup den 2den September 1863</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-froeken-pauline-broendums-og-hr-nicolai-oersteds-bryllup-den-2den-september-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† [Et Sørgebudskab gjennem Landet lød]</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-soergebudskab-gjennem-landet-loed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Fortrøstning</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">fortroestning</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Farvel</title>
+      <date>1863</date>
+      <catRef target="#poem"/>
+      <idno type="SV">farvel-1863</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel] [1864]</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1864a</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Ved Hds. Kongelige Höiheds Höisalig Landgrevinde Louise Charlottes Bisættelse i Roeskilde Domkirke, den 7. April 1864</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-hds-kongelige-hoeiheds-hoeisalig-landgrevinde-louise-charlottes-bisaettelse-i-roeskilde-domkirke-den-7-april-1864</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Danmark</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">danmark-1864</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Kirken ved Hr. August Windings og Frøken Clara Hartmanns Bryllup den 10. Mai 1864</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-kirken-ved-hr-august-windings-og-froeken-clara-hartmanns-bryllup-den-10-mai-1864</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Trøst i Tro</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">troest-i-tro</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Psalme</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jeg-har-en-angst-som-aldrig-foer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Med Prindsesse Dagmars Portrait</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">med-prindsesse-dagmars-portrait</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang i Kirken ved Herr Emil Hartmanns og Frøken Bolette Puggaards Bryllup den 4. November 1864</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-i-kirken-ved-herr-emil-hartmanns-og-froeken-bolette-puggaards-bryllup-den-4-november-1864</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Ved Efterretningen om Michael Wiehes Død</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">ved-efterretningen-om-michael-wiehes-doed</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel]</title>
+      <date>1864</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1864b</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Slutnings-Sang den 16. Februar 1865</title>
+      <date>1865</date>
+      <catRef target="#poem"/>
+      <idno type="SV">slutnings-sang-den-16-februar-1865</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Sölvbrylluppet den 25 November 1865</title>
+      <date>1865</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-soelvbrylluppet-den-25-november-1865</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paa Ungdommens friske Rosenblad</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">paa-ungdommens-friske-rosenblad</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paa Nytaarsmorgen!</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">paa-nytaarsmorgen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Farvel, Prindsesse Dagmar! Du gaaer til Storhed og Glands</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">farvel-prindsesse-dagmar-du-gaaer-til-storhed-og-glands</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Danske Poeter i Bouquet</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">danske-poeter-i-bouquet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Stemning</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-stemning-1866</idno>
+   </item>
+   <item>
+      <title xml:lang="da">[uden fælles titel]</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-faelles-titel-1866</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Epilogen</title>
+      <date>1866</date>
+      <catRef target="#poem"/>
+      <idno type="SV">epilogen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Riimbrev til den lille Thea</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">riimbrev-til-den-lille-thea</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Femogtyveaars-Festen for Borgerrepræsentant N. F. Bonnesen og Raadmand B. Petersen, den 24de Februar 1867</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-femogtyveaars-festen-for-borgerrepraesentant-n-f-bonnesen-og-raadmand-b-petersen-den-24de-februar-1867</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Herr Grosserer I. B. Melchiors og Frøken Johanne Melchiors Bryllup den 3die Marts 1867</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-herr-grosserer-i-b-melchiors-og-froeken-johanne-melchiors-bryllup-den-3die-marts-1867</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Uden Haab</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">uden-haab</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 26de Mai 1867</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-26de-mai-1867</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Frøken Lucia Scavenius’s og Hr. Carl Castenschiolds Bryllup paa Basnæs den 26de October 1867</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-froeken-lucia-scaveniuss-og-hr-carl-castenschiolds-bryllup-paa-basnaes-den-26de-october-1867</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Smaavers</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaavers-1867</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Kjendte og glemte Digte</title>
+      <date>1867</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-kjendte-og-glemte-digte</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Den 13. Marts 1868</title>
+      <date>1868</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-13-marts-1868</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Kommer aldrig igjen!«</title>
+      <date>1869</date>
+      <catRef target="#poem"/>
+      <idno type="SV">kommer-aldrig-igjen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Korsør</title>
+      <date>1869</date>
+      <catRef target="#poem"/>
+      <idno type="SV">korsoer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Paa Andreas Ludwig Brandt’s og Debora Petronella Brandt’s Sölvbryllup</title>
+      <date>1869</date>
+      <catRef target="#poem"/>
+      <idno type="SV">paa-andreas-ludwig-brandts-og-debora-petronella-brandts-soelvbryllup</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Deres Kongelige Høiheder Kronprinds Frederik og Prindsesse Lovisa, Formælingsdagen den 28de Juli 1869</title>
+      <date>1869</date>
+      <catRef target="#poem"/>
+      <idno type="SV">deres-kongelige-hoeiheder-kronprinds-frederik-og-prindsesse-lovisa-formaelingsdagen-den-28de-juli-1869</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Liden Kirsten og Prinds Buris</title>
+      <date>1870</date>
+      <catRef target="#poem"/>
+      <idno type="SV">liden-kirsten-og-prinds-buris</idno>
+   </item>
+   <item>
+      <title xml:lang="da">† Henrik Hertz</title>
+      <date>1870</date>
+      <catRef target="#poem"/>
+      <idno type="SV">henrik-hertz</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Foraarssang</title>
+      <date>1870</date>
+      <catRef target="#poem"/>
+      <idno type="SV">foraarssang</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Afsløringen af Mindestøtten paa Holsteinborg, den 18de October 1870</title>
+      <date>1870</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-afsloeringen-af-mindestoetten-paa-holsteinborg-den-18de-october-1870</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate til Fru Dorothea Melchior den 16. Februar 1871</title>
+      <date>1871</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-til-fru-dorothea-melchior-den-16-februar-1871</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Børnenes Skaal</title>
+      <date>1871</date>
+      <catRef target="#poem"/>
+      <idno type="SV">boernenes-skaal</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kantate ved Hr. Moritz Melchiors og Fru Dorothea Melchiors Sølvbryllup den 17de Juni 1871</title>
+      <date>1871</date>
+      <catRef target="#poem"/>
+      <idno type="SV">kantate-ved-hr-moritz-melchiors-og-fru-dorothea-melchiors-soelvbryllup-den-17de-juni-1871</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Gaaer Du paa Glatiis og falder, min Ven</title>
+      <date>1871</date>
+      <catRef target="#poem"/>
+      <idno type="SV">gaaer-du-paa-glatiis-og-falder-min-ven</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang ved Sølvbryllupsfesten</title>
+      <date>1872</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-ved-soelvbryllupsfesten</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Smaavers</title>
+      <date>1872</date>
+      <catRef target="#poem"/>
+      <idno type="SV">smaavers-1872</idno>
+   </item>
+   <item>
+      <title xml:lang="da">En Stemning</title>
+      <date>1873</date>
+      <catRef target="#poem"/>
+      <idno type="SV">en-stemning</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Program</title>
+      <date>1873</date>
+      <catRef target="#poem"/>
+      <idno type="SV">program</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Til J. P. E. Hartmann</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">til-j-p-e-hartmann</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Oldingen</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">oldingen</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Billedstormerne</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">billedstormerne</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Kjøbenhavn</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">kjoebenhavn</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Odense</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">odense</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Lille Svends Udtalelse om Vejrliget i Vinter</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">lille-svends-udtalelse-om-vejrliget-i-vinter</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Det gamle Træ, o lad det staa</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">det-gamle-trae-o-lad-det-staa</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Et Barns Skriftemaal</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">et-barns-skriftemaal</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Miraklet</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">miraklet</idno>
+   </item>
+   <item>
+      <title xml:lang="da">»Den korteste Nat«</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">den-korteste-nat</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Mit Barndoms Hjem</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">mit-barndoms-hjem</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Tunge Timer</title>
+      <date>1874</date>
+      <catRef target="#poem"/>
+      <idno type="SV">tunge-timer</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Cantate afsjunget Nytaarsdag i Garnisons-Kirken</title>
+      <date>1876</date>
+      <catRef target="#poem"/>
+      <idno type="SV">cantate-afsjunget-nytaarsdag-i-garnisons-kirken</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Jagtherrens Skaal</title>
+      <date>1876</date>
+      <catRef target="#poem"/>
+      <idno type="SV">jagtherrens-skaal</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Sang</title>
+      <date>1876</date>
+      <catRef target="#poem"/>
+      <idno type="SV">sang-1876</idno>
+   </item>
+   <item>
+      <title xml:lang="da">Af Samlede Skrifter. Tre og Tredivte Bind</title>
+      <date>1876</date>
+      <catRef target="#poem"/>
+      <idno type="SV">af-samlede-skrifter-tre-og-tredivte-bind</idno>
+   </item>
+<!--Bind 8: SLUT-->
+<!--bind 9: Blandinger-->                 
+                 <item>
+                      <title xml:lang="da">Ungdoms-Forsøg</title>
+                      <date>1822</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">ungdoms-forsoeg</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Fodreise fra Holmens Canal til Østpynten af Amager i Aarene 1828 og 1829</title>
+                      <date>1829</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">fodreise-fra-holmens-canal-til-oestpynten-af-amager-i-aarene-1828-og-1829</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Et kjøbenhavnsk Eventyr Nytaarsnat</title>
+                      <date>1829</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">et-kjoebenhavnsk-eventyr-nytaarsnat</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Tanker over et Nul</title>
+                      <date>1829</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">tanker-over-et-nul</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Tanker over nogle gamle, forslidte Skoe</title>
+                      <date>1830</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">tanker-over-nogle-gamle-forslidte-skoe</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Aphorismer af forskjellige Digtere</title>
+                      <date>1830</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">aphorismer-af-forskjellige-digtere</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Digterblomster, og Aforismer</title>
+                      <date>1830</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">digterblomster-og-aforismer</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Fornuftgiftermaalet Nr. 2</title>
+                      <date>1831</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">fornuftgiftermaalet-nr-2</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Ideer og Udkast</title>
+                      <date>1832</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">ideer-og-udkast</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Den fattige Dreng paa Frankerigs Throne</title>
+                      <date>1836</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">den-fattige-dreng-paa-frankerigs-throne</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Tre Digtninger</title>
+                      <date>1838</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">tre-digtninger</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Billedbog uden Billeder. 1840-1848</title>
+                      <date>1840-1848</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">billedbog-uden-billeder-samlet-1840-1848</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">En Episode af Ole Bulls Liv</title>
+                      <date>1836</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">en-episode-af-ole-bulls-liv</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Bertel Thorvaldsen</title>
+                      <date>1844-1845</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">bertel-thorvaldsen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Jens Adolf Jerichau og Elisabeth Jerichau, født Baumann</title>
+                      <date>1854</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">jens-adolf-jerichau-og-elisabeth-jerichau-foedt-baumann</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Henriette Hanck</title>
+                      <date>1855</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">henriette-hanck</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Johan Peter Emilius Hartmann</title>
+                      <date>1860</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">johan-peter-emilius-hartmann</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Digteren Bernhard Severin Ingemann</title>
+                      <date>1862</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">digteren-bernhard-severin-ingemann</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Til Kjøbenhavns-Postens Læsere, i Anledning af Hr. XXX’s Critik over: »Kjærlighed paa Nicolai Taarn«</title>
+                      <date>1829</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">til-kjoebenhavns-postens-laesere-i-anledning-af-hr-xxxs-critik-over-kjaerlighed-paa-nicolai-taarn</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Erklæring</title>
+                      <date>1836</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">erklaering</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Anmeldelse af H.C. Ørsteds foredrag om eksperimenterne med den elektromagnetiske telegraf</title>
+                      <date>1839</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">anmeldelse-af-hc-oersteds-foredrag-om-eksperimenterne-med-den-elektromagnetiske-telegraf</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Fortale</title>
+                      <date>1841</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">fortale</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">De Svenske i Fyen i Sommeren 1848</title>
+                      <date>1848</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">de-svenske-i-fyen-i-sommeren-1848</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Et Par Ord om »Hyldemoer«</title>
+                      <date>1851</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">et-par-ord-om-hyldemoer</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">»Midsommar-Resan«. En Vall-Fart af Förf. till Teckningar ur hvardagslifvet</title>
+                      <date>1855</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">midsommar-resan-en-vall-fart-af-foerf-till-teckningar-ur-hvardagslifvet</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Berigtigelse af en fejl i Mit Livs Eventyr</title>
+                      <date>1856</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">berigtigelse-af-en-fejl-i-mit-livs-eventyr</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Protest til redaktør Ploug</title>
+                      <date>1861</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">protest-til-redaktoer-ploug</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Svarskrivelse til Odense kommunalbestyrelse</title>
+                      <date>1867</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">svarskrivelse-til-odense-kommunalbestyrelse</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Takskrivelse til Studenterforeningen</title>
+                      <date>1867</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">takskrivelse-til-studenterforeningen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brev til P. Hjort</title>
+                      <date>1869</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">brev-til-p-hjort</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brev til J.M. Thiele</title>
+                      <date>1869</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">brev-til-jm-thiele</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brev til H.C. Ørsted</title>
+                      <date>1870</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">brev-til-hc-oersted</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Danske Folkesagn</title>
+                      <date>1870</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">danske-folkesagn</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Livingstones Datter og H. C. Andersen</title>
+                      <date>1872</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">livingstones-datter-og-h-c-andersen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Uddrag af brev til Edmund W. Gosse</title>
+                      <date>1874</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">uddrag-af-brev-til-edmund-w-gosse</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">H. C. Andersen og de amerikanske Børn</title>
+                      <date>1874</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">h-c-andersen-og-de-amerikanske-boern</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Akrostichon-Gaade</title>
+                      <date>1875</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">akrostichon-gaade</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Til mine Landsmænd</title>
+                      <date>1875</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">til-mine-landsmaend</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">H. C. Andersens Barndomshjem</title>
+                      <date>1875</date>
+                      <catRef target="#mix"/>
+                      <idno type="SV">h-c-andersens-barndomshjem</idno>
+                 </item>                 
+<!--Bind 9: SLUT-->
+<!--bind 10: Skuespil I: START-->
+<item>
+                      <title xml:lang="da">Scene af: Røverne i Vissenberg i Fyen</title>
+                      <date>1822</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">scene-af-roeverne-i-vissenberg-i-fyen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Kjærlighed paa Nicolai Taarn eller Hvad siger Parterret</title>
+                      <date>1829</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">kjaerlighed-paa-nicolai-taarn-eller-hvad-siger-parterret</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Skibet</title>
+                      <date>1831</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">skibet</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Bruden fra Lammermoor</title>
+                      <date>1832</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">bruden-fra-lammermoor</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Ravnen eller Broderprøven</title>
+                      <date>1832</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">ravnen-eller-broderproeven</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Dronningen paa 16 Aar</title>
+                      <date>1833</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">dronningen-paa-16-aar</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Agnete og Havmanden</title>
+                      <date>1834</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">agnete-og-havmanden</idno>
+                 </item>
+                 <!--bind 10: Skuespil I SLUT-->
+                <!--bind 11: Skuespil II START-->
+                 
+                 <item>
+                      <title xml:lang="da">Festen paa Kenilworth</title>
+                      <date>1836</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">festen-paa-kenilworth</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Sangene . i Festen paa Kenilworth, romantisk Syngestykke i tre Acter. 1836</title>
+                      <date>1836</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">sangene-i-festen-paa-kenilworth-romantisk-syngestykke-i-tre-acter-1836</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Skilles og mødes</title>
+                      <date>1836</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">skilles-og-moedes</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Den Usynlige paa Sprogø</title>
+                      <date>1839</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">den-usynlige-paa-sprogoe</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Mulatten</title>
+                      <date>1840</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">mulatten</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Mikkels Kjærligheds Historier i Paris</title>
+                      <date>1840</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">mikkels-kjaerligheds-historier-i-paris</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">En Comedie i det Grønne</title>
+                      <date>1840</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">en-comedie-i-det-groenne</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Maurerpigen</title>
+                      <date>1840</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">maurerpigen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Sangerinden</title>
+                      <date>1841</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">sangerinden</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Vandring gjennem Opera-Galleriet</title>
+                      <date>1841</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">vandring-gjennem-opera-galleriet</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Fuglen i Pæretræet</title>
+                      <date>1842</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">fuglen-i-paeretraeet</idno>
+                 </item>
+                 
+                 <!--bind 11: Skuespil II SLUT-->                 
+                 <!--bind 12: Skuespil III START-->
+                 
+                 <item>
+                      <title xml:lang="da">Kongen drømmer</title>
+                      <date>1844</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">kongen-droemmer</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Fragmenter af »Ahasverus«</title>
+                      <date>1844</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">fragmenter-af-ahasverus</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Lykkens Blomst</title>
+                      <date>1845</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">lykkens-blomst</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Den nye Barselstue</title>
+                      <date>1845</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">den-nye-barselstue</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Hr. Rasmussen</title>
+                      <date>1846</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">hr-rasmussen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Liden Kirsten</title>
+                      <date>1846</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">liden-kirsten</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Ahasverus</title>
+                      <date>1848</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">ahasverus</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Kunstens Dannevirke</title>
+                      <date>1848</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">kunstens-dannevirke</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brylluppet ved Como-Søen</title>
+                      <date>1849</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">brylluppet-ved-como-soeen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">En Nat i Roeskilde</title>
+                      <date>1849</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">en-nat-i-roeskilde</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Meer end Perler og Guld</title>
+                      <date>1849</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">meer-end-perler-og-guld</idno>
+                 </item>                 
+                 <!--bind 12: Skuespil III SLUT-->                 
+<!--bind 13: Skuespil IV-->
+                 
+                 <item>
+                      <title xml:lang="da">Ole Lukøie</title>
+                      <date>1850</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">ole-lukoeie-1850</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Hyldemoer [eventyrkomedien]</title>
+                      <date>1851</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">hyldemoer-1851</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Nøkken</title>
+                      <date>1853</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">noekken</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Indledning til Carnevalet</title>
+                      <date>1853-1854</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">indledning-til-carnevalet</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">En Landsbyhistorie</title>
+                      <date>1855</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">en-landsbyhistorie</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">I Maaneskin</title>
+                      <date>1855</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">i-maaneskin</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Paa Langebro</title>
+                      <date>1864</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">paa-langebro</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Han er ikke født</title>
+                      <date>1864</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">han-er-ikke-foedt</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Da Spanierne var her</title>
+                      <date>1865</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">da-spanierne-var-her</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">I Vetturinens Vogn</title>
+                      <date>1869</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">i-vetturinens-vogn</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Kong Saul</title>
+                      <date>1876</date>
+                      <catRef target="#play"/>
+                      <idno type="SV">kong-saul</idno>
+                 </item>                 
+<!--Bind 13: Skuespil IV SLUT-->
+                 
+                 <!--Rejseskildringer, bind 14-->
+                 <item>
+                      <title xml:lang="da">Fragment af en Reise fra Roeskilde til Helsingøer</title>
+                      <date>1826</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">fragment-af-en-reise-fra-roeskilde-til-helsingoeer</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brudstykke af en Udflugt i Sommeren 1829</title>
+                      <date>1829</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">brudstykke-af-en-udflugt-i-sommeren-1829</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Skyggebilleder af en Reise til Harzen, det sachsiske Schweitz etc. etc., i Sommeren 1831</title>
+                      <date>1831</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">skyggebilleder-af-en-reise-til-harzen-det-sachsiske-schweitz-etc-etc-i-sommeren-1831</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Uddrag af et Privatbrev fra Paris, dateret 11te Juni 1833</title>
+                      <date>1833</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">uddrag-af-et-privatbrev-fra-paris-dateret-11te-juni-1833</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Blade af min Dagbog</title>
+                      <date>1835</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">blade-af-min-dagbog</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">En Digters Bazar</title>
+                      <date>1842</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">en-digters-bazar</idno>
+                 </item>
+                 <!--bind 15: START-->
+                 
+                 <item>
+                      <title xml:lang="da">I Sverrig</title>
+                      <date>
+                           1851
+                      </date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">i-sverrig</idno>
+                 </item>
+                 
+                 <item>
+                      <title xml:lang="da">Silkeborg [rejseskildringen]</title>
+                      <date>1854</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">silkeborg-rejseskildringen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Af et Brev fra London</title>
+                      <date>1857</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">af-et-brev-fra-london</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Ragaz</title>
+                      <date>1858</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">ragaz</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Et Besøg hos Charles Dickens i Sommeren 1857</title>
+                      <date>1860</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">et-besoeg-hos-charles-dickens-i-sommeren-1857</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Skagen</title>
+                      <date>1860</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">skagen</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Passions-Skuespillet i Oberammergau i 1860</title>
+                      <date>1860</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">passions-skuespillet-i-oberammergau-i-1860</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brudstykke af en Reise i Schweitz</title>
+                      <date>1861</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">brudstykke-af-en-reise-i-schweitz</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brev fra Prof. H. C. Andersen. Dateret Florents den 3. Juni</title>
+                      <date>1861</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">brev-fra-prof-h-c-andersen-dateret-florents-den-3-juni</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">I Spanien</title>
+                      <date>1863</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">i-spanien</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Uddrag af et Brev, dateret Leyden, den 17. Marts</title>
+                      <date>1866</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">uddrag-af-et-brev-dateret-leyden-den-17-marts</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Et Besøg i Portugal 1866</title>
+                      <date>
+                           1868
+                      </date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">et-besoeg-i-portugal-1866</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">I Jurabjergene</title>
+                      <date>1869</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">i-jurabjergene</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Brev til H.C. Ørsted, dateret Rom den 5te December 1833</title>
+                      <date>1870</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">brev-til-hc-oersted-dateret-rom-den-5te-december-1833</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Nürnberg</title>
+                      <date>1872</date>
+                      <catRef target="#travelAccount"/>
+                      <idno type="SV">nuernberg</idno>
+                 </item>
+                 <!--bind 15: SLUT-->
+                 <!--bind 16: Selvbiografier I START-->
+                 
+                 <item>
+                      <title xml:lang="da">Levnedsbog</title>
+                      <date>1832</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">levnedsbog</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Mit eget Eventyr uden Digtning</title>
+                      <date>1846</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">mit-eget-eventyr-uden-digtning</idno>
+                 </item>                 
+                 <!--bind 16: Selvbiografier I SLUT-->
+                 <!--bind 17: Selvbiografier II START-->
+                 <item>
+                      <title xml:lang="da">Mit Livs Eventyr (inklusive Fortsættelse og Tillæg). 1855-1877</title>
+                      <date>1855-1877</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877</idno>
+                 </item>
+                 <!--bind 17: Selvbiografier II SLUT-->
+                 <!--bind 18: Selvbiografier III START-->
+                 <!--bind 18: Selvbiografier III SLUT-->
+                 
+                 
+               <!--Samples selvbiografier-->
+                <!-- <item>
+                      <title xml:lang="da">Mit Livs Eventyr (inklusive Fortsættelse og Tillæg). 1855-1877</title>
+                      <date>1855-1877 1855-1877 1855 1869</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+                 
+                 
+                 <item>
+                      <title xml:lang="da">Levnedsbog</title>
+                      <date>1832</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">levnedsbog</idno>
+                 </item>  -->      
+                 <!--<item>
+                      <title xml:lang="da">Mit eget Eventyr uden Digtning</title>
+                      <date>1847</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">mit-eget-eventyr-uden-digtning_del-1</idno>
+                 </item>-->
+                 <!--<item>
+                      <title xml:lang="da">Mit Livs Eventyr</title>
+                      <date>1855</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">del-1_mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877</idno>
+                 </item>
+                 <item>
+                      <title xml:lang="da">Mit Livs Eventyr</title>
+                      <date>1859</date>
+                      <catRef target="#autobiography"/>
+                      <idno type="SV">del-2_mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877</idno>
+                 </item>-->
+                 
+</list>
+         </div>
+      </body>
+   </text>
+     
+     </TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://beta.auh.sdu.dk/pmm-skema/sv18.rnc"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="da" xml:space="preserve">
+
+                         
+                              <teiHeader>
+                                   <fileDesc>
+                                        <titleStmt>
+                                             <title>Runerne, et Digt i Anledning af Deres Höifyrstelige Durchlauchtigheder Prinds Christian af Glücksborgs og Prindsesse Louise af Hessen-Cassels höie Formæling den 26de Mai 1842</title>
+                                             <author ref="http://viaf.org/viaf/4925902">H.C. Andersen</author>
+                                             
+                                             <editor role="data">Dan H. Andreasen</editor>
+                                             <editor role="data">Holger Berg</editor>
+                                        </titleStmt>
+                                        <publicationStmt>
+                                             <publisher>Museum Odense and The Hans Christian Andersen Center, University of Southern Denmark, Odense, Denmark</publisher>
+                                             <availability>
+            <p type="cc-by" target="https://creativecommons.org/licenses/by/4.0/">Creative Commons, Attribution 4.0 International (CC BY 4.0)</p>
+                 <p>Draft, not for public accession</p>
+            </availability>
+                                             <idno type="version1.0">1.0</idno>
+                                             <date>2024-04-01</date>
+                                             
+                                        </publicationStmt>
+                                        <sourceDesc>
+                                             <listBibl>
+                                                  <bibl>
+                                                             
+          
+      </bibl>
+                                                  <biblStruct>
+                                                  <monogr>
+                                                       <title level="m">ANDERSEN: H.C. Andersens Samlede Værker</title>
+                                                       <editor ref="http://viaf.org/viaf/4925902">
+                                                            <publisher>Det Danske Sprog- og Litteraturselskab</publisher>
+                                                            <persName>
+                                                                 <forename>Klaus</forename>
+                                                                 <forename full="init">P.</forename>
+                                                                 <surname>Mortensen</surname>
+                                                            </persName>
+                                                            </editor>
+                                                            <imprint>
+                                                                 <pubPlace>København</pubPlace>
+                                                                 <publisher>Gyldendal</publisher>
+                                                                 <date>2003-2007</date>
+                                                                 <idno type="ISBN">87-02-01991-4</idno>
+                                                            </imprint>
+                                                       <biblScope unit="volume">:<hi rend="italic"/></biblScope>
+                                                       <date when=""/>
+                                                  </monogr>
+                                             </biblStruct></listBibl>
+                                             <notesStmt>
+                                                  
+                                                       <note xml:id="thisFile" target="runerne-et-digt-i-anledning-af-deres-hoeifyrstelige-durchlauchtigheder-prinds-christian-af-gluecksborgs-og-prindsesse-louise-af-hessen-cassels-hoeie-formaeling-den-26de-mai-1842" type="originalDanish">dansk førsteudgave</note>
+                                                       
+                                                  
+                                                                                                    
+                                             </notesStmt>
+                                        </sourceDesc>
+                                        <encodingDesc>
+                                             <taxonomy xml:id="tax.Mortensen">
+                                                  <bibl>
+                                                       <title>ANDERSEN. H.C. Andersens Samlede Værker</title>
+                                                       <editor>Klaus P. Mortensen</editor>
+                                                       <edition>2003-2008</edition>
+                                                  </bibl>
+                                                  <category xml:id="tale">
+                                                       <catDesc xml:lang="da">eventyr og historier</catDesc>
+                                                       <catDesc xml:lang="en">fairy tales and stories</catDesc>
+                                                  </category>
+                                                  <category xml:id="novel">
+                                                       <catDesc xml:lang="da">romaner</catDesc>
+                                                       <catDesc xml:lang="en">novels</catDesc>
+                                                  </category>
+                                                  <category xml:id="poem">
+                                                       <catDesc xml:lang="da">digte</catDesc>
+                                                       <catDesc xml:lang="en">poems</catDesc>
+                                                  </category>
+                                                  <category xml:id="mix">
+                                                       <catDesc xml:lang="da">blandinger</catDesc>
+                                                       <catDesc xml:lang="en">genre mixes</catDesc>
+                                                  </category>
+                                                  <category xml:id="play">
+                                                       <catDesc xml:lang="da">skuespil</catDesc>
+                                                       <catDesc xml:lang="en">plays</catDesc>
+                                                  </category>
+                                                  <category xml:id="travelAccount">
+                                                       <catDesc xml:lang="da">rejseberetninger</catDesc>
+                                                       <catDesc xml:lang="en">travel accounts</catDesc>
+                                                  </category>
+                                                  <category xml:id="autobiography">
+                                                       <catDesc xml:lang="da">selvbiografier</catDesc>
+                                                       <catDesc xml:lang="en">autobiographies</catDesc>
+                                                  </category>
+                                             </taxonomy>︎    
+                                        </encodingDesc>
+                                        <xenoData>
+
+</xenoData>
+                                   </fileDesc>
+                                   <profileDesc>
+                                        <creation>
+                                             <date>1842</date>
+                                        </creation>
+                                        <textClass>
+                                             <catRef scheme="#tax.Mortensen" target="poem"/>
+                                             
+                                             <keywords scheme="addLinkToControlledVocabulary">
+                                                  
+                                             </keywords>
+                                        </textClass>
+                                        <milestone type="noTOC"/>
+                                   </profileDesc>
+                                   <revisionDesc>
+                                        <change when="2024-01-04" xml:id="NHB" who="NHB">docx2xml</change><change when="2024-01-04" who="NHB">formatted</change>
+                                        <change who="NHB" when="2024-06-25">extracted from larger file with entire volume</change>
+                                   </revisionDesc>
+                              </teiHeader>
+                              
+                                                  
+                         
+                         <text type="print">
+                              <body>
+                                   <div type="work" subtype="poem" rendition="verse" rend="Runerne, et Digt i Anledning af Deres Höifyrstelige Durchlauchtigheder Prinds Christian af Glücksborgs og Prindsesse Louise af Hessen-Cassels höie Formæling den 26de Mai 1842" xml:id="runerne-et-digt-i-anledning-af-deres-hoeifyrstelige-durchlauchtigheder-prinds-christian-af-gluecksborgs-og-prindsesse-louise-af-hessen-cassels-hoeie-formaeling-den-26de-mai-1842"><pb n="49"/><head type="part">Runerne, et Digt i Anledning af Deres Höifyrstelige <seg target="txtcmnt-049-01"><!--DATA-TERM: Durchlauchtighed(er)--><!--DATA-DEFINITION: højhed; brugt som ærestitel til (tyske) fyrster.-->Durchlauchtigheder</seg> <seg target="txtcmnt-049-02"><!--DATA-TERM: Prinds Christian af Glücksborg(s)--><!--DATA-DEFINITION: den senere kong Christian 9.-->Prinds <hi rend="italic">Christian af Glücksborgs</hi></seg> og Prindsesse <hi rend="italic">Louise af Hessen-Cassels</hi> höie <seg target="txtcmnt-049-03"><!--DATA-TERM: Formæling--><!--DATA-DEFINITION: vielse.-->Formæling</seg> den 26<hi rend="raised">de </hi>Mai 1842</head>
+<sp>
+<speaker type="styleOfSinging">CHOR</speaker>
+<l rend="noIndent">Klinger, I Harper og <seg target="txtcmnt-049-04"><!--DATA-TERM: Cymbler--><!--DATA-DEFINITION: musikinstrument fra antikken, bestående af to små bækkener, der slås imod hinanden.-->Cymbler</seg>!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SANG</speaker>
+<l rend="noIndent">Der ligger et <seg target="txtcmnt-049-05"><!--DATA-TERM: Slot i Danmark med Hegn af Rosentræer--><!--DATA-DEFINITION: lystslottet Rosenborg i Kongens Have i København, opført 1606-1634.-->Slot i <hi rend="italic">Danmark</hi> med Hegn af Rosentræer</seg>,</l>
+<l rend="noIndent">I Maanskin leged’ ved disse den lette Alfehær;</l>
+<l rend="noIndent">Den allersmukkeste Rose de kyssed’ paa Mund og Kind,</l>
+<l rend="noIndent">Usynlige Runer da voxte i alle Blade ind.</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">CHOR</speaker>
+<l rend="noIndent">Klinger, I Harper og Cymbler!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SANG</speaker>
+<l rend="noIndent">To Börn af kongelig Stamme de nævned’, de for Dem bad,</l>
+<l rend="noIndent">De Tvendes hele Historie blev een paa hvert et Blad.</l>
+<l rend="noIndent">Den læstes i Morgenröden af Alfernes hele Hær,</l>
+<l rend="noIndent">En Rose er et Mysterie! hvad læste hver især!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">CHOR</speaker>
+<l rend="noIndent">Klinger, I Harper og Cymbler!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SOLO</speaker>
+<lg xml:id="p_00091">
+<l rend="noIndent"><hi rend="italic">Hun</hi> dandser i Barne-Rækken</l>
+<l rend="noIndent">Som <seg target="txtcmnt-049-06"><!--DATA-TERM: Sylphide(n)--><!--DATA-DEFINITION: sylfide; kvindelig ånd, der menes at bo i luften; spinkel, yndefuld kvinde.-->Sylphiden</seg> svævende let!</l>
+<l rend="noIndent"><hi rend="italic">Hun</hi> læser i Bogen ved Bækken,</l>
+<l rend="noIndent">Den risler derom en <seg target="txtcmnt-049-07"><!--DATA-TERM: Sonet--><!--DATA-DEFINITION: digt bestående af 14 verslinjer på hver 11 stavelser, opdelt i to kvartetter a fire verslinjer og to terzetter a tre verslinjer.-->Sonet</seg>!</l>
+</lg>
+<lg xml:id="p_00092">
+<l rend="noIndent"><hi rend="italic">Hun</hi> er den kjærligste Datter,</l>
+<l rend="noIndent">Saa smuk og saa hjertensgod,</l>
+<l rend="noIndent">Eet Rosenblad ikke omfatter</l>
+<l rend="noIndent">Saa herligt et Rosen-Blod!</l>
+</lg>
+</sp>
+<sp>
+<speaker type="styleOfSinging">QVARTET</speaker>
+<l rend="noIndent">See der, som en kjæk Ungarer,</l>
+<l rend="noIndent">Saa kraftig, saa slank og saa skjön,</l>
+<pb n="50"/>
+<l rend="noIndent">Paa Gangeren lystigt <hi rend="italic">Han</hi> farer,</l>
+<l rend="noIndent">Man seer det er en Fyrste-Sön!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">TERZET</speaker>
+<l rend="noIndent"><hi rend="italic">Hun</hi> smiler og svinger med Klædet,</l>
+<l rend="noIndent"><hi rend="italic">Han</hi> er hendes Barndoms Ven,</l>
+<l rend="noIndent"><hi rend="italic">Hendes</hi> Fryd ham tidt har glædet,</l>
+<l rend="noIndent"><hi rend="italic">Hun</hi> hans Sorg har deelt igjen!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SANG</speaker>
+<lg xml:id="p_00093">
+<l rend="noIndent">Igjennem Kirken höit Orglet runger,</l>
+<l rend="noIndent">Rört <hi rend="italic">hun</hi> sin <seg target="txtcmnt-050-01"><!--DATA-TERM: Daabs-Pagt--><!--DATA-DEFINITION: den pagt, der indgås med Gud i dåben, og som bekræftes i konfirmationen.-->Daabs-Pagt</seg> gjentager der;</l>
+<l rend="noIndent">Ei <hi rend="italic">hun</hi> veed hvad Droslen udenfor sjunger,</l>
+<l rend="noIndent">Tanken er hos <seg target="txtcmnt-050-02"><!--DATA-TERM: Cherub(ernes)--><!--DATA-DEFINITION: kerub; englelignende væsen, som ifølge Det Gamle Testamente står vagt om Gud og Paradisets Have.-->Cherubernes</seg> Hær.</l>
+<l rend="firstIndent">Gud alene raader for Lykken!</l>
+</lg>
+<lg xml:id="p_00094">
+<l rend="noIndent">Ved <hi rend="italic">Rhinen</hi> under de grönne Ranker</l>
+<l rend="noIndent"><seg target="txtcmnt-050-03"><!--DATA-TERM: Sidder ved Bogen--><!--DATA-DEFINITION: læser, studerer.-->Sidder ved Bogen</seg> en Fyrste-Sön,</l>
+<l rend="noIndent">Til Rosen i <hi rend="italic">Danmark</hi> flyve hans Tanker,</l>
+<l rend="noIndent">Ned til ham flyve Tanker <seg target="txtcmnt-050-04"><!--DATA-TERM: i Lön--><!--DATA-DEFINITION: skjult, hemmeligt.-->i Lön</seg>!</l>
+<l rend="firstIndent">Gud alene raader for Lykken.</l>
+</lg></sp>
+<sp>
+<speaker type="styleOfSinging">QVINTET</speaker>
+<l rend="noIndent">Kjærlighed! Du Hjertet bringer</l>
+<l rend="noIndent">Hele Paradisets Lyst!</l>
+<l rend="noIndent">Kjærlighed! paa dine Vinger</l>
+<l rend="noIndent">Flyve vi til Himlens Kyst!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SANG</speaker>
+<l rend="noIndent"><hi rend="italic">(Mel.: <seg target="txtcmnt-050-05"><!--DATA-TERM: Hr. Peder kasted’ Runer--><!--DATA-DEFINITION: sang fra H. Hertz’ tragedie <i>Svend Dyrings Huus</i>, I,8, 1837, med musik af H. Rung.-->Hr. Peder kasted’ Runer</seg>.)</hi></l>
+<l rend="noIndent">Paa Rosens Blade Runerne de skreve,</l>
+<l rend="noIndent">Ved Alfers Uskyldskys de Runer bleve!</l>
+<l rend="firstIndent">Nu <seg target="txtcmnt-050-06"><!--DATA-TERM: (Droslen) slaaer--><!--DATA-DEFINITION: synger.-->Droslen slaaer</seg> i Birken,</l>
+<l rend="noIndent">Den hilser paa de To,</l>
+<l rend="noIndent">Som vandre hjem fra Kirken</l>
+<l rend="noIndent">Livsglade, fyldt med Tro!</l>
+<l rend="noIndent">Gud med <hi rend="italic">Dem</hi>! bede hvert et Hjerte,</l>
+<l rend="noIndent">I hver Fryd, under hver en Smerte:</l>
+<l rend="noIndent"><hi rend="italic">Gud med Dem!</hi></l>
+<graphic type="shortLine"/>
+<pb n="51"/>
+<lg xml:id="p_00095">
+<l rend="noIndent">O læs dog de Blade til Ende.</l>
+<l rend="noIndent">Siig, hvad skal skee?</l>
+<l rend="noIndent">»Sin Skjæbne Ingen tör kjende,</l>
+<l rend="noIndent">Ingen i Fremtiden see!«</l>
+</lg>
+</sp>
+<sp>
+<speaker type="styleOfSinging">CHOR</speaker>
+<l rend="noIndent">Klinger, I Harper og Cymbler!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">SANG</speaker>
+<l rend="noIndent">Vi Alfer ere saa glade! vi dandse saa jublende hver!</l>
+<l rend="noIndent">Der ligger et Slot i Danmark med Hegn af Rosentræer,</l>
+<l rend="noIndent">I deiligt Solskin her sidder det Brudepar ungt og smukt,</l>
+<l rend="noIndent">Vi bringe dem Havens Blomster og Træets bedste Frugt!</l>
+</sp>
+<sp>
+<speaker type="styleOfSinging">CHOR</speaker>
+<l rend="noIndent">Klinger, I Harper og Cymbler!</l>
+</sp>
+</div>
+                              </body>
+                         </text>
+                         <standOff>
+                              <listAnnotation>
+                                   
+                                   
+<div type="work-comments" rend="Runerne, et Digt i Anledning af Deres Höifyrstelige Durchlauchtigheder Prinds Christian af Glücksborgs og Prindsesse Louise af Hessen-Cassels Höie Formæling den 26de Mai 1842" synch="runerne-et-digt-i-anledning-af-deres-hoeifyrstelige-durchlauchtigheder-prinds-christian-af-gluecksborgs-og-prindsesse-louise-af-hessen-cassels-hoeie-formaeling-den-26de-mai-1842">
+<head type="section-comments">Runerne, et Digt i Anledning af Deres Höifyrstelige Durchlauchtigheder Prinds <hi rend="italic">Christian af Glücksborgs</hi> og Prindsesse <hi rend="italic">Louise af Hessen-Cassels</hi> Höie Formæling den 26<hi rend="raised">de</hi> Mai 1842</head>
+<p rend="noIndent">Først kendte tryk: lejlighedstryk, musikken af H. Rung. BFN 419</p>
+<p rend="noIndent">Tekstrettelser i forhold til trykforlægget</p>
+<table rend="textdeviations">
+<row><cell type="position">49,14</cell><cell type="deviation">Angivelsen Sang suppleres, findes ikke i forlægget</cell></row>
+</table>
+<table rend="textcomments">
+<cell type="page">49</cell><cell><row xml:id="txtcmnt-049-01"><cell type="data-term">Durchlauchtighed(er)</cell><cell type="data-definition">højhed; brugt som ærestitel til (tyske) fyr<pb n="558"/>ster.</cell></row><row xml:id="txtcmnt-049-02"><cell type="data-term">Prinds Christian af Glücksborg(s)</cell><cell type="data-definition">den senere kong Christian 9.</cell></row><row xml:id="txtcmnt-049-03"><cell type="data-term">Formæling</cell><cell type="data-definition">vielse.</cell></row><row xml:id="txtcmnt-049-04"><cell type="data-term">Cymbler</cell><cell type="data-definition">musikinstrument fra antikken, bestående af to små bækkener, der slås imod hinanden.</cell></row><row xml:id="txtcmnt-049-05"><cell type="data-term">Slot i Danmark med Hegn af Rosentræer</cell><cell type="data-definition">lystslottet Rosenborg i Kongens Have i København, opført 1606-1634.</cell></row><row xml:id="txtcmnt-049-06"><cell type="data-term">Sylphide(n)</cell><cell type="data-definition">sylfide; kvindelig ånd, der menes at bo i luften; spinkel, yndefuld kvinde.</cell></row><row xml:id="txtcmnt-049-07"><cell type="data-term">Sonet</cell><cell type="data-definition">digt bestående af 14 verslinjer på hver 11 stavelser, opdelt i to kvartetter a fire verslinjer og to terzetter a tre verslinjer.</cell></row></cell>
+<cell type="page">50</cell><cell><row xml:id="txtcmnt-050-01"><cell type="data-term">Daabs-Pagt</cell><cell type="data-definition">den pagt, der indgås med Gud i dåben, og som bekræftes i konfirmationen.</cell></row><row xml:id="txtcmnt-050-02"><cell type="data-term">Cherub(ernes)</cell><cell type="data-definition">kerub; englelignende væsen, som ifølge Det Gamle Testamente står vagt om Gud og Paradisets Have.</cell></row><row xml:id="txtcmnt-050-03"><cell type="data-term">Sidder ved Bogen</cell><cell type="data-definition">læser, studerer.</cell></row><row xml:id="txtcmnt-050-04"><cell type="data-term">i Lön</cell><cell type="data-definition">skjult, hemmeligt.</cell></row><row xml:id="txtcmnt-050-05"><cell type="data-term">Hr. Peder kasted’ Runer</cell><cell type="data-definition">sang fra H. Hertz’ tragedie <hi rend="italic">Svend Dyrings Huus</hi>, I,8, 1837, med musik af H. Rung.</cell></row><row xml:id="txtcmnt-050-06"><cell type="data-term">(Droslen) slaaer</cell><cell type="data-definition">synger.</cell></row></cell>
+</table></div>
+                                   
+                              </listAnnotation>
+                         </standOff>
+                    </TEI>

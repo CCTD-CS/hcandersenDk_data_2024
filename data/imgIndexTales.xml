@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:TEI="http://www.tei-c.org/ns/1.0" xml:lang="da">
+<list><item n="1">
+                  <num>2</num>
+                  <title xml:lang="da">Dødningen, et fyensk Folke-Eventyr</title>
+                  <title xml:lang="en" id="Irons">The Corpse, A Funen Folk Tale</title>
+                  <date when="1830-01-02">2 January 1830</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">doedningen_modern</idno>
+                  <idno type="SV">doedningen</idno><!--_1830-->
+                  <idno type="ironsEdition">2_The-Corpse-a-Funen-Folk-Tale</idno>
+                  <idno type="image">Reisekammeraten_forside.png</idno>
+                           <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="2">
+                  <num>5</num>
+                  <title xml:lang="da">Det sjunkne Kloster</title>
+                  <title xml:lang="en" id="Irons">The Sunken Convent</title>
+                  <date when="1831-10-19">19 October 1831</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-sjunkne-kloster_modern</idno>
+                  <idno type="SV">det-sjunkne-kloster</idno><!--_1831-->
+                  <idno type="ironsEdition">5_The-Sunken-Convent</idno>
+                    <!--<idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno>--><!-- HCA-Phantasy-Cut_rect_grey.jpg -->
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="3">
+                  <num>6</num>
+                  <title xml:lang="da">Fyrtøiet</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Tinder-Box</title>
+                  <date when="1835-05-08">8 May 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">fyrtoeiet_modern</idno>
+                  <idno type="SV">fyrtoeiet</idno><!--_1835-->
+                  <idno type="ironsEdition">6_The-Tinder-Box</idno>
+                  <idno type="image">Fyrtoeiet_forside.png</idno>
+                  <desc>
+                     <p>The Tinder Box (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="4">
+                  <num>7</num>
+                  <title xml:lang="da">Lille Claus og store Claus</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Little Claus and Big Claus</title>
+                  <date when="1835-05-08">8 May 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lille-claus-og-store-claus_modern</idno>
+                  <idno type="SV">lille-claus-og-store-claus</idno><!--_1835-->
+                  <idno type="ironsEdition">7_Little-Claus-and-Big-Claus</idno>
+                  <idno type="image">Lille_Claus_og_store_Claus_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="5">
+                  <num>8</num>
+                  <title xml:lang="da">Prindsessen paa Ærten</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Princess on the Pea</title>
+                  <date when="1835-05-08">8 May 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">prindsessen-paa-aerten_modern</idno>
+                    <idno type="SV">prindsessen-paa-aerten</idno>
+                  <idno type="ironsEdition">8_The-Princess-on-the-Pea</idno>
+                  <idno type="image">Prindsessen_paa_Aerten_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="6">
+                  <num>9</num>
+                  <title xml:lang="da">Den lille Idas Blomster</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Little Ida's Flowers</title>
+                  <date when="1835-05-08">8 May 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-lille-idas-blomster_modern</idno>
+                  <idno type="SV">den-lille-idas-blomster</idno><!--_1835-->
+                  <idno type="ironsEdition">9_Little-Idas-Flowers</idno>
+                  <idno type="image">Den_lille_Idas_Blomster_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="7">
+                  <num>10</num>
+                  <title xml:lang="da">Tommelise</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Thumbelina</title>
+                  <date when="1835-12-16">16 December 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">tommelise_modern</idno>
+                  <idno type="SV">tommelise</idno><!--_1835-->
+                  <idno type="ironsEdition">10_Thumbelina</idno>
+                  <idno type="image">Tommelise_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="8">
+                  <num>11</num>
+                  <title xml:lang="da">Den uartige Dreng</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Naughty Boy</title>
+                  <date when="1835-12-16">16 December 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-uartige-dreng_modern</idno>
+                  <idno type="SV">den-uartige-dreng</idno><!--_1835-->
+                  <idno type="ironsEdition">11_The-Naughty-Boy</idno>
+                  <idno type="image">Den_uartige_Dreng_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="9">
+                  <num>12</num>
+                  <title xml:lang="da">Reisekammeraten</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Travelling Companion</title>
+                  <date when="1835-12-16">16 December 1835</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">reisekammeraten_modern</idno>
+                  <idno type="SV">reisekammeraten</idno><!--_1835-->
+                  <idno type="ironsEdition">12_The-Travelling-Companion</idno>
+                  <idno type="image">Reisekammeraten_forside.png</idno>
+                  <desc>
+                     <p>The Traveling Companion (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+               <!--<item n="10">
+                  <num>13</num>
+                  <title xml:lang="da">Det er Dig, Fabelen sigter til!</title>
+                  <title xml:lang="en" id="Irons">It's You the Fable has in Mind!</title>
+                  <date when="1836-10-28">28 October 1836</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">smaahistorier_det-er-dig-fabelen-sigter-til_modern</idno>
+                  <idno type="SV">smaahistorier_det-er-dig-fabelen-sigter-til</idno><!-\-_1836-\->
+                  <idno type="ironsEdition">13_Its-You-the-Fable-has-in-Mind</idno>
+                    <idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno><!-\- HCA-Phantasy-Cut_rect_grey.jpg -\-><!-\-generic image-\->
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="11">
+                  <num>14</num>
+                  <title xml:lang="da">Talismanen</title>
+                  <title xml:lang="en" id="Irons">The Talisman</title>
+                  <date when="1835-11-04">4 November 1836</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">smaahistorier_talismanen_modern</idno>
+                  <idno type="SV">smaahistorier_talismanen</idno><!-\-_1836-\->
+                  <idno type="ironsEdition">14_The-Talisman</idno>
+                    <idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno><!-\- HCA-Phantasy-Cut_rect_grey.jpg -\-><!-\-generic image-\->
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="12">
+                  <num>15</num>
+                  <title xml:lang="da">Den gamle Gud lever endnu</title>
+                  <title xml:lang="en" id="Irons">The Old God is Still Alive</title>
+                  <date when="1835-11-18">18 November 1836</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">smaahistorier_den-gamle-gud-lever-endnu_modern</idno>
+                  <idno type="SV">smaahistorier_den-gamle-gud-lever-endnu</idno><!-\-_1836-\->
+                  <idno type="ironsEdition">15_The-Old-God-is-Still-Alive</idno>
+                    <idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno><!-\- HCA-Phantasy-Cut_rect_grey.jpg -\-><!-\-generic image-\->
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="13">
+                      <num>211</num>
+                      <title xml:lang="da">De blaae Bjerge</title>
+                      <title xml:lang="en" id="Irons">The Blue Mountains</title>
+                      <date when="1972-12-23">23 December 1972</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hans-og-grethe_modern</idno>
+                  <idno type="SV">hans-og-grethe</idno><!-\-_1836-\->
+                      <idno type="ironsEdition">211_The-Blue-Mountains</idno>
+                      <idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno><!-\- HCA-Phantasy-Cut_rect_grey.jpg -\->
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="14">
+                      <num>212</num>
+                      <title xml:lang="da">Hans og Grethe</title>
+                      <title xml:lang="en" id="Irons">Hans and Grethe</title>
+                      <date when="1972-12-23">23 December 1972</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">de-blaae-bjerge_modern</idno>
+                  <idno type="SV">de-blaae-bjerge</idno><!-\-_1836-\->
+                      <idno type="ironsEdition">212_Hans-and-Grethe</idno>
+                      <idno type="image">HCA-Phantasy-Cut_rect-lightblue.png</idno><!-\- HCA-Phantasy-Cut_rect_grey.jpg -\->
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>-->
+               
+                 <item>
+                      <title xml:lang="da">Smaahistorier</title>
+                      <title xml:lang="en" id="Irons">Small Stories</title>
+                      <date>1836</date>
+                      <catRef target="#tale"/>
+                      <idno type="SV">smaahistorier</idno>
+                      <idno type="ironsEdition">13-14-15-211-212_Small-Stories</idno>
+                      <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                      <ref type="suffix-xml">/xml</ref>
+                      <ref type="suffix-html">/html</ref>
+                      <ref type="suffix-pdf">/pdf</ref>
+                      <ref type="suffix-epub">/pdf</ref>
+                 </item>
+<item n="15">
+                  <num>16</num>
+                  <title xml:lang="da">Den lille Havfrue</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Little Mermaid</title>
+                  <date when="1837-04-07">7 April 1837</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-lille-havfrue_modern</idno>
+                  <idno type="SV">den-lille-havfrue</idno><!--_1837-->
+                  <idno type="ironsEdition">16_The-Little-Mermaid</idno>
+                  <idno type="image">Den_lille_Havfrue_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="16">
+                  <num>17</num>
+                  <title xml:lang="da">Keiserens nye Klæder</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Emperor's New Clothes</title>
+                  <date when="1837-04-07">7 April 1837</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">keiserens-nye-klaeder_modern</idno>
+                  <idno type="SV">keiserens-nye-klaeder</idno><!--_1837-->
+                  <idno type="ironsEdition">17_The-Emperors-New-Clothes</idno>
+                  <idno type="image">Keiserens_nye_Klaeder_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="17">
+                  <num>19</num>
+                  <title xml:lang="da">Gaaseurten</title>
+                  <title xml:lang="en" id="Irons">The Mayweed</title>
+                  <date when="1838-10-02">2 October 1838</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">gaaseurten_modern</idno>
+                  <idno type="SV">gaaseurten</idno><!--_1838-->
+                  <idno type="ironsEdition">19_The-Mayweed</idno>
+                  <idno type="image">Gaaseurten_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Daisy (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="18">
+                  <num>20</num>
+                  <title xml:lang="da">Den standhaftige Tinsoldat</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Steadfast Tin-soldier</title>
+                  <date when="1838-10-02">2 October 1838</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-standhaftige-tinsoldat_modern</idno>
+                  <idno type="SV">den-standhaftige-tinsoldat</idno><!--_1838-->
+                  <idno type="ironsEdition">20_The-Steadfast-Tin-Soldier</idno>
+                  <idno type="image">Den_standhaftige_Tinsoldat_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Steadfast Tin Soldier (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="19">
+                  <num>21</num>
+                  <title xml:lang="da">De vilde Svaner</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Wild Swans</title>
+                  <date when="1838-10-02">2 October 1838</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">de-vilde-svaner_modern</idno>
+                  <idno type="SV">de-vilde-svaner</idno><!--_1838-->
+                  <idno type="ironsEdition">21_The-Wild-Swans</idno>
+                  <idno type="image">De_vilde_Svaner_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="20">
+                  <num>23</num>
+                  <title xml:lang="da">Paradisets Have</title>
+                  <title xml:lang="en" id="Irons">The Garden of Eden</title>
+                  <date when="1839-10-19">19 October 1839</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">paradisets-have_modern</idno>
+                  <idno type="SV">paradisets-have</idno><!--_1839-->
+                  <idno type="ironsEdition">23_The-Garden-of-Eden</idno>
+                  <idno type="image">Paradisets_Have_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Garden of Paradise (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="21">
+                  <num>24</num>
+                  <title xml:lang="da">Den flyvende Kuffert</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Flying Trunk</title>
+                  <date when="1839-10-19">19 October 1839</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-flyvende-kuffert_modern</idno>
+                  <idno type="SV">den-flyvende-kuffert</idno><!--_1839-->
+                  <idno type="ironsEdition">24_The-Flying-Trunk</idno>
+                  <idno type="image">Den_flyvende_Kuffert_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="22">
+                  <num>25</num>
+                  <title xml:lang="da">Storkene</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Storks</title>
+                  <date when="1839-10-19">19 October 1839</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">storkene_modern</idno>
+                  <idno type="SV">storkene</idno><!--_1839-->
+                  <idno type="ironsEdition">25_The-Storks</idno>
+                  <idno type="image">Storkene_2022-03-14.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="23">
+                  <num>50</num>
+                  <title xml:lang="da">Den onde Fyrste</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Wicked Prince</title>
+                  <date when="1840-10-01">October 1840</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-onde-fyrste_modern</idno>
+                  <idno type="SV">den-onde-fyrste</idno><!--_1840-->
+                  <idno type="ironsEdition">50_The-Wicked-Prince</idno>
+                  <idno type="image">Den_onde_Fyrste_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="24">
+                  <num>57</num>
+                  <title xml:lang="da">Ole Lukøie</title>
+                  <title xml:lang="en" id="Irons">Wee Willie Winkie</title>
+                  <date when="1841-12-20">20 December 1841</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">ole-lukoeie_modern</idno>
+                  <idno type="SV">ole-lukoeie</idno><!--_1842-->
+                  <idno type="ironsEdition">57_Wee-Willie-Winkie</idno>
+                  <idno type="image">Ole_Lukoeie_forside.png</idno>
+                  <desc>
+                     <p>Ole Lukoie (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="25">
+                      <num>22</num>
+                      <title xml:lang="da">Rosen-Alfen</title>
+                      <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Rose-Elf</title>
+                      <date when="1839-05-19">19 May 1839</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">rosen-alfen_modern</idno>
+                  <idno type="SV">rosen-alfen</idno><!--_1842-->
+                      <idno type="ironsEdition">22_The-Rose-Elf</idno>
+                      <idno type="image">Rosenalfen_01_2022-03-09.png</idno>
+                      <desc>
+                           <p>The Rose Elf (minor variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="26">
+                  <num>58</num>
+                  <title xml:lang="da">Svinedrengen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Swineherd</title>
+                  <date when="1841-12-20">20 December 1841</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">svinedrengen_modern</idno>
+                  <idno type="SV">svinedrengen</idno><!--_1842-->
+                  <idno type="ironsEdition">58_The-Swineherd</idno>
+                  <idno type="image">Svinedrengen_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="27">
+                  <num>59</num>
+                  <title xml:lang="da">Boghveden</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Buckwheat</title>
+                  <date when="1841-12-20">20 December 1841</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">boghveden_modern</idno>
+                  <idno type="SV">boghveden</idno><!--_1842-->
+                  <idno type="ironsEdition">59_The-Buckwheat</idno>
+                  <idno type="image">Boghveden_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="28">
+                  <num>63</num>
+                  <title xml:lang="da">Engelen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Angel</title>
+                  <date when="1843-11-11">11 November 1843</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">engelen_modern</idno>
+                  <idno type="SV">engelen</idno><!--_1844-->
+                  <idno type="ironsEdition">63_The-Angel</idno>
+                  <idno type="image">Engelen_02_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="29">
+                  <num>64</num>
+                  <title xml:lang="da">Nattergalen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Nightingale</title>
+                  <date when="1843-11-11">11 November 1843</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">nattergalen_modern</idno>
+                  <idno type="SV">nattergalen</idno><!--_1844-->
+                  <idno type="ironsEdition">64_The-Nightingale</idno>
+                  <idno type="image">Nattergalen_02_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="30">
+                  <num>65</num>
+                  <title xml:lang="da">Kjærestefolkene [Toppen og bolden]</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Sweethearts</title>
+                  <date when="1843-11-11">11 November 1843</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">kjaerestefolkene_modern</idno>
+                  <idno type="SV">kjaerestefolkene</idno><!--_1844-->
+                  <idno type="ironsEdition">65_The-Sweethearts</idno>
+                  <idno type="image">Kjaerestefolkene_forside.png</idno>
+                  <desc>
+                     <p>The Sweethearts; or, The Top and the Ball (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="31">
+                  <num>66</num>
+                  <title xml:lang="da">Den grimme Ælling</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Ugly Duckling</title>
+                  <date when="1843-11-11">11 November 1843</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-grimme-aelling_modern</idno>
+                  <idno type="SV">den-grimme-aelling</idno><!--_1844-->
+                  <idno type="ironsEdition">66_The-Ugly-Duckling</idno>
+                  <idno type="image">Den_grimme_Aelling_Duckling_03.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="32">
+                  <num>67</num>
+                  <title xml:lang="da">Grantræet</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Fir Tree</title>
+                  <date when="1844-12-21">21 December 1844</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">grantraeet_modern</idno>
+                  <idno type="SV">grantraeet</idno><!--_1845-->
+                  <idno type="ironsEdition">67_The-Fir-Tree</idno>
+                  <idno type="image">Grantraeet_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="33">
+                  <num>68</num>
+                  <title xml:lang="da">Sneedronningen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Snow Queen</title>
+                  <date when="1844-12-21">21 December 1844</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">sneedronningen_modern</idno>
+                  <idno type="SV">sneedronningen</idno><!--_1845-->
+                  <idno type="ironsEdition">68_The-Snow-Queen</idno>
+                  <idno type="image">Sneedronningen_02_2022-03-14.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="34">
+                  <num>70</num>
+                  <title xml:lang="da">Hyldemoer</title>
+                  <title xml:lang="en" id="Irons">Elder-Mother</title>
+                  <date when="1844-12-01">December 1844</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hyldemoer_modern</idno>
+                  <idno type="SV">hyldemoer</idno><!--_1845-->
+                  <idno type="ironsEdition">70_Elder-Mother</idno>
+                  <idno type="image">Hyldemoer_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Elder-Tree Mother (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="35">
+                  <num>71</num>
+                  <title xml:lang="da">Elverhøi</title>
+                  <title xml:lang="en" id="Irons">Elf Hill</title>
+                  <date when="1845-04-07">7 April 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">elverhoei_modern</idno>
+                  <idno type="SV">elverhoei</idno><!--_1845-->
+                  <idno type="ironsEdition">71_Elf-Hill</idno>
+                  <idno type="image">Elverhoei_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Elf Mound (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="36">
+                  <num>72</num>
+                  <title xml:lang="da">De røde Skoe</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Red Shoes</title>
+                  <date when="1845-04-07">7 April 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">de-roede-skoe_modern</idno>
+                  <idno type="SV">de-roede-skoe</idno><!--_1845-->
+                  <idno type="ironsEdition">72_The-Red-Shoes</idno>
+                  <idno type="image">De_roede_Skoe_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="37">
+                  <num>73</num>
+                  <title xml:lang="da">Springfyrene</title>
+                  <title xml:lang="en" id="Irons">The Leapers</title>
+                  <date when="1845-04-07">7 April 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">springfyrene_modern</idno>
+                  <idno type="SV">springfyrene</idno><!--_1845-->
+                  <idno type="ironsEdition">73_The-Leapers</idno>
+                  <idno type="image">Springfyrene-01_2022-03-14.png</idno>
+                  <desc>
+                     <p>The Jumpers (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="38">
+                  <num>74</num>
+                  <title xml:lang="da">Hyrdinden og Skorsteensfeieren</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Shepherdess and the Chimney Sweep</title>
+                  <date when="1845-04-07">7 April 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hyrdinden-og-skorsteensfeieren_modern</idno>
+                  <idno type="SV">hyrdinden-og-skorsteensfeieren</idno><!--_1845-->
+                  <idno type="ironsEdition">74_The-Shepherdess-and-the-Chimney-Sweep</idno>
+                  <desc>
+                     <p>The Shepherdess and the Chimney-Sweep (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+                  <idno type="collection">hyrdinden-og-skorsteensfeieren</idno>
+                  <idno type="image">hyrdinden.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="39">
+                  <num>75</num>
+                  <title xml:lang="da">Holger Danske</title>
+                  <title xml:lang="en" id="Irons">Ogier the Dane</title>
+                  <date when="1845-04-07">7 April 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">holger-danske_modern</idno>
+                  <idno type="SV">holger-danske</idno><!--_1845-->
+                  <idno type="ironsEdition">75_Ogier-the-Dane</idno>
+                  <idno type="image">Holger_Danske_forside.png</idno>
+                  <desc>
+                     <p>Holger Danske (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="40">
+                  <num>76</num>
+                  <title xml:lang="da">Klokken</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Bell</title>
+                  <date when="1845-05-01">May 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">klokken_modern</idno>
+                  <idno type="SV">klokken</idno><!--_1845-->
+                  <idno type="ironsEdition">76_The-Bell</idno>
+                  <idno type="image">Klokken_02_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="41">
+                  <num>77</num>
+                    <title xml:lang="da">Bedstemoder<alternative> En Historie</alternative></title>
+                  <title xml:lang="en" id="Irons">A Story</title>
+<date when="1845-10-05">5 October 1845</date>
+                    <catRef target="#tale"/>
+                    <idno type="modernDanish">en-historie_modern</idno>
+                  <idno type="SV">en-historie</idno><!--_1845-->
+                  <idno type="ironsEdition">77_Grandmother</idno>
+                    <desc>
+                         <p>Grandmother (Andersen later gave the story this title. The later title is used in the translation by Jean Hersholt 1949).</p>
+                    </desc>
+                  <idno type="image">Bedstemoder_hca_ill_0170.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="42">
+                      <num>80</num>
+                      <title xml:lang="da">To Billeder fra Kjøbenhavn (førsteudgaven): Fra et Vindue i Vartou [og] Et Billede fra Castelsvolden </title>
+                      <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Two Pictures from Copenhagen: A View from Vartov's Window [and]  Picture from the Citadel Ramparts</title>
+                      <date when="1846-12-01">December 1846</date>
+                    <catRef target="#tale"/>
+                      <idno type="modernDanish">to-billeder-fra-kjoebenhavn_modern</idno><!--to-billeder-fra-kjøbenhavnFra et Vindue i Vartou_modern-->
+                      <idno type="SV">to-billeder-fra-kjoebenhavn</idno><!--_1847--><!--Fra et Vindue i Vartou-->
+                      <idno type="ironsEdition">80-81_Two-Pictures-from-Copenhagen</idno><!--80_A-View-from-Vartovs-Window-->
+                      <idno type="image">Fra_et_Vindue_i_Vartov_01_2022-03-09.png</idno>
+                      <desc>
+                           <p>A View from Vartou's Window (minor variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <!--<item n="43">
+                      <num>81</num>
+                      <title xml:lang="da">Et Billede fra Castelsvolden (andenudgaven)</title>
+                      <title xml:lang="en" id="Irons">A Picture from the Citadel Ramparts [the second edition from 1852]</title>
+                      <date when="1852-04-01">April 1852</date>
+                    <catRef target="#tale"/>
+                      <idno type="originalDanish">et-billede-fra-castelsvolden</idno>
+                      <idno type="modernDanish">et-billede-fra-castelsvolden_modern</idno>
+                      <idno type="ironsEdition">81_A-Picture-from-the-Citadel-Ramparts-Two-Pictures-from-Copenhagen</idno>
+                      <idno type="image">Et_Billede_fra_Kastelsvolden_02_2022-03-09.png</idno>
+                      <desc>
+                           <p>A Picture from the Ramparts (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>-->
+                 
+               
+               
+               
+               <item n="44">
+                  <num>82</num>
+                  <title xml:lang="da">Den gamle Gadeløgte</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Old Street Lamp</title>
+                  <!--adjective-->
+                  <date when="1847-04-06">6 April 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-gamle-gadeloegte_modern</idno>
+                  <idno type="SV">den-gamle-gadeloegte</idno><!--_1847-->
+                  <idno type="ironsEdition">82_The-Old-Street-Lamp</idno>
+                  <idno type="image">Den_gamle_Gadeloegte_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="45">
+                  <num>83</num>
+                  <title xml:lang="da">Nabofamilierne</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Neighbouring Families</title>
+                  <!--adjective-->
+                  <date when="1847-04-06">6 April 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">nabofamilierne_modern</idno>
+                  <idno type="SV">nabofamilierne</idno><!--_1847-->
+                  <idno type="ironsEdition">83_The-Neighbouring-Families</idno>
+                  <idno type="image">Nabofamilierne_forside.png</idno>
+                  <desc>
+                     <p>The Neighboring Families (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="46">
+                      <num>78</num>
+                      <title xml:lang="da">Stoppenaalen</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Darning Needle</title>
+                      <date when="1845-12-01">December 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">stoppenaalen_modern</idno>
+                      <idno type="SV">stoppenaalen</idno><!--_1847-->
+                      <idno type="ironsEdition">78_The-Darning-Needle</idno>
+                      <idno type="image">Stoppenaalen_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+               <item n="47">
+                  <num>84</num>
+                  <title xml:lang="da">Lille Tuk</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Little Tuk</title>
+                  <date when="1847-04-06">6 April 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lille-tuk_modern</idno>
+                  <idno type="SV">lille-tuk</idno><!--_1847-->
+                  <idno type="ironsEdition">84_Little-Tuk</idno>
+                  <idno type="image">Lille_Tuk_forside1.png</idno>
+                  <desc>
+                     <p>Little Tuck (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="48">
+                  <num>85</num>
+                  <title xml:lang="da">Skyggen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Shadow</title>
+                  <date when="1847-04-06">6 April 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">skyggen_modern</idno>
+                  <idno type="SV">skyggen</idno><!--_1847-->
+                  <idno type="ironsEdition">85_The-Shadow</idno>
+                  <idno type="image">Skyggen_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="49">
+                  <num>88</num>
+                  <title xml:lang="da">Det gamle Huus</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Old House</title>
+                  <date when="1847-12-01">December 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-gamle-huus_modern</idno>
+                  <idno type="SV">det-gamle-huus</idno><!--_1848-->
+                  <idno type="ironsEdition">88_The-Old-House</idno>
+                  <idno type="image">Det_gamle_Huus_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="50">
+                  <num>89</num>
+                  <title xml:lang="da">Vanddraaben</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Drop of Water</title>
+                  <date when="1847-12-01">December 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">vanddraaben_modern</idno>
+                  <idno type="SV">vanddraaben</idno><!--_1848-->
+                  <idno type="ironsEdition">89_The-Drop-of-Water</idno>
+                  <idno type="image">Vanddraaben-01_2022-03-14.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="51">
+                      <num>79</num>
+                      <title xml:lang="da">Den lille Pige med Svovlstikkerne</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Little Matchstick Girl</title>
+                      <!--adjective-->
+                      <date when="1845-12-01">December 1845</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-lille-pige-med-svovlstikkerne_modern</idno>
+                  <idno type="SV">den-lille-pige-med-svovlstikkerne</idno><!--_1848-->
+                      <idno type="ironsEdition">79_The-Little-Matchstick-Girl</idno>
+                      <idno type="image">Den_lille_Pige_med_Svovlstikkerne_forside2.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="52">
+                  <num>90</num>
+                  <title xml:lang="da">Den lykkelige Familie</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Happy Family</title>
+                  <date when="1847-12-01">December 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-lykkelige-familie_modern</idno>
+                  <idno type="SV">den-lykkelige-familie</idno><!--_1848-->
+                  <idno type="ironsEdition">90_The-Happy-Family</idno>
+                  <idno type="image">Den_lykkelige_Familie_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="53">
+                  <num>91</num>
+                  <title xml:lang="da">Historien om en Moder</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Story of a Mother</title>
+                  <date when="1847-12-01">December 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">historien-om-en-moder_modern</idno>
+                  <idno type="SV">historien-om-en-moder</idno><!--_1848-->
+                  <idno type="ironsEdition">91_The-Story-of-a-Mother</idno>
+                  <idno type="image">Historien_om_en_Moder_03_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="54">
+                  <num>92</num>
+                  <title xml:lang="da">Flipperne</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Shirt Collar</title>
+                  <date when="1847-12-01">December 1847</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">flipperne_modern</idno>
+                  <idno type="SV">flipperne</idno><!--_1848-->
+                  <idno type="ironsEdition">92_The-Shirt-Collar</idno>
+                  <idno type="image">Flipperne_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="55">
+                  <num>93</num>
+                  <title xml:lang="da">Hørren</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Flax</title>
+                  <date when="1848-08-18">1848</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hoerren_modern</idno>
+                  <idno type="SV">hoerren</idno><!--_1849-->
+                  <idno type="ironsEdition">93_The-Flax</idno>
+                  <idno type="image">Hoerren_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="56">
+                      <num>18</num>
+                      <title xml:lang="da">Lykkens Kalosker</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Galoshes of Fortune</title>
+                      <date when="1838-05-19">19 May 1838</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lykkens-kalosker_modern</idno>
+                  <idno type="SV">lykkens-kalosker</idno><!--_1850-->
+                      <idno type="ironsEdition">18_The-Galoshes-of-Fortune</idno>
+                      <idno type="image">Lykkens_Kalosker_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="57">
+                  <num>94</num>
+                  <title xml:lang="da">Fugl Phønix</title>
+                  <title xml:lang="en" id="Irons">The Phoenix</title>
+                  <date when="1850-05-01">May 1850</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">fugl-phoenix_modern</idno>
+                  <idno type="SV">fugl-phoenix</idno><!--_1850-->
+                  <idno type="ironsEdition">94_The-Phoenix</idno>
+                  <idno type="image">Fugl_Phoenix_hca_ill_0171.png</idno>
+                  <desc>
+                     <p>The Phoenix Bird (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="58">
+                  <num>99</num>
+                  <title xml:lang="da">"Der er Forskjel"</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">`There is a Difference´</title>
+                  <date when="1851-11-01">November 1851</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">der-er-forskjel_modern</idno>
+                  <idno type="SV">der-er-forskjel</idno><!--_1852-->
+                  <idno type="ironsEdition">99_There-is-a-Difference</idno>
+                  <idno type="image">Der_er_Forskjel_02_2022-03-09.png</idno>
+                  <desc>
+                     <p>There is a Difference (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="59">
+                      <num>103</num>
+                      <title xml:lang="da">Den gamle Gravsteen<alternative> Den gamle Liigsteen</alternative></title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Old Tombstone</title>
+                      <date when="1852-02-01">February 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-gamle-liigsteen_modern</idno>
+                  <idno type="SV">den-gamle-liigsteen</idno><!--_1852-->
+                      <idno type="ironsEdition">103_The-Old-Tombstone</idno>
+                      <idno type="image">Den_gamle_Gravsteen_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               
+               
+               <item n="60">
+                  <num>104</num>
+                  <title xml:lang="da">Aarets Historie</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Story of the Year</title>
+                  <date when="1852-04-05">5 April 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">aarets-historie_modern</idno>
+                  <idno type="SV">aarets-historie</idno><!--_1852-->
+                  <idno type="ironsEdition">104_The-Story-of-the-Year</idno>
+                  <idno type="image">Aarets_Historie_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="61">
+                      <num>100</num>
+                      <title xml:lang="da">Verdens deiligste Rose</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The World's Loveliest Rose</title>
+                      <date when="1851-11-01">November 1851</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">verdens-deiligste-rose_modern</idno>
+                  <idno type="SV">verdens-deiligste-rose</idno><!--_1852-->
+                      <idno type="ironsEdition">100_The-Worlds-Loveliest-Rose</idno>
+                      <idno type="image">Verdens-deiligste-Rose_02_2022-03-14.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="43">
+                      <num>317</num><!--Værkid fra samlingen "Historier", jf. https://andersen.sdu.dk/vaerk/register/info.html?vid=81. Førsteudgaven fra 1846 har værkid 81-->
+                      <title xml:lang="da">Et Billede fra Castelsvolden</title>
+                      <title xml:lang="en" id="Irons">A Picture from the Citadel Ramparts [second edition]</title>
+                      <date when="1852-04-05">5. april 1852</date>
+                    <catRef target="#tale"/>
+                      <idno type="modernDanish">et-billede-fra-castelsvolden_modern</idno>
+                      <idno type="SV">et-billede-fra-castelsvolden</idno><!--_1847-->
+                      <idno type="ironsEdition">80-81_Two-Pictures-from-Copenhagen</idno>
+                      <!--<idno type="ironsEdition">81_A-Picture-from-the-Citadel-Ramparts-Two-Pictures-from-Copenhagen</idno>-->
+                      <idno type="image">Et_Billede_fra_Kastelsvolden_02_2022-03-09.png</idno>
+                      <desc>
+                           <p>A Picture from the Ramparts (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+               <item n="63">
+                  <num>105</num>
+                  <title xml:lang="da">Paa den yderste Dag</title>
+                  <title xml:lang="en" id="Irons">On the Last Day</title>
+                  <date when="1852-04-05">5 April 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">paa-den-yderste-dag_modern</idno>
+                  <idno type="SV">paa-den-yderste-dag</idno><!--_1852-->
+                  <idno type="ironsEdition">105_On-the-Last-Day</idno>
+                  <idno type="image">Paa_den_yderste_Dag_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>On Judgment Day (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="64">
+                  <num>106</num>
+                  <title xml:lang="da">Det er ganske vist!</title>
+                  <title xml:lang="en" id="Irons">It's Absolutely True!</title>
+                  <date when="1852-04-05">5 April 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-er-ganske-vist_modern</idno>
+                  <idno type="SV">det-er-ganske-vist</idno><!--_1852-->
+                  <idno type="ironsEdition">106_Its-Absolutely-True</idno>
+                  <idno type="image">Det_er_ganske_vist_forside.png</idno>
+                  <desc>
+                     <p>It's Quite True! (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="65">
+                      <num>102</num>
+                      <title xml:lang="da">Svanereden</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Swan's Nest</title>
+                      <date when="1852-01-28">28 January 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">svanereden_modern</idno>
+                  <idno type="SV">svanereden</idno><!--_1852-->
+                      <idno type="ironsEdition">102_The-Swans-Nest</idno>
+                      <idno type="image">Svanereden_forside163.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="66">
+                  <num>107</num>
+                  <title xml:lang="da">Et godt Humeur</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">A Good Humour</title>
+                  <date when="1852-04-05">5 April 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">et-godt-humeur_modern</idno>
+                  <idno type="SV">et-godt-humeur</idno><!--_1852-->
+                  <idno type="ironsEdition">107_A-Good-Humour</idno>
+                  <idno type="image">Et_godt_Humeur_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="67">
+                  <num>108</num>
+                  <title xml:lang="da">Hjertesorg</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Heartache</title>
+                  <date when="1852-11-30">30 November 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hjertesorg_modern</idno>
+                  <idno type="SV">hjertesorg</idno><!--_1853-->
+                  <idno type="ironsEdition">108_Heartache</idno>
+                  <idno type="image">Hjertesorg_forside165.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="68">
+                  <num>109</num>
+                  <title xml:lang="da">"Alt paa sin rette Plads!"</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">`Everything in its Rightful Place´</title>
+                  <date when="1852-11-30">30 November 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">alt-paa-sin-rette-plads_modern</idno>
+                  <idno type="SV">alt-paa-sin-rette-plads</idno><!--_1853-->
+                  <idno type="ironsEdition">109_Everything-in-its-Rightful-Place</idno>
+                  <idno type="image">Alt_paa_sin_rette_Plads_forside.png</idno>
+                  <desc>
+                     <p>Everything in its Proper Place (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="69">
+                  <num>110</num>
+                  <title xml:lang="da">Nissen hos Spekhøkeren</title>
+                  <title xml:lang="en" id="Irons">The Pixie and the Common Grocer</title>
+                  <date when="1852-11-30">30 November 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">nissen-hos-spekhoekeren_modern</idno>
+                  <idno type="SV">nissen-hos-spekhoekeren</idno><!--_1853-->
+                  <idno type="ironsEdition">110_The-Pixie-and-the-Common-Grocer</idno>
+                  <idno type="image">Nissen_hos_Spekhoekeren_forside166.png</idno>
+                  <desc>
+                     <p>The Goblin and the Grocer (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="70">
+                      <num>101</num>
+                      <title xml:lang="da">Om Aartusinder</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">Thousands of Years from Now</title>
+                      <date when="1852-01-26">26 January 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">om-aartusinder_modern</idno>
+                  <idno type="SV">om-aartusinder</idno><!--_1853-->
+                      <idno type="ironsEdition">101_Thousands-of-Years-from-Now</idno>
+                      <idno type="image">Om_Aartusinder_forside167.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="71">
+                  <num>111</num>
+                  <title xml:lang="da">Under Piletræet</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Under the Willow Tree</title>
+                  <date when="1852-11-30">30 November 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">under-piletraeet_modern</idno>
+                  <idno type="SV">under-piletraeet</idno><!--_1853-->
+                  <idno type="ironsEdition">111_Under-the-Willow-Tree</idno>
+                  <idno type="image">Under_Piletraeet_forside.png</idno>
+                  <desc>
+                     <p>Under The Willow Tree (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="72">
+                  <num>112</num>
+                  <title xml:lang="da">Fem fra en Ærtebælg</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Five Peas from a Pod</title>
+                  <date when="1852-12-01">December 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">fem-fra-en-aertebaelg_modern</idno>
+                  <idno type="SV">fem-fra-en-aertebaelg</idno><!--_1853-->
+                  <idno type="ironsEdition">112_Five-Peas-from-a-Pod</idno>
+                  <idno type="image">Fem_fra_en_Aertebaelg_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="73">
+                  <num>113</num>
+                  <title xml:lang="da">"Hun duede ikke"</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">`She was Worthless´</title>
+                  <date when="1852-12-01">December 1852</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hun-duede-ikke_modern</idno>
+                  <idno type="SV">hun-duede-ikke</idno><!--_1853-->
+                  <idno type="ironsEdition">113_She-was-Worthless</idno>
+                  <idno type="image">Hun_duede_ikke_forside168.png</idno>
+                  <desc>
+                     <p>She Was Good for Nothing (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="74">
+                  <num>116</num>
+                  <title xml:lang="da">To Jomfruer</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Two Maidens</title>
+                  <date when="1853-11-01">November 1853</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">to-jomfruer_modern</idno>
+                  <idno type="SV">to-jomfruer</idno><!--_1854-->
+                  <idno type="ironsEdition">116_Two-Maidens</idno>
+                  <idno type="image">To_Jomfruer_forside3.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="75">
+                  <num>114</num>
+                  <title xml:lang="da">Den sidste Perle</title>
+                  <title xml:lang="en" id="Irons">The Last Pearl</title>
+                  <date when="1853-02-01">February 1853</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-sidste-perle_modern</idno>
+                  <idno type="SV">den-sidste-perle</idno><!--_1854-->
+                  <idno type="ironsEdition">114_The-Last-Pearl</idno>
+                  <idno type="image">Den_sidste_Perle_forside_grey.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="76">
+                  <num>117</num>
+                  <title xml:lang="da">Ved det yderste Hav</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">`In the Uttermost Parts of the Sea´</title>
+                  <date when="1854-12-01">December 1854</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">ved-det-yderste-hav_modern</idno>
+                  <idno type="SV">ved-det-yderste-hav</idno><!--_1855-->
+                  <idno type="ironsEdition">117_In-the-Uttermost-Parts-of-the-Sea</idno>
+                  <idno type="image">Ved_det_yderste_Hav_forside1.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="77">
+                  <num>118</num>
+                  <title xml:lang="da">Pengegrisen</title>
+                  <title xml:lang="en" id="Irons">The Piggy Bank</title>
+                  <date when="1854-12-01">December 1854</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">pengegrisen_modern</idno>
+                  <idno type="SV">pengegrisen</idno><!--_1855-->
+                  <idno type="ironsEdition">118_The-Piggy-Bank</idno>
+                  <idno type="image">Pengegrisen_forside.png</idno>
+                  <desc>
+                     <p>The Money Pig (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="78">
+                  <num>115</num>
+                  <title xml:lang="da">Et Blad fra Himlen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">A Leaf from Heaven</title>
+                  <date when="1853-02-01">February 1853</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">et-blad-fra-himlen_modern</idno>
+                  <idno type="SV">et-blad-fra-himlen</idno><!--_1855-->
+                  <idno type="ironsEdition">115_A-Leaf-from-Heaven</idno>
+                  <idno type="image">Et_Blad_fra_Himlen_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="79">
+                  <num>119</num>
+                  <title xml:lang="da">Klods-Hans</title>
+                  <title xml:lang="en" id="Irons">Numskull Hans</title>
+                  <date when="1855-04-30">30 April 1855</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">klods-hans_modern</idno>
+                  <idno type="SV">klods-hans</idno><!--_1855-->
+                  <idno type="ironsEdition">119_Numskull-Hans</idno>
+                  <idno type="image">Klods-Hans_forside.png</idno>
+                  <desc>
+                     <p>Clumsy Hans (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="80">
+                  <num>120</num>
+                  <title xml:lang="da">Ib og lille Christine</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Ib and Little Christine</title>
+                  <date when="1855-04-30">30 April 1855</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">ib-og-lille-christine_modern</idno>
+                  <idno type="SV">ib-og-lille-christine</idno><!--_1855-->
+                  <idno type="ironsEdition">120_Ib-and-Little-Christine</idno>
+                  <idno type="image">Ib_og_lille_Christine_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="81">
+                  <num>121</num>
+                  <title xml:lang="da">"Ærens Tornevei"</title>
+                  <title xml:lang="en" id="Irons">`The Thorny Path to Honour and Glory´</title>
+                  <date when="1855-12-01">December 1855</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">aerens-tornevei_modern</idno>
+                  <idno type="SV">aerens-tornevei</idno><!--_1856-->
+                  <idno type="ironsEdition">121_The-Thorny-Path-to-Honour-and-Glory</idno>
+                  <idno type="image">aerens-Tornevei_01_2022-03-14.png</idno>
+                  <desc>
+                     <p>The Thorny Road of Honor (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="82">
+                  <num>122</num>
+                  <title xml:lang="da">Jødepigen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Jewish Girl</title>
+                  <date when="1855-12-01">December 1855</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">joedepigen_modern</idno>
+                  <idno type="SV">joedepigen</idno><!--_1856-->
+                  <idno type="ironsEdition">122_The-Jewish-Girl</idno>
+                  <idno type="image">Joedepigen_02_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="83">
+                      <num>126</num>
+                      <title xml:lang="da">Suppe paa en Pølsepind</title>
+                      <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Soup from a Sausage Stick</title>
+                      <date when="1858-03-02">2 March 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">suppe-paa-en-poelsepind_modern</idno>
+                  <idno type="SV">suppe-paa-en-poelsepind</idno><!--_1858-->
+                      <idno type="ironsEdition">126_Soup-from-a-Sausage-Stick</idno>
+                      <idno type="image">Suppe-paa-en-Poelsepind_01_2022-03-14.png</idno>
+                      <desc>
+                           <p>Soup on a Sausage Peg (minor variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="84">
+                  <num>125</num>
+                  <title xml:lang="da">Flaskehalsen</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Bottle-Neck</title>
+                  <date when="1857-12-01">December 1857</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">flaskehalsen_modern</idno>
+                  <idno type="SV">flaskehalsen</idno><!--_1858-->
+                  <idno type="ironsEdition">125_The-Bottle-Neck</idno>
+                  <idno type="image">Flaskehalsen_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Bottle Neck (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+                 
+                 
+               <item n="85">
+                  <num>127</num>
+                  <title xml:lang="da">Pebersvendens Nathue</title>
+                  <title xml:lang="en" id="Irons">The Pepper-Man's Night-Cap</title>
+                  <date when="1858-03-02">2 March 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">pebersvendens-nathue_modern</idno>
+                  <idno type="SV">pebersvendens-nathue</idno><!--_1858-->
+                  <idno type="ironsEdition">127_The-Pepper-Mans-Night-Cap</idno>
+                  <idno type="image">Pebersvendens_Nathue_forside.png</idno>
+                  <desc>
+                     <p>The Nightcap of the "Pebersvend" (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="86">
+                  <num>128</num>
+                  <title xml:lang="da">"Noget"</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">`Something´</title>
+                  <date when="1858-03-02">2 March 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">noget_modern</idno>
+                  <idno type="SV">noget</idno><!--_1858-->
+                  <idno type="ironsEdition">128_Something</idno>
+                  <idno type="image">Noget_forside4.png</idno>
+                  <desc>
+                     <p>Something (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="87">
+                  <num>129</num>
+                  <title xml:lang="da">Det gamle Egetræes sidste Drøm</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Old Oak Tree's Last Dream</title>
+                  <date when="1858-03-02">2 March 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-gamle-egetraees-sidste-droem_modern</idno>
+                  <idno type="SV">det-gamle-egetraees-sidste-droem</idno><!--_1858-->
+                  <idno type="ironsEdition">129_The-Old-Oak-Trees-Last-Dream</idno>
+                  <idno type="image">Det_gamle_Egetraees_sidste_Droem_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="88">
+                  <num>130</num>
+                    <title xml:lang="da">ABC-Bogen</title>
+                    <title xml:lang="en" id="1rons" rend="excluded"> </title>
+                  <date when="1858-03-02">2 March 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">abc-bogen_modern</idno>
+                  <idno type="SV">abc-bogen</idno><!--_1858-->
+                  <idno type="ironsEdition">130_</idno>
+                  <idno type="image">ABC-Bogen_forside.png</idno>
+                  <desc>
+                     <p>The A-B-C Book (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="89">
+                  <num>131</num>
+                  <title xml:lang="da">Dynd-Kongens Datter</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Marsh King's Daughter</title>
+                  <date when="1858-05-15">15 May 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">dynd-kongens-datter_modern</idno>
+                  <idno type="SV">dynd-kongens-datter</idno><!--_1858-->
+                  <idno type="ironsEdition">131_The-Marsh-Kings-Daughter</idno>
+                  <idno type="image">Dynd-Kongens_Datter_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="90">
+                  <num>132</num>
+                  <title xml:lang="da">Hurtigløberne</title>
+                  <title xml:lang="en" id="Irons">The Fast Runners</title>
+                  <date when="1858-05-15">15 May 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hurtigloeberne_modern</idno>
+                  <idno type="SV">hurtigloeberne</idno><!--_1858-->
+                  <idno type="ironsEdition">132_The-Fast-Runners</idno>
+                  <idno type="image">Hurtigloeberne_forside.png</idno>
+                  <desc>
+                     <p>The Racers (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="91">
+                      <num>124</num>
+                      <title xml:lang="da">Klokkedybet</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Bell-Deep</title>
+                      <date when="1856-12-01">December 1856</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">klokkedybet_modern</idno>
+                  <idno type="SV">klokkedybet</idno><!--_1858-->
+                      <idno type="ironsEdition">124_The-Bell-Deep</idno>
+                      <idno type="image">Klokkedybet_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="92">
+                  <num>134</num>
+                  <title xml:lang="da">Vinden fortæller om Valdemar Daae og hans Døttre</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Wind Tells the Story of Valdemar Daae and his Daughters</title>
+                  <date when="1859-03-24">24 March 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">vinden-fortaeller-om-valdemar-daae-og-hans-doettre_modern</idno>
+                  <idno type="SV">vinden-fortaeller-om-valdemar-daae-og-hans-doettre</idno><!--_1859-->
+                  <idno type="ironsEdition">134_The-Wind-Tells-the-Story-of-Valdemar-Daae-and-his-Daughters</idno>
+                  <idno type="image">Vinden_fortaeller_om_Valdemar_Daae_og_hans_Doettre_forside.png</idno>
+                  <desc>
+                     <p>The Wind Tells about Valdemar Daae and His Daughters (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="93">
+                  <num>135</num>
+                  <title xml:lang="da">Pigen, som traadte paa Brødet</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Girl that Trod on the Loaf of Bread</title>
+                  <date when="1859-03-24">24 March 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">pigen-som-traadte-paa-broedet_modern</idno>
+                  <idno type="SV">pigen-som-traadte-paa-broedet</idno><!--_1859-->
+                  <idno type="ironsEdition">135_The-Girl-that-Trod-on-the-Loaf-of-Bread</idno>
+                  <idno type="image">Pigen_som_traadte_paa_Broedet_forside.png</idno>
+                  <desc>
+                     <p>The Girl Who Trod on the Loaf (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="94">
+                  <num>136</num>
+                  <title xml:lang="da">Taarnvægteren Ole</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Tower Keeper Ole</title>
+                  <date when="1859-03-24">24 March 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">taarnvaegteren-ole_modern</idno>
+                  <idno type="SV">taarnvaegteren-ole</idno><!--_1859-->
+                  <idno type="ironsEdition">136_Tower-Keeper-Ole</idno>
+                  <idno type="image">Taarnvaegteren_Ole_forside.png</idno>
+                  <desc>
+                     <p>Ole, the Tower Keeper (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="95">
+                  <num>137</num>
+                  <title xml:lang="da">Anne Lisbeth</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Anne Lisbeth</title>
+                  <date when="1859-03-24">24 March 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">anne-lisbeth_modern</idno>
+                  <idno type="SV">anne-lisbeth</idno><!--_1859-->
+                  <idno type="ironsEdition">137_Anne-Lisbeth</idno>
+                  <idno type="image">Anne-Lisbeth_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="96">
+                  <num>138</num>
+                  <title xml:lang="da">Børnesnak</title>
+                  <title xml:lang="en" id="Irons">Children's Talk</title>
+                  <date when="1859-03-24">24 March 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">boernesnak_modern</idno>
+                  <idno type="SV">boernesnak</idno><!--_1859-->
+                  <idno type="ironsEdition">138_Childrens-Talk</idno>
+                  <idno type="image">Boernesnak_forside.png</idno>
+                  <desc>
+                     <p>Children's Prattle (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="97">
+                      <num>123</num>
+                      <title xml:lang="da">Et Stykke Perlesnor</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">A String of Pearls</title>
+                      <date when="1856-12-01">December 1856</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">et-stykke-perlesnor_modern</idno>
+                  <idno type="SV">et-stykke-perlesnor</idno><!--_1859-->
+                      <idno type="ironsEdition">123_A-String-of-Pearls</idno>
+                      <idno type="image">Et_Stykke_Perlesnor_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="98">
+                  <num>140</num>
+                  <title xml:lang="da">Pen og Blækhuus</title>
+                  <title xml:lang="en" id="Irons">Pen and Ink Jar</title>
+                  <date when="1859-12-09">9 December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">pen-og-blaekhuus_modern</idno>
+                  <idno type="SV">pen-og-blaekhuus</idno><!--_1860-->
+                  <idno type="ironsEdition">140_Pen-and-Ink-Jar</idno>
+                  <idno type="image">Pen_og_Blaekhuus_forside.png</idno>
+                  <desc>
+                     <p>Pen and Inkstand (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="99">
+                      <num>139</num>
+                      <title xml:lang="da">Barnet i Graven</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Child in the Grave</title>
+                      <date when="1859-12-01">December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">barnet-i-graven_modern</idno>
+                  <idno type="SV">barnet-i-graven</idno><!--_1860-->
+                      <idno type="ironsEdition">139_The-Child-in-the-Grave</idno>
+                      <idno type="image">Barnet_i_Graven_forside.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="100">
+                  <num>141</num>
+                  <title xml:lang="da">Gaardhanen og Veirhanen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Farmyard Cock and the Weathercock</title>
+                  <date when="1859-12-09">9 December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">gaardhanen-og-veirhanen_modern</idno>
+                  <idno type="SV">gaardhanen-og-veirhanen</idno><!--_1860-->
+                  <idno type="ironsEdition">141_The-Farmyard-Cock-and-the-Weathercock</idno>
+                  <idno type="image">Gaardhanen_og_Veirhanen_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="101">
+                  <num>142</num>
+                  <title xml:lang="da">"Deilig!"</title>
+                  <title xml:lang="en" id="Irons">`Lovely´</title>
+                  <date when="1859-12-09">9 December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">deilig_modern</idno>
+                  <idno type="SV">deilig</idno><!--_1860-->
+                  <idno type="ironsEdition">142_Lovely</idno>
+                  <idno type="image">Deilig-01_2022-03-14.png</idno>
+                  <desc>
+                     <p>"Beautiful" (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="102">
+                  <num>143</num>
+                  <title xml:lang="da">En Historie fra Klitterne</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">A Story from the Sand Dunes</title>
+                  <date when="1859-12-09">9 December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">en-historie-fra-klitterne_modern</idno>
+                  <idno type="SV">en-historie-fra-klitterne</idno><!--_1860-->
+                  <idno type="ironsEdition">143_A-Story-from-the-Sand-Dunes</idno>
+                  <idno type="image">En_Historie_fra_Klitterne_forside.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="103">
+                  <num>144</num>
+                  <title xml:lang="da">To Brødre</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Two Brothers</title>
+                  <date when="1859-12-25">25 December 1859</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">to-broedre_modern</idno>
+                  <idno type="SV">to-broedre</idno><!--_1859-->
+                  <idno type="ironsEdition">144_Two-Brothers</idno>
+                  <idno type="image">To_Broedre_hca_ill_0085.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+                 <item n="104">
+                      <num>148</num>
+                      <title xml:lang="da">Tolv med Posten</title>
+                      <title xml:lang="en" id="Irons">Twelve by Mail Coach</title>
+                      <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">tolv-med-posten_modern</idno>
+                  <idno type="SV">tolv-med-posten</idno><!--_1861-->
+                      <idno type="ironsEdition">148_Twelve-by-Mail-Coach</idno>
+                      <idno type="image">Tolv_med_Posten_hca_ill_0089.png</idno>
+                      <desc>
+                           <p>Twelve by the Mail (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+                 <item n="105">
+                      <num>149</num>
+                      <title xml:lang="da">Skarnbassen</title>
+                      <title xml:lang="en" id="Irons">The Dung Beetle</title>
+                      <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">skarnbassen_modern</idno>
+                  <idno type="SV">skarnbassen</idno><!--_1861-->
+                      <idno type="ironsEdition">149_The-Dung-Beetle</idno>
+                      <idno type="image">Skarnbassen_hca_ill_0090.png</idno>
+                      <desc>
+                           <p>The Beetle (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="106">
+                      <num>150</num>
+                      <title xml:lang="da">Hvad Fatter gjør, det er altid det Rigtige</title>
+                      <title xml:lang="en" id="Irons">What Hubby Does is Always Right</title>
+                      <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvad-fatter-gjoer-det-er-altid-det-rigtige_modern</idno>
+                  <idno type="SV">hvad-fatter-gjoer-det-er-altid-det-rigtige</idno><!--_1861-->
+                      <idno type="ironsEdition">150_What-Hubby-Does-is-Always-Right</idno>
+                      <idno type="image">Hvad_Fatter_gjoer_det_er_altid_det_Rigtige_hca_ill_0092.png</idno>
+                      <desc>
+                           <p>What the Old Man Does is Always Right (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               
+               
+                 <item n="107">
+                      <num>133</num>
+                      <title xml:lang="da">De Vises Steen</title>
+                      <title xml:lang="en" id="Irons">The Philosophers' Stone</title>
+                      <date when="1858-12-01">December 1858</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">de-vises-steen_modern</idno>
+                  <idno type="SV">de-vises-steen</idno><!--_1861-->
+                      <idno type="ironsEdition">133_The-Philosophers-Stone</idno>
+                      <idno type="image">De_Vises_Steen_02_2022-03-09.png</idno>
+                      <desc>
+                           <p>The Stone of the Wise Man (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="108">
+                  <num>151</num>
+                  <title xml:lang="da">Sneemanden</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Snowman</title>
+                  <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">sneemanden_modern</idno>
+                  <idno type="SV">sneemanden</idno><!--_1861-->
+                  <idno type="ironsEdition">151_The-Snowman</idno>
+                  <idno type="image">Sneemanden_hca_ill_0094.png</idno>
+                  <desc>
+                     <p>The Snow Man (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="109">
+                  <num>152</num>
+                  <title xml:lang="da">I Andegaarden</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">In the Duckyard</title>
+                  <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">i-andegaarden_modern</idno>
+                  <idno type="SV">i-andegaarden</idno><!--_1861-->
+                  <idno type="ironsEdition">152_In-the-Duckyard</idno>
+                  <idno type="image">I_Andegaarden_hca_ill_0096.png</idno>
+                  <desc>
+                     <p>In the Duck Yard (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="110">
+                  <num>153</num>
+                  <title xml:lang="da">Det nye Aarhundredes Musa</title>
+                  <title xml:lang="en" id="Irons">The Muse of the New Century</title>
+                  <date when="1861-03-02">2 March 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-nye-aarhundredes-musa_modern</idno>
+                  <idno type="SV">det-nye-aarhundredes-musa</idno><!--_1861-->
+                  <idno type="ironsEdition">153_The-Muse-of-the-New-Century</idno>
+                  <idno type="image">Det_nye_Aarhundredes_Musa_hca_ill_0097.png</idno>
+                  <desc>
+                     <p>The New Century's Goddess (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="111">
+                  <num>154</num>
+                  <title xml:lang="da">Iisjomfruen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Ice Maiden</title>
+                  <date when="1861-11-25">25 November 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">iisjomfruen_modern</idno>
+                  <idno type="SV">iisjomfruen</idno><!--_1862-->
+                  <idno type="ironsEdition">154_The-Ice-Maiden</idno>
+                  <idno type="collection">iisjomfruen</idno>
+                  <idno type="image">iisjomfruen.png</idno>
+                  <desc>
+                     <p>“Iisjomfruen” fra 1861 er et schweizisk trekantsdrama med
+                                jægeren Rudy, møllerens datter Babette og gletscherens isjomfru i
+                                hovedrollerne. Dette er ikke alene den længste og mest komplekse
+                                del i H.C. Andersens samling af Eventyr og Historier.De bevarede
+                                manuskripter er også de mest komplicerede i Andersens
+                                forfatterarkiv med talrige tilføjelser, ind- og overklæbninger.</p>
+                     <p>Diagrammet nedenfor sammenfatter værkets tilblivelse. Den er
+                                uddybet i artiklen om tilblivelseshistorien . Førstetrykket og de
+                                seks forudgående lag kan nærstuderes ved at klikke dem frem i
+                                oversigten til venstre. Hvert af de bevarede manuskripter
+                                gennemgås i manuskriptbeskrivelsen.</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="112">
+                      <num>146</num>
+                      <title xml:lang="da">Sommerfuglen</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Butterfly</title>
+                      <date when="1860-12-01">December 1860</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">sommerfuglen_modern</idno>
+                  <idno type="SV">sommerfuglen</idno><!--_1862-->
+                      <idno type="ironsEdition">146_The-Butterfly</idno>
+                      <idno type="image">Sommerfuglen_hca_ill_0101.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="113">
+                  <num>155</num>
+                  <title xml:lang="da">Psychen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Psyche</title>
+                  <date when="1861-11-25">25 November 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">psychen_modern</idno>
+                  <idno type="SV">psychen</idno><!--_1862-->
+                  <idno type="ironsEdition">155_The-Psyche</idno>
+                  <idno type="image">Psychen_hca_ill_0102.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+               <item n="114">
+                  <num>156</num>
+                  <title xml:lang="da">Sneglen og Rosenhækken</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Snail and the Rosebush</title>
+                  <date when="1861-11-25">25 November 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">sneglen-og-rosenhaekken_modern</idno>
+                  <idno type="SV">sneglen-og-rosenhaekken</idno><!--_1862-->
+                  <idno type="ironsEdition">156_The-Snail-and-the-Rosebush</idno>
+                  <idno type="image">Sneglen_og_Rosenhaekken_hca_ill_0103.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="115">
+                  <num>157</num>
+                  <title xml:lang="da">Den gamle Kirkeklokke</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Old Church Bell</title>
+                  <date when="1861-01-18">18 January 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-gamle-kirkeklokke_modern</idno>
+                  <idno type="SV">den-gamle-kirkeklokke</idno><!--_1862-->
+                  <idno type="ironsEdition">157_The-Old-Church-Bell</idno>
+                  <idno type="image">Den_gamle_Kirkeklokke_hca_ill_0087.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               ,
+               <item n="116">
+                  <num>60</num>
+                  <title xml:lang="da">Metalsvinet</title>
+                  <title xml:lang="en" id="Irons">The Brass Boar</title>
+                  <date when="1842-04-30">30 April 1842</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">metalsvinet_modern</idno>
+                  <idno type="SV">metalsvinet</idno><!--_1862-->
+                  <idno type="ironsEdition">60_The-Brass-Boar</idno>
+                  <idno type="image">Metalsvinet_hca_ill_0167.png</idno>
+                  <desc>
+                     <p>The Metal Pig (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="117">
+                  <num>61</num>
+                  <title xml:lang="da">Venskabs-Pagten</title>
+                  <title xml:lang="en" id="Irons">The Pact of Friendship</title>
+                  <date when="1842-04-30">30 April 1842</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">venskabs-pagten_modern</idno>
+                  <idno type="SV">venskabs-pagten</idno><!--_1862-->
+                  <idno type="ironsEdition">61_The-Pact-of-Friendship</idno>
+                  <idno type="image">Venskabs-Pagten_hca_ill_0168.png</idno>
+                  <desc>
+                     <p>The Bond of Friendship (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="118">
+                  <num>62</num>
+                  <title xml:lang="da">En Rose fra Homers Grav</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">A Rose from Homer's Grave</title>
+                  <date when="1842-04-30">30 April 1842</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">en-rose-fra-homers-grav_modern</idno>
+                  <idno type="SV">en-rose-fra-homers-grav</idno><!--_1862-->
+                  <idno type="ironsEdition">62_A-Rose-from-Homers-Grave</idno>
+                  <idno type="image">En_Rose_fra_Homers_Grav_hca_ill_0169.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="119">
+                  <num>96</num>
+                  <title xml:lang="da">En Historie</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">A Story</title>
+                  <date when="1851-05-19">19 May 1851</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">en-historie-1863_modern</idno>
+                  <idno type="SV">en-historie-1863</idno><!--_1863-->
+                  <idno type="ironsEdition">96_A-Story</idno>
+                  <idno type="image">En_Historie_hca_ill_0172.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="120">
+                  <num>97</num>
+                  <title xml:lang="da">Den stumme Bog</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Silent Book</title>
+                  <date when="1851-05-19">19 May 1851</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-stumme-bog_modern</idno>
+                  <idno type="SV">den-stumme-bog</idno><!--_1863-->
+                  <idno type="ironsEdition">97_The-Silent-Book</idno>
+                  <idno type="image">Den_stumme_Bog_hca_ill_0173.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="121">
+                  <num>160</num>
+                  <title xml:lang="da">Theepotten</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Teapot</title>
+                  <date when="1863-12-01">December 1863</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">theepotten_modern</idno>
+                  <idno type="SV">theepotten</idno><!--_1864-->
+                  <idno type="ironsEdition">160_The-Teapot</idno>
+                  <idno type="image">Theepotten_hca_ill_0110.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="122">
+                  <num>161</num>
+                  <title xml:lang="da">Folkesangens Fugl</title>
+                  <title xml:lang="en" id="Irons">The Bird of Folk-Song<!--. A Mood Picture--></title>
+                  <date when="1864-12-01">December 1864</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">folkesangens-fugl_modern</idno>
+                  <idno type="SV">folkesangens-fugl</idno><!--_1865-->
+                  <idno type="ironsEdition">161_The-Bird-of-Folk-Song</idno>
+                  <idno type="image">Folkesangens_Fugl_hca_ill_0111.png</idno>
+                  <desc>
+                     <p>The Bird of Folklore (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="123">
+                  <num>162</num>
+                  <title xml:lang="da">Lygtemændene ere i Byen, sagde Mosekonen</title>
+                  <title xml:lang="en" id="Irons">The Jack o' the Lanterns are in Town, the Bog Crone Said</title>
+                  <date when="1865-11-17">17 November 1865</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lygtemaendene-ere-i-byen-sagde-mosekonen_modern</idno>
+                  <idno type="SV">lygtemaendene-ere-i-byen-sagde-mosekonen</idno><!--_1865-->
+                    <idno type="ironsEdition">162_The-Jack-o-Lanterns-are-in-Town-the-Bog-Crone-Said</idno>
+                  <idno type="image">Lygtemaendene_ere_i_Byen_sagde_Mosekonen_hca_ill_0104.png</idno>
+                  <desc>
+                     <p>The Will-o'-the-Wisps Are in Town (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="124">
+                  <num>163</num>
+                  <title xml:lang="da">Veirmøllen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Windmill</title>
+                  <date when="1865-11-17">17 November 1865</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">veirmoellen_modern</idno>
+                  <idno type="SV">veirmoellen</idno><!--_1865-->
+                  <idno type="ironsEdition">163_The-Windmill</idno>
+                  <idno type="image">Veirmoellen_hca_ill_0126.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="125">
+                      <num>158</num>
+                      <title xml:lang="da">Sølvskillingen</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Silver Shilling</title>
+                      <date when="1861-12-01">December 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">soelvskillingen_modern</idno>
+                  <idno type="SV">soelvskillingen</idno><!--_1865-->
+                      <idno type="ironsEdition">158_The-Silver-Shilling</idno>
+                      <idno type="image">Soelvskillingen_hca_ill_0105.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="126">
+                      <num>147</num>
+                      <title xml:lang="da">Bispen paa Børglum og hans Frænde</title>
+                      <title xml:lang="en" id="Irons">The Bishop of Børglum and his Kinsman</title>
+                      <date when="1861-01-27">27 January 1861</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">bispen-paa-boerglum-og-hans-fraende_modern</idno>
+                  <idno type="SV">bispen-paa-boerglum-og-hans-fraende</idno><!--_1865-->
+                      <idno type="ironsEdition">147_The-Bishop-of-Boerglum-and-his-Kinsman</idno>
+                      <idno type="image">Bispen_paa_Boerglum_og_hans_Fraende_hca_ill_0106.png</idno>
+                      <desc>
+                           <p>The Bishop of Börglum and his Men (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="127">
+                  <num>164</num>
+                  <title xml:lang="da">I Børnestuen</title>
+                  <title xml:lang="en" id="Irons">In the Nursery</title>
+                  <date when="1865-11-17">17 November 1865</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">i-boernestuen_modern</idno>
+                  <idno type="SV">i-boernestuen</idno><!--_1865-->
+                  <idno type="ironsEdition">164_In-the-Nursery</idno>
+                  <idno type="image">I_Boernestuen_hca_ill_0125.png</idno>
+                  <desc>
+                     <p>In the Children's Room (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="128">
+                  <num>165</num>
+                  <title xml:lang="da">Guldskat</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Golden Treasure</title>
+                  <date when="1865-11-17">17 November 1865</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">guldskat_modern</idno>
+                  <idno type="SV">guldskat</idno><!--_1865-->
+                  <idno type="ironsEdition">165_Golden-Treasure</idno>
+                  <idno type="image">Guldskat_hca_ill_0107.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="129">
+                  <num>166</num>
+                  <title xml:lang="da">Stormen flytter Skilt</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Storm shifts the Signboards</title>
+                  <date when="1865-11-17">17 November 1865</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">stormen-flytter-skilt_modern</idno>
+                  <idno type="SV">stormen-flytter-skilt</idno><!--_1865-->
+                  <idno type="ironsEdition">166_The-Storm-shifts-the-Signboards</idno>
+                  <idno type="image">Stormen_flytter_Skilt_hca_ill_0109.png</idno>
+                  <desc>
+                     <p>The Storm Shifts the Signboards (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="130">
+                  <num>167</num>
+                  <title xml:lang="da">Gjemt er ikke glemt</title>
+                  <title xml:lang="en" id="Irons">Hidden is not Forgotten</title>
+                  <date when="1866-12-11">11 December 1866</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">gjemt-er-ikke-glemt_modern</idno>
+                  <idno type="SV">gjemt-er-ikke-glemt</idno><!--_1866-->
+                  <idno type="ironsEdition">167_Hidden-is-not-Forgotten</idno>
+                  <idno type="image">Gjemt_er_ikke_glemt_hca_ill_0114.png</idno>
+                  <desc>
+                     <p>Kept Secret but not Forgotten (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="131">
+                  <num>168</num>
+                  <title xml:lang="da">Portnerens Søn</title>
+                  <title xml:lang="en" id="Irons">The Doorkeeper's Son</title>
+                  <!--Gatekeeper's-->
+                  <date when="1866-12-11">11 December 1866</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">portnerens-soen_modern</idno>
+                  <idno type="SV">portnerens-soen</idno><!--_1866-->
+                  <idno type="ironsEdition">168_The-Doorkeepers-Son</idno>
+                  <idno type="image">Portnerens_Soen_hca_ill_0115.png</idno>
+                  <desc>
+                     <p>The Porter's Son (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="132">
+                      <num>145</num>
+                      <title xml:lang="da">Flyttedagen</title>
+                      <title xml:lang="en" id="Irons">Quarter Day</title>
+                      <date when="1860-02-12">12 February 1860</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">flyttedagen_modern</idno>
+                  <idno type="SV">flyttedagen</idno><!--_1866-->
+                      <idno type="ironsEdition">145_Quarter-Day</idno>
+                      <idno type="image">Flyttedagen_hca_ill_0118.png</idno>
+                      <desc>
+                           <p>Moving Day (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="133">
+                      <num>159</num>
+                      <title xml:lang="da">Sommergjækken</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Snowdrop</title>
+                      <date when="1862-12-01">December 1862</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">sommergjaekken_modern</idno>
+                  <idno type="SV">sommergjaekken</idno><!--_1866-->
+                      <idno type="ironsEdition">159_The-Snowdrop</idno>
+                      <idno type="image">Sommergjaekken_hca_ill_0119.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="134">
+                  <num>169</num>
+                  <title xml:lang="da">Moster</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Auntie</title>
+                  <date when="1866-12-11">11 December 1866</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">moster_modern</idno>
+                  <idno type="SV">moster</idno><!--_1866-->
+                  <idno type="ironsEdition">169_Auntie</idno>
+                  <idno type="image">Moster_hca_ill_0178.png</idno>
+                  <desc>
+                     <p>Aunty (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="135">
+                  <num>170</num>
+                  <title xml:lang="da">Skrubtudsen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Toad</title>
+                  <date when="1866-12-11">11 December 1866</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">skrubtudsen_modern</idno>
+                  <idno type="SV">skrubtudsen</idno><!--_1866-->
+                  <idno type="ironsEdition">170_The-Toad</idno>
+                  <idno type="image">Skrubtudsen_hca_ill_0121.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="136">
+                  <num>171</num>
+                  <title xml:lang="da">Vænø og Glænø</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Vænø and Glænø</title>
+                  <date when="1867-08-18">18 August 1867</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">vaenoe-og-glaenoe_modern</idno>
+                  <idno type="SV">vaenoe-og-glaenoe</idno><!--_1867-->
+                  <idno type="ironsEdition">171_Vaenoe-and-Glaenoe</idno>
+                  <idno type="image">Vaenoe_og_Glaenoe_hca_ill_0137.png</idno>
+                  <desc>
+                     <p>Vänö and Glänö (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="137">
+                  <num>172</num>
+                  <title xml:lang="da">De smaa Grønne</title>
+                  <title xml:lang="en" id="Irons">The Small Greenies</title>
+                  <date when="1867-12-01">December 1867</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">de-smaa-groenne_modern</idno>
+                  <idno type="SV">de-smaa-groenne</idno><!--_1868-->
+                  <idno type="ironsEdition">172_The-Small-Greenies</idno>
+                  <idno type="image">De_smaae_Groenne_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Little Green Ones (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="138">
+                  <num>173</num>
+                  <title xml:lang="da">Nissen og Madamen</title>
+                  <title xml:lang="en" id="Irons">The Pixie and the Missus</title>
+                  <date when="1867-12-01">December 1867</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">nissen-og-madammen_modern</idno>
+                  <idno type="SV">nissen-og-madammen</idno><!--_1868-->
+                  <idno type="ironsEdition">173_The-Pixie-and-the-Missus</idno>
+                  <idno type="image">Nissen_og_Madammen_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>The Goblin and the Woman (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="139">
+                  <num>174</num>
+                  <title xml:lang="da">Peiter, Peter og Peer</title>
+                  <title xml:lang="en" id="Irons">Peter, Petey, and Pete</title>
+                  <date when="1868-01-12">12 January 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">peiter-peter-og-peer_modern</idno>
+                  <idno type="SV">peiter-peter-og-peer</idno><!--_1868-->
+                  <idno type="ironsEdition">174_Peter-Petey-and-Pete</idno>
+                  <idno type="image">Peiter_Peter_og_Peer_hca_ill_0112.png</idno>
+                  <desc>
+                     <p>Peiter, Peter, and Peer (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="140">
+                  <num>175</num>
+                  <title xml:lang="da">Gudfaders Billedbog</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">Godfather's Picture Book</title>
+                  <date when="1868-01-19">19 January 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">gudfaders-billedbog_modern</idno>
+                  <idno type="SV">gudfaders-billedbog</idno><!--_1868-->
+                  <idno type="ironsEdition">175_Godfathers-Picture-Book</idno>
+                  <idno type="image">Gudfaders_Billedbog_hca_ill_0123.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="141">
+                  <num>95</num>
+                  <title xml:lang="da">Marionetspilleren</title>
+                  <title xml:lang="en" id="Irons">The Puppeteer</title>
+                  <date when="1851-05-19">19 May 1851</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">marionetspilleren_modern</idno>
+                  <idno type="SV">marionetspilleren</idno><!--_1868-->
+                  <idno type="ironsEdition">95_The-Puppeteer</idno>
+                  <idno type="image">Marionetspilleren_hca_ill_0176.png</idno>
+                  <desc>
+                     <p>The Puppet-show Man (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+                 
+               <item n="142">
+                  <num>178</num>
+                  <title xml:lang="da">Dryaden</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Dryad</title>
+                  <date when="1868-12-05">5 December 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">dryaden_modern</idno>
+                  <idno type="SV">dryaden</idno><!--_1868-->
+                  <idno type="ironsEdition">178_The-Dryad</idno>
+                  <idno type="image">Dryaden-01_2022-03-14.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+                 <item n="143">
+                      <num>180</num>
+                      <title xml:lang="da">Herrebladene</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Court Cards</title>
+                      <date when="1869-01-01">January 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">herrebladene_modern</idno>
+                  <idno type="SV">herrebladene</idno><!--_1868-->
+                      <idno type="ironsEdition">180_The-Court-Cards</idno>
+                      <idno type="image">Court-Cards_Dal_2022-03-17.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="144">
+                      <num>179</num>
+                      <title xml:lang="da">Laserne</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Rags</title>
+                      <date when="1868-12-01">December 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">laserne_modern</idno>
+                  <idno type="SV">laserne</idno><!--_1869-->
+                      <idno type="ironsEdition">179_The-Rags</idno>
+                      <idno type="image">Laserne_hca_ill_0145.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="145">
+                  <num>186</num>
+                  <title xml:lang="da">Hønse-Grethes Familie</title>
+                  <title xml:lang="en" id="Irons">Henhouse Grethe's Family</title>
+                  <date when="1869-12-01">December 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hoense-grethes-familie_modern</idno>
+                  <idno type="SV">hoense-grethes-familie</idno><!--_1870-->
+                  <idno type="ironsEdition">186_Henhouse-Grethes-Family</idno>
+                  <idno type="image">Hoense-Grethes_Familie_hca_ill_0140.png</idno>
+                  <desc>
+                     <p>Chicken Grethe's Family (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="146">
+                  <num>185</num>
+                  <title xml:lang="da">Hvad Tidselen oplevede</title>
+                  <title xml:lang="en" id="Irons">What the Thistle Came to Experience</title>
+                  <date when="1869-10-01">October 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvad-tidselen-oplevede_modern</idno>
+                  <idno type="SV">hvad-tidselen-oplevede</idno><!--_1870-->
+                  <idno type="ironsEdition">185_What-the-Thistle-Came-to-Experience</idno>
+                  <idno type="image">Hvad_Tidselen_oplevede_hca_ill_0142.png</idno>
+                  <desc>
+                     <p>What Happened to the Thistle (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="147">
+                  <num>184</num>
+                  <title xml:lang="da">Hvad man kan hitte paa</title>
+                    <title xml:lang="en" id="Irons">What One can Think Up</title>
+                  <date when="1869-07-01">July 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvad-man-kan-hitte-paa_modern</idno>
+                  <idno type="SV">hvad-man-kan-hitte-paa</idno><!--_1870-->
+                  <idno type="ironsEdition">184_What-One-can-Think-Up</idno>
+                  <idno type="image">Hvad_man_kan_hitte_paa_hca_ill_0144.png</idno>
+                  <desc>
+                     <p>What One Can Invent (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="148">
+                  <num>181</num>
+                  <title xml:lang="da">Lykken kan ligge i en Pind</title>
+                    <title xml:lang="en" id="Irons">Good Fortune can Lie in a Stick</title>
+                  <date when="1869-04-01">April 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lykken-kan-ligge-i-en-pind_modern</idno>
+                  <idno type="SV">lykken-kan-ligge-i-en-pind</idno><!--_1872-->
+                    <idno type="ironsEdition">181_Good-Fortune-can-Lie-in-a-Stick</idno>
+                  <idno type="image">Lykken_kan_ligge_i_en_Pind_hca_ill_0146.png</idno>
+                  <desc>
+                     <p>Luck May Lie in a Pin (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="149">
+                      <num>183</num>
+                      <title xml:lang="da">Kometen</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Comet</title>
+                      <date when="1869-06-01">June 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">kometen_modern</idno>
+                  <idno type="SV">kometen</idno><!--_1872-->
+                      <idno type="ironsEdition">183_The-Comet</idno>
+                      <idno type="image">Kometen_hca_ill_0149.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="150">
+                      <num>177</num>
+                      <title xml:lang="da">Ugedagene</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Days of the Week</title>
+                      <date when="1868-11-01">November 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">ugedagene_modern</idno>
+                  <idno type="SV">ugedagene</idno><!--_1872-->
+                      <idno type="ironsEdition">177_The-Days-of-the-Week</idno>
+                      <idno type="image">Ugedagene_hca_ill_0152.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="151">
+                      <num>182</num>
+                      <title xml:lang="da">Solskins-Historier</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">Sunshine Stories</title>
+                      <date when="1869-05-01">May 1869</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">solskins-historier_modern</idno>
+                  <idno type="SV">solskins-historier</idno><!--_1872-->
+                      <idno type="ironsEdition">182_Sunshine-Stories</idno>
+                      <idno type="image">Solskins-Historier-02_2022-03-14.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 
+               <item n="152">
+                  <num>189</num>
+                  <title xml:lang="da">Oldefa'er</title>
+                  <title xml:lang="en" id="Irons">Great-Grandpa</title>
+                  <date when="1870-08-01">August 1870</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">oldefaer_modern</idno>
+                  <idno type="SV">oldefaer</idno><!--_1872-->
+                  <idno type="ironsEdition">189_Great-Grandpa</idno>
+                  <idno type="image">Oldefaer_hca_ill_0153.png</idno>
+                  <desc>
+                     <p>Great-Grandfather (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="153">
+                      <num>176</num>
+                      <title xml:lang="da">Hvem var den Lykkeligste?</title>
+                      <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Who was the Happiest?</title>
+                      <date when="1868-07-26">26 July 1868</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvem-var-den-lykkeligste_modern</idno>
+                  <idno type="SV">hvem-var-den-lykkeligste</idno><!--_1872-->
+                      <idno type="ironsEdition">176_Who-was-the-Happiest</idno>
+                      <idno type="image">Hvem_var_den_Lykkeligste_hca_ill_0155.png</idno>
+                      <desc>
+                           <p>Which Was the Happiest? (minor variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="154">
+                      <num>188</num>
+                      <title xml:lang="da">Lysene</title>
+                      <title xml:lang="en" id="Irons" type="sameAsHersholt">The Candles</title>
+                      <date when="1870-07-01">July 1870</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">lysene_modern</idno>
+                  <idno type="SV">lysene</idno><!--_1872-->
+                      <idno type="ironsEdition">188_The-Candles</idno>
+                      <idno type="image">Lysene_hca_ill_0156.png</idno>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="155">
+                  <num>190</num>
+                  <title xml:lang="da">Det Utroligste</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">The Most Incredible Thing</title>
+                  <date when="1870-09-01">September 1870</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">det-utroligste_modern</idno>
+                  <idno type="SV">det-utroligste</idno><!--_1872-->
+                  <idno type="ironsEdition">190_The-Most-Incredible-Thing</idno>
+                  <idno type="image">Det_Utroligste_hca_ill_0157.png</idno>
+                  <desc>
+                     <p>The Most Incredible Thing (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="156">
+                      <num>187</num>
+                      <title xml:lang="da">Hvad hele Familien sagde</title>
+                      <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">What the Whole Family Said</title>
+                      <!--TJEK-->
+                      <date when="1870-07-01">1 July 1870</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvad-hele-familien-sagde_modern</idno>
+                  <idno type="SV">hvad-hele-familien-sagde</idno><!--_1872-->
+                      <idno type="ironsEdition">187_What-the-Whole-Family-Said</idno>
+                      <idno type="image">Hvad_hele_Familien_sagde_hca_ill_0158.png</idno>
+                      <desc>
+                           <p>What the Whole Family Said (minor variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               
+               <item n="157">
+                  <num>193</num>
+                  <title xml:lang="da">"Dandse, dandse Dukke min!"</title>
+                  <title xml:lang="en" id="Irons">`Dance Now, Dance Now, Doll of Mine!´</title>
+                  <date when="1871-11-15">15 November 1871</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">dandse-dandse-dukke-min_modern</idno>
+                  <idno type="SV">dandse-dandse-dukke-min</idno><!--_1872-->
+                  <idno type="ironsEdition">193_Dance-now-Dance-now-Doll-of-Mine</idno>
+                  <idno type="image">Dandse_dandse_Dukke_min_01_2022-03-09.png</idno>
+                  <desc>
+                     <p>Dance, Dance, Doll of Mine! (Major variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+                 <item n="158">
+                      <num>192</num>
+                      <title xml:lang="da">"Spørg Amagermo'er!"</title>
+                      <title xml:lang="en" id="Irons">‘Ask the Market-Dame!’</title>
+                      <!--Brothers, Very Far Away and Other Poems. Translated by Paula Hostrup-Jessen. Edited and with an Afterword by Sven H. Rossel. Mermaid Press, Seattle 1991-->
+                      <date when="1871-10-01">1 October 1871</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">spoerg-amagermoer_modern</idno>
+                  <idno type="SV">spoerg-amagermoer</idno><!--_1872-->
+                      <idno type="ironsEdition">192_Ask-the-Market-Dame</idno>
+                      <idno type="image">Spoerg-Amagermoer_01_2022-03-14.png</idno>
+                      <desc>
+                           <p>Ask Old Mother Tot! (There was a carrot so fat and old) (Major variance between the title translated by Jean Hersholt 1949).</p>
+                      </desc>
+                 <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="159">
+                  <num>194</num>
+                  <title xml:lang="da">Den store Søslange</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Great Sea Serpent</title>
+                  <date when="1871-12-17">17 December 1871</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">den-store-soeslange_modern</idno>
+                  <idno type="SV">den-store-soeslange</idno><!--_1872-->
+                  <idno type="ironsEdition">194_The-Great-Sea-Serpent</idno>
+                  <idno type="image">Den_store_Soeslange_hca_ill_0159.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="160">
+                  <num>195</num>
+                  <title xml:lang="da">Gartneren og Herskabet</title>
+                  <title xml:lang="en" id="Irons">The Gardener and the Noble Family</title>
+                  <date when="1872-03-30">30 March 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">gartneren-og-herskabet_modern</idno>
+                  <idno type="SV">gartneren-og-herskabet</idno><!--_1872-->
+                  <idno type="ironsEdition">195_The-Gardener-and-the-Noble-Family</idno>
+                  <idno type="image">Gartneren_og_Herskabet_hca_ill_0160.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="161">
+                  <num>196</num>
+                  <title xml:lang="da">Hvad gamle Johanne fortalte</title>
+                    <title xml:lang="en" id="Irons">What Old Johanne Related</title>
+                  <date when="1872-11-23">23 November 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">hvad-gamle-johanne-fortalte_modern</idno>
+                  <idno type="SV">hvad-gamle-johanne-fortalte</idno><!--_1872-->
+                    <idno type="ironsEdition">196_What-Old-Johanne-Related</idno>
+                  <idno type="image">Hvad_gamle_Johanne_fortalte_hca_ill_0177.png</idno>
+                  <desc>
+                     <p>What Old Johanne Told (Minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="162">
+                  <num>197</num>
+                  <title xml:lang="da">Portnøglen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Gate Key</title>
+                  <date when="1872-11-23">23 November 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">portnoeglen_modern</idno>
+                  <idno type="SV">portnoeglen</idno><!--_1872-->
+                  <idno type="ironsEdition">197_The-Gate-Key</idno>
+                  <idno type="image">Portnoeglen_hca_ill_0163.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="163">
+                  <num>198</num>
+                  <title xml:lang="da">Krøblingen</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Cripple</title>
+                  <date when="1872-11-23">23 November 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">kroeblingen_modern</idno>
+                  <idno type="SV">kroeblingen</idno><!--_1872-->
+                  <idno type="ironsEdition">198_The-Cripple</idno>
+                  <idno type="image">Kroeblingen_hca_ill_0165.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="164">
+                  <num>199</num>
+                  <title xml:lang="da">Tante Tandpine</title>
+                  <title xml:lang="en" id="Irons" type="nearlySameAsHersholt">Auntie Toothache</title>
+                  <date when="1872-11-23">23 November 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">tante-tandpine_modern</idno>
+                  <idno type="SV">tante-tandpine</idno><!--_1872-->
+                  <idno type="ironsEdition">199_Auntie-Toothache</idno>
+                  <idno type="image">Tante_Tandpine_forside.png</idno>
+                  <desc>
+                     <p>Aunty Toothache (minor variance between the title translated by Jean Hersholt 1949).</p>
+                  </desc>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+               <item n="165">
+                  <num>200</num>
+                  <title xml:lang="da">Loppen og Professoren</title>
+                  <title xml:lang="en" id="Irons" type="sameAsHersholt">The Flea and the Professor</title>
+                  <date when="1872-12-01">December 1872</date>
+                    <catRef target="#tale"/>
+                  <idno type="modernDanish">loppen-og-professoren_modern</idno>
+                  <idno type="SV">loppen-og-professoren</idno><!--_1873-->
+                  <idno type="ironsEdition">200_The-Flea-and-the-Professor</idno>
+                  <idno type="image">Loppen_og_Professoren_01_2022-03-09.png</idno>
+               <ref type="prefix">https://hcams.andersen.sdu.dk/exist/apps/sv/api/document/works%252F</ref>
+                           <ref type="suffix-xml">/xml</ref>
+                           <ref type="suffix-html">/html</ref>
+                           <ref type="suffix-pdf">/pdf</ref>
+                           <ref type="suffix-epub">/pdf</ref>
+                      </item>
+
+<!--bind 3 SLUT-->
+<!--bind 4 START-->
+</list></TEI>

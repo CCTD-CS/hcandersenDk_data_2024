@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/relax-ng-compact-syntax" href="https://beta.auh.sdu.dk/pmm-skema/sv18.rnc"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="da" xml:space="preserve">
+
+                         
+                              <teiHeader>
+                                   <fileDesc>
+                                        <titleStmt>
+                                             <title>Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning Maria Sophia Frederikas høie Fødselsdag den 28de October 1838</title>
+                                             <author ref="http://viaf.org/viaf/4925902">H.C. Andersen</author>
+                                             
+                                             <editor role="data">Dan H. Andreasen</editor>
+                                             <editor role="data">Holger Berg</editor>
+                                        </titleStmt>
+                                        <publicationStmt>
+                                             <publisher>Museum Odense and The Hans Christian Andersen Center, University of Southern Denmark, Odense, Denmark</publisher>
+                                             <availability>
+            <p type="cc-by" target="https://creativecommons.org/licenses/by/4.0/">Creative Commons, Attribution 4.0 International (CC BY 4.0)</p>
+                 <p>Draft, not for public accession</p>
+            </availability>
+                                             <idno type="version1.0">1.0</idno>
+                                             <date>2024-04-01</date>
+                                             
+                                        </publicationStmt>
+                                        <sourceDesc>
+                                             <listBibl>
+                                                  <bibl>
+                                                             
+          
+      </bibl>
+                                                  <biblStruct>
+                                                  <monogr>
+                                                       <title level="m">ANDERSEN: H.C. Andersens Samlede Værker</title>
+                                                       <editor ref="http://viaf.org/viaf/4925902">
+                                                            <publisher>Det Danske Sprog- og Litteraturselskab</publisher>
+                                                            <persName>
+                                                                 <forename>Klaus</forename>
+                                                                 <forename full="init">P.</forename>
+                                                                 <surname>Mortensen</surname>
+                                                            </persName>
+                                                            </editor>
+                                                            <imprint>
+                                                                 <pubPlace>København</pubPlace>
+                                                                 <publisher>Gyldendal</publisher>
+                                                                 <date>2003-2007</date>
+                                                                 <idno type="ISBN">87-02-01991-4</idno>
+                                                            </imprint>
+                                                       <biblScope unit="volume">:<hi rend="italic"/></biblScope>
+                                                       <date when=""/>
+                                                  </monogr>
+                                             </biblStruct></listBibl>
+                                             <notesStmt>
+                                                  
+                                                       <note xml:id="thisFile" target="sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838" type="originalDanish">dansk førsteudgave</note>
+                                                       
+                                                  
+                                                                                                    
+                                             </notesStmt>
+                                        </sourceDesc>
+                                        <encodingDesc>
+                                             <taxonomy xml:id="tax.Mortensen">
+                                                  <bibl>
+                                                       <title>ANDERSEN. H.C. Andersens Samlede Værker</title>
+                                                       <editor>Klaus P. Mortensen</editor>
+                                                       <edition>2003-2008</edition>
+                                                  </bibl>
+                                                  <category xml:id="tale">
+                                                       <catDesc xml:lang="da">eventyr og historier</catDesc>
+                                                       <catDesc xml:lang="en">fairy tales and stories</catDesc>
+                                                  </category>
+                                                  <category xml:id="novel">
+                                                       <catDesc xml:lang="da">romaner</catDesc>
+                                                       <catDesc xml:lang="en">novels</catDesc>
+                                                  </category>
+                                                  <category xml:id="poem">
+                                                       <catDesc xml:lang="da">digte</catDesc>
+                                                       <catDesc xml:lang="en">poems</catDesc>
+                                                  </category>
+                                                  <category xml:id="mix">
+                                                       <catDesc xml:lang="da">blandinger</catDesc>
+                                                       <catDesc xml:lang="en">genre mixes</catDesc>
+                                                  </category>
+                                                  <category xml:id="play">
+                                                       <catDesc xml:lang="da">skuespil</catDesc>
+                                                       <catDesc xml:lang="en">plays</catDesc>
+                                                  </category>
+                                                  <category xml:id="travelAccount">
+                                                       <catDesc xml:lang="da">rejseberetninger</catDesc>
+                                                       <catDesc xml:lang="en">travel accounts</catDesc>
+                                                  </category>
+                                                  <category xml:id="autobiography">
+                                                       <catDesc xml:lang="da">selvbiografier</catDesc>
+                                                       <catDesc xml:lang="en">autobiographies</catDesc>
+                                                  </category>
+                                             </taxonomy>︎    
+                                        </encodingDesc>
+                                        <xenoData>
+
+<floatingTextsRankedAsWorks>
+                                                  
+                                                            <separateWork>
+                                                                 <title>Før Talen</title>
+                                                            <catRef scheme="#tax.Mortensen" target="poem"/>
+                                                                 <section>
+
+sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838/#foer-talen</section>
+                                                                 <date>1838</date>
+                                                       </separateWork>
+
+                                                            <separateWork>
+                                                                 <title>Efter Talen</title>
+                                                            <catRef scheme="#tax.Mortensen" target="poem"/>
+                                                                 <section>
+
+sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838/#efter-talen</section>
+                                                                 <date>1838</date>
+                                                       </separateWork>
+
+
+
+                                                            <separateWork>
+                                                                 <title>Der er langt mere Fryd end Sorg</title>
+                                                            <catRef scheme="#tax.Mortensen" target="poem"/>
+                                                                 <section>sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838/#der-er-langt-mere-fryd-end-sorg</section>
+                                                                 <date>1838</date>
+                                                       </separateWork>
+                                                            <separateWork>
+                                                                 <title>Tys, til Løvfald ringer</title>
+                                                            <catRef scheme="#tax.Mortensen" target="poem"/>
+                                                                 <section>sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838/#tys-til-loevfald-ringer</section>
+                                                                 <date>1838</date>
+                                                       </separateWork>
+                                                  
+                                             </floatingTextsRankedAsWorks>
+</xenoData>
+                                   </fileDesc>
+                                   <profileDesc>
+                                        <creation>
+                                             <date>1838</date>
+                                        </creation>
+                                        <textClass>
+                                             <catRef scheme="#tax.Mortensen" target="poem"/>
+                                             
+                                             <keywords scheme="addLinkToControlledVocabulary">
+                                                  
+                                             </keywords>
+                                        </textClass>
+                                        
+                                             <table type="TOC">
+                                                  <row>
+                                                       
+                                                            <cell ref="#foer-talen">Før Talen</cell>
+                                                       
+                                                            <cell ref="#efter-talen">Efter Talen</cell>
+                                                       
+                                                  </row>
+                                             </table>
+                                             
+                                        
+                                   </profileDesc>
+                                   <revisionDesc>
+                                        <change when="2023-06-08" xml:id="NHB" who="NHB">docx2xml</change><change when="2023-06-08" who="NHB">formatted</change><change who="NHB" when="2023-06-23" status="draft">gennemset indtil 10333: 
+               Hr. Mickel i Odense</change><change who="NHB" when="2023-06-25" status="draft">indsat sourceDate. Endnu ikke well-formet</change><change who="NHB" when="2023-06-25" status="draft">wellformet</change><change who="NHB" when="2023-06-25" status="draft">sourceDate og div struktur kontrolleret indtil Phantasier og Skizzer</change><change who="NHB" when="2023-10-27" status="draft">overordnet værkstruktur etableret i works</change><change who="NHB" when="2023-11-03" status="draft">citater m.v. kodet indtil s. 205. Mangler systematiske ændringer og manuelt gennemsyn fra og med 1823</change><change who="NHB" when="2023-11-07" status="draft">indtil s. 315</change><change who="NHB" when="2023-11-08" status="draft">til s. 333</change><change who="NHB" when="2023-11-13" status="draft">autoindsat subtype=firstline</change><change who="NHB" when="2023-11-13" status="draft">gennemset struktur i kommentarer indtil side 178</change><change who="NHB" when="2023-11-17" status="draft">struktur indtil 474</change><change who="NHB" when="2023-11-19" status="draft">gennemset opmærkning indtil s. 66</change><change who="NHB" when="2023-11-24" status="draft">indtil s. 92</change><change who="NHB" when="2023-11-28" status="draft">gennemset indtil s. 344</change><change who="NHB" when="2023-11-30" status="draft">indtil Februar, s. 378</change><change who="NHB" when="2023-12-02" status="draft">til s. 436</change><change who="NHB" when="2023-12-21" status="draft">indsat seg comStart</change><change who="NHB" when="2024-06-14" status="draft">batch changes rend attributes for elements l and stage with stylesheet: resetRendAttributeLetAl.xsl</change>
+                                        <change who="NHB" when="2024-06-26">extracted from larger file with entire volume</change>
+                                   </revisionDesc>
+                              </teiHeader>
+                              
+                                                  
+                         
+                         <text type="print">
+                              <body>
+                                   <div type="work" subtype="poem" rendition="verse" rend="Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning Maria Sophia Frederikas høie Fødselsdag den 28de October 1838" xml:id="sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838">
+<pb n="542"/>
+<head type="main">Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning <seg target="txtcmnt-542-01"><!--DATA-TERM: Maria Sophia Frederikas--><!--DATA-DEFINITION: Marie Sophie Frederikke, Frederik 6.s dronning.-->Maria Sophia Frederikas</seg> høie Fødselsdag den 28<hi rend="raised">de</hi> October 1838</head>
+<div type="workPart" rend="Før Talen" xml:id="foer-talen" subtype="poem" rendition="verse">
+<head type="section" rendition="1838">Før Talen</head>
+<head type="melody"><hi rend="italic">Mel. <seg target="txtcmnt-542-02"><!--DATA-TERM: Allene Gud i Himmerig--><!--DATA-DEFINITION: græsk salme, formentlig af Hilarius af Poitiers fra omkring 350 (dansk 1522-1525), med musik af V. Schumann, 1539.-->Allene Gud i Himmerig.</seg></hi></head>
+<lg xml:id="p_01365">
+<l rend="noIndent" subtype="firstline" corresp="Der er langt mere Fryd end Sorg" rendition="der-er-langt-mere-fryd-end-sorg">Der er langt mere Fryd end Sorg</l>
+<l rend="noIndent">Paa denne Verdens Klode:</l>
+<l rend="noIndent"><seg target="txtcmnt-542-03"><!--DATA-TERM: Vor Gud han er saa fast en Borg--><!--DATA-DEFINITION: Luthers salme »Ein feste Burg is unser Gott«, 1528 (dansk »WOr Gud han er saa sterck en Borg«, 1533), med melodi af J. Klug, 1533.-->Vor Gud han er saa fast en Borg</seg>,</l>
+<l rend="noIndent">Og Menneskene gode.</l>
+<l rend="noIndent">Hos Alle, det er vist og sandt,</l>
+<l rend="noIndent">Vort eget Hjerte vi gjenfandt,</l>
+<l rend="noIndent">Naar ret vi dem forstode.</l>
+</lg>
+<lg xml:id="p_01366">
+<l rend="noIndent">Fra Moder i vort lille Hjem</l>
+<l rend="noIndent">Og op til vor Fyrstinde,</l>
+<l rend="noIndent">Et kjærligt Hjerte lyste frem,</l>
+<l rend="noIndent">Der lod os Omhu finde.</l>
+<l rend="noIndent">I Barndoms Aar, skjøndt fattig’ født,</l>
+<l rend="noIndent">Os Moder-Pleie ømt har mødt;</l>
+<l rend="noIndent">Det glemmes ingensinde.</l>
+</lg></div>
+                              
+<div type="workPart" rend="Efter Talen" xml:id="efter-talen" subtype="poem" rendition="verse">
+<head type="section" rendition="1838">Efter Talen</head>
+<head type="melody"><hi rend="italic">Mel. <seg target="txtcmnt-542-04"><!--DATA-TERM: Brødre, hvorfor flyde Taarer--><!--DATA-DEFINITION: »Brødre! hvorfor flyde«, førstelinje af K.L. Rahbeks fordanskede vise »Trøst mod mangeslags Taare. Efter Overbeck« fra <i>Viser og Sange af Hr. Capelmester Schulz udgivne med danske Texter af K. L. Rahbek</i>, 1792.-->Brødre, hvorfor flyde Taarer</seg></hi><hi rend="italic"> –</hi></head>
+<lg xml:id="p_01367">
+<l rend="noIndent" subtype="firstline" corresp="Tys, til Løvfald ringer" rendition="tys-til-loevfald-ringer">Tys, til Løvfald ringer</l>
+<l rend="noIndent">Aarets Sol-Nedgang;</l>
+<l rend="noIndent">Alvors-Ordet klinger</l>
+<l rend="noIndent">I Naturens Sang:</l>
+<l rend="noIndent">Duftede Violen?</l>
+<l rend="noIndent">Modned’ Frugten rød?</l>
+<l rend="noIndent">Derfor varmed’ Solen,</l>
+<l rend="noIndent">Derfor Duggen flød.</l>
+</lg>
+<pb n="543"/>
+<lg xml:id="p_01368">
+<l rend="noIndent">Pleie har vi fundet,</l>
+<l rend="noIndent">Mildhed kun vi saae,</l>
+<l rend="noIndent">Lys og Støtte vundet</l>
+<l rend="noIndent">Have vi, som Faa.</l>
+<l rend="noIndent">O! saa godt det trøster:</l>
+<l rend="noIndent">Selv Fyrstinden kom</l>
+<l rend="noIndent">Som en Moder, Søster</l>
+<l rend="noIndent">Til vor Fattigdom.</l>
+</lg>
+<lg xml:id="p_01369">
+<l rend="noIndent">Dufte skal Violen,</l>
+<l rend="noIndent">Frugten modnes rød,</l>
+<l rend="noIndent">Styrkende var Solen,</l>
+<l rend="noIndent">Mildheds Duggen flød.</l>
+<l rend="noIndent">Lad til Løvfald ringe</l>
+<l rend="noIndent">Livets Sol-Nedgang,</l>
+<l rend="noIndent">End, som nu, skal klinge</l>
+<l rend="noIndent">Hjertets Takkesang.</l>
+</lg>
+<pb n="544"/>
+</div>
+                              
+</div>
+                              </body>
+                         </text>
+                         <standOff>
+                              <listAnnotation>
+                                   
+                                   
+
+
+<div type="work-comments" rend="Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning Maria Sophia Frederikas høie Fødselsdag den 28de October 1838" synch="sange-ved-det-soesterlige-velgjoerenheds-selskabs-hoeitidelige-forsamling-i-anledning-af-hendes-majestaet-dronning-maria-sophia-frederikas-hoeie-foedselsdag-den-28de-october-1838">
+<pb n="676"/>
+<head type="section-comments">Sange ved det Søsterlige Velgjørenheds Selskabs høitidelige Forsamling i Anledning af Hendes Majestæt Dronning Maria Sophia Frederikas høie Fødselsdag den 28<hi rend="raised">de</hi> October 1838</head>
+<p rend="noIndent">Først kendte tryk: lejlighedstryk. BFN 332-333</p>
+<table rend="textcomments">
+<cell type="page">542</cell><row xml:id="txtcmnt-542-01"><cell type="data-term">Maria Sophia Frederikas</cell><cell type="data-definition">Marie Sophie Frederikke, Frederik 6.s dronning.</cell></row><row xml:id="txtcmnt-542-02"><cell type="data-term">Allene Gud i Himmerig</cell><cell type="data-definition">græsk salme, formentlig af Hilarius af Poitiers fra omkring 350 (dansk 1522-1525), med musik af V. Schumann, 1539.</cell></row><row xml:id="txtcmnt-542-03"><cell type="data-term">Vor Gud han er saa fast en Borg</cell><cell type="data-definition">Luthers salme »Ein feste Burg is unser Gott«, 1528 (dansk »WOr Gud han er saa sterck en Borg«, 1533), med melodi af J. Klug, 1533.</cell></row><row xml:id="txtcmnt-542-04"><cell type="data-term">Brødre, hvorfor flyde Taarer</cell><cell type="data-definition">»Brødre! hvorfor flyde«, førstelinje af K.L. Rahbeks fordanskede vise »Trøst mod mangeslags Taare. Efter Overbeck« fra <hi rend="italic">Viser og Sange af Hr. Capelmester Schulz udgivne med danske Texter af K. L. Rahbek</hi>, 1792.</cell></row>
+</table>
+</div>
+                                   
+                              </listAnnotation>
+                         </standOff>
+                    </TEI>

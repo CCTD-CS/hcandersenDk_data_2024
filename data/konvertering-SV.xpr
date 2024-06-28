@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="følgende-til-john-irons_1*_*, 2*_*, 3*_*, 4*_*, 5*_*, 6*_*, 7*_*, 8*_*, 9*_*" filePatterns="*_modern*" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="konvertering-SV.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>
